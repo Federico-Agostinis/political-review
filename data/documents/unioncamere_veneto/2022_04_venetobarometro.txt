@@ -1,0 +1,382 @@
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+2022
+1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim.
+IMPRESE (fonte: Infocamere)
+Imprese registrate (n.) 485.453 486.750 487.408 486.736 481.896 483.761 484.714 484.083 480.012 480.995 481.700 479.692 478.587 480.326 481.251 479.437 478.307
+var.% t-4 -0,1 -0,2 -0,3 -0,3 -0,7 -0,6 -0,6 -0,5 -0,4 -0,6 -0,6 -0,9 -0,3 -0,1 -0,1 -0,1 -0,1 
+var.% t-1 -0,6 0,3 0,1 -0,1 -1,0 0,4 0,2 -0,1 -0,8 0,2 0,1 -0,4 -0,2 0,4 0,2 -0,4 -0,2 
+Imprese attive (n.) 432.110 433.814 434.281 432.970 429.654 431.460 432.033 430.266 427.216 428.778 429.330 427.517 427.257 429.682 431.053 429.779 429.718
+var.% t-4 -0,2 -0,3 -0,3 -0,3 -0,6 -0,5 -0,5 -0,6 -0,6 -0,6 -0,6 -0,6 0,0 0,2 0,4 0,5 0,6
+var.% t-1 -0,5 0,4 0,1 -0,3 -0,8 0,4 0,1 -0,4 -0,7 0,4 0,1 -0,4 -0,1 0,6 0,3 -0,3 -0,0 
+Fallimenti e concordati (n. aperture) 211 230 201 260 265 235 202 296 187 94 171 265 212 227 136 175 138
+var.% t-4 -18,5 -9,8 -15,5 -1,9 25,6 2,2 0,5 13,8 -29,4 -60,0 -15,3 -10,5 13,4 141,5 -20,5 -34,0 -34,9 
+var.% t-1 -20,4 9,0 -12,6 29,4 1,9 -11,3 -14,0 46,5 -36,8 -49,7 81,9 55,0 -20,0 7,1 -40,1 28,7 -21,1 
+Scioglimenti e liquidazioni  (n. aperture) 2.362 1.081 1.165 3.005 2.198 1.113 1.231 2.929 2.380 643 1.064 2.806 1.783 891 1.040 3.197 1.632
+var.% t-4 5,8 0,9 -10,0 8,2 -6,9 3,0 5,7 -2,5 8,3 -42,2 -13,6 -4,2 -25,1 38,6 -2,3 13,9 -8,5 
+var.% t-1 -14,9 -54,2 7,8 157,9 -26,9 -49,4 10,6 137,9 -18,7 -73,0 65,5 163,7 -36,5 -50,0 16,7 207,4 -49,0 
+LAVORO (fonte: Istat, Inps)
+Occupati (mgl) 2.125 2.152 2.122 2.096 2.150 2.171 2.145 2.149 2.143 2.058 2.059 2.042 2.017 2.090 2.075 2.140
+var.% t-4 0,9 0,7 -0,3 -1,6 1,2 0,9 1,1 2,5 -0,4 -5,2 -4,0 -4,9 -5,9 1,6 0,8 4,8
+var.% t-1 -0,3 1,3 -1,4 -1,2 2,6 1,0 -1,2 0,2 -0,3 -3,9 0,0 -0,8 -1,3 3,6 -0,7 3,1
+Cassa integrazione (mgl ore) 5.803 4.982 2.584 5.011 3.375 4.764 3.257 5.363 6.983 193.784 82.391 61.322 57.319 55.400 24.558 17.383 11.328
+var.% t-4 -40,5 -40,8 -53,0 11,7 -41,8 -4,4 26,0 7,0 106,9 3.967,7    2430,0 1043,5 720,9 -71,4 -70,2 -71,7 -80,2 
+var.% t-1 29,3 -14,2 -48,1 93,9 -32,6 41,1 -31,6 64,7 30,2 2.675,2    -57,5 -25,6 -6,5 -3,3 -55,7 -29,2 -34,8 
+Tasso di attività 15-64 anni (%) 71,5 71,4 70,9 71,2 71,9 72,1 70,9 71,7 71,0 67,8 69,5 69,2 67,4 69,6 69,4 71,3
+Tasso di occupazione 15-64 anni (%) 66,4 67,1 66,9 65,8 67,4 67,9 67,3 67,5 67,2 64,5 64,7 64,3 63,5 66,2 65,7 67,4
+Tasso di disoccupazione (%) 7,0 5,9 5,5 7,4 6,2 5,6 5,1 5,6 5,2 4,8 6,8 6,9 5,8 4,8 5,3 5,3
+SCAMBI CON L'ESTERO (fonte: Istat)
+Esportazioni (mln euro) (b) 15.584 16.232 15.435 16.384 15.857 16.620 15.751 16.915 15.262 12.370 15.528 17.021 16.030 18.064 17.151 19.007
+var.% t-4 4,0 2,7 3,7 2,9 1,7 2,4 2,0 3,2 -3,7 -25,6 -1,4 0,6 5,0 46,0 10,5 11,7
+var.% t-1 -2,1 4,2 -4,9 6,1 -3,2 4,8 -5,2 7,4 -9,8 -18,9 25,5 9,6 -5,8 12,7 -5,1 10,8
+Importazioni (mln euro) (b) 12.392 12.582 11.400 12.359 12.706 12.260 11.406 11.514 11.486 8.564 10.046 11.391 12.167 13.333 12.970 14.833
+var.% t-4 5,9 5,6 2,4 8,3 2,5 -2,6 0,1 -6,8 -9,6 -30,2 -11,9 -1,1 5,9 55,7 29,1 30,2
+var.% t-1 8,6 1,5 -9,4 8,4 2,8 -3,5 -7,0 0,9 -0,2 -25,4 17,3 13,4 6,8 9,6 -2,7 14,4
+Saldo comm. (mln euro) (b) 3.192 3.650 4.034 4.025 3.151 4.360 4.345 5.401 3.776 3.807 5.482 5.630 3.863 4.731 4.181 4.173
+var.ass. t-4 -86 -242 283 -476 -41 710 310 1.376 625 -553 1.137 229 87 924 -1.301 -1.456 
+var.ass. t-1 -1.309 458 385 -10 -874 1.209 -15 1.056 -1.625 30 1.675 148 -1.766 868 -550 -8 
+COMMERCIO (fonte: Istat, Unrae)
+Prezzi al consumo (NIC) (c) 0,7 0,9 1,6 1,3 0,8 0,8 0,3 0,3 0,4 -0,3 -1,0 -0,4 0,3 1,1 2,2 3,7
+Immatricolazioni auto 41.365 38.559 30.530 37.923 42.999 40.035 31.976 35.785 25.347 18.779 31.038 59.225 34.544 31.476 22.381 22.646 25.539
+var.% t-4 -2,2 6,7 -5,1 4,1 4,0 3,8 4,7 -5,6 -41,1 -53,1 -2,9 65,5 36,3 67,6 -27,9 -61,8 -26,1 
+var.% t-1 13,6 -6,8 -20,8 24,2 13,4 -6,9 -20,1 11,9 -29,2 -25,9 65,3 90,8 -41,7 -8,9 -28,9 1,2 12,8
+TURISMO (fonte: Regione del Veneto)
+Arrivi turistici (mgl) (d) 2.739 5.987 7.715 3.122 2.660 6.166 8.047 3.322 1.646 699 4.717 799 493 873 6.731 2.305
+var.% t-4 11,7 2,1 -0,8 1,4 -2,9 3,0 4,3 6,4 -38,1 -88,7 -41,4 -76,0 -70,0 24,8 42,7 188,6
+Presenze turistiche (mgl) (d) 6.893 19.457 34.872 8.007 6.716 20.248 35.772 8.501 4.668 2.724 22.247 2.854 1.827 607 33.455 6.672
+var.% t-4 10,0 0,8 -2,6 2,6 -2,6 4,1 2,6 6,2 -30,5 -86,5 -37,8 -66,4 -60,9 -77,7 50,4 133,8
+Barometro dell'economia regionale 
+serie storiche trimestrali
+20212019 2020
+INDICATORI (a)
+2018
+n.4/2022
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+                                          
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+2022
+1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim. 2°trim. 3°trim. 4°trim. 1°trim.
+Barometro dell'economia regionale 
+serie storiche trimestrali
+20212019 2020
+INDICATORI (a)
+2018
+n.4/2022
+MERCATO IMMOBILIARE (fonte: Agenzia Entrate)
+Compravendite immobili residenziali 11.489 14.533 12.747 15.728 12.795 14.934 13.359      16.404      10.835      11.726 13.714 17.194 15.237 18.683 16.204 19.431
+var.% t-4 7,1 10,3 12,8 10,0 11,4 2,8 4,8 4,3 -15,3 -21,5 2,7 4,8 40,6 59,3 18,2 13,0
+var.% t-1 -19,7 26,5 -12,3 23,4 -18,7 16,7 -10,5 22,8 -33,9 8,2 17,0 25,4 -11,4 22,6 -13,3 19,9
+CREDITO (fonte: Banca d'Italia)
+Prestiti bancari (mld euro) 129,3 125,9 124,4 121,9 120,7 121,0 120,3 118,9 119,8 122,2 124,1 123,5 124,9 125,4 125,1 125,3
+var.% t-4 1,2 0,9 1,4 1,1 -0,1 0,1 0,4 0,3 1,2 2,9 4,5 5,4 5,6 4,2 2,4
+di cui: imprese 83,1 79,9 78,3 75,8 74,4 74,3 73,3 71,7 72,7 75,0 76,5 75,1 76,1 75,9 74,9 74,6
+var.% t-4 0,4 -0,3 0,3 -0,2 -2,2 -2,0 -1,4 -1,6 0,3 3,5 6,0 7,5 7,1 4,1 1,3 1,0
+Tasso di deterioramento (e) 2,6 2,3 2,3 1,9 1,8 2,0 2,0 1,9 1,9 1,9 1,9 1,6 1,5 1,2 1,1 1,2
+di cui: famiglie 46,2 46,0 46,1 46,1 46,3 46,7 47,1 47,1 47,1 47,2 47,6 48,4 48,8 49,5 50,1 50,7
+var.% t-4 2,9 3,1 3,0 2,9 3,3 3,2 3,4 3,7 2,8 2,1 2,2 2,1 3,1 4,3 4,4 4,5
+Tasso di deterioramento (e) 1,4 1,3 1,2 1,0 0,9 0,9 0,9 0,8 0,9 0,8 0,8 0,8 0,8 0,8 0,8 0,8
+Depositi bancari (mld euro) 120,3 123,2 122,5 122,6 124,4 126,8 126,9 129,7 131,0 135,1 139,5 145,7 147,0 150,3 152,6 158,0
+var.% t-4 7,2 8,7 4,0 2,0 3,1 2,7 3,3 5,5 5,4 6,6 9,9 12,3 12,3 11,3 9,5
+ INDUSTRIA MANIFATTURIERA (f) (fonte: Unioncamere Veneto)
+Produzione
+var.% t-4 3,2 4,0 3,2 2,2 1,5 1,6 1,7 0,3 -7,6 -22,4 -2,4 -2,1 12,0 34,1 8,7 11,5
+var.% t-1 -0,8 6,2 -4,7 5,7 -0,3 4,4 -5,2 5,3 -8,9 -16,3 16,1 7,3 2,7 8,7 -4,7 7,9
+Fatturato
+var.% t-4 3,5 4,8 4,0 3,2 2,3 2,8 0,9 0,2 -7,5 -23,6 -3,7 -2,4 12,0 37,5 10,7 17,9
+var.% t-1 -1,2 5,4 -3,7 5,2 -2,0 4,8 -4,6 7,8 -8,6 -15,1 16,7 8,1 0,7 11,2 -1,9 12,7
+Ordini interni
+var.% t-4 3,4 3,9 2,1 1,5 0,3 2,0 1,3 0,9 -8,0 -22,9 -2,0 -1,4 10,3 30,7 11,8 15,7
+var.% t-1 1,6 3,7 -4,8 5,5 -0,3 2,8 -5,0 7,4 -8,7 -16,2 9,9 6,0 5,3 10,7 -0,1 12,2
+Ordini esteri
+var.% t-4 3,9 5,7 0,6 0,5 2,0 0,5 0,7 0,8 -5,7 -24,7 -2,7 -2,9 9,3 37,5 14,3 10,1
+var.% t-1 4,5 4,3 -5,4 1,0 2,9 -0,0 -2,0 3,0 -2,9 -20,7 16,3 2,3 7,4 11,1 2,9 10,5
+ COSTRUZIONI (g) (fonte: Unioncamere Veneto)
+Fatturato
+var.% t-4 0,1 0,6 0,5 0,9 0,2 0,7 -3,9 -14,7 0,4 -1,6 1,2 2,5 3,5 11,5
+var.% t-1 0,2 0,7 0,3 0,5 0,4 0,5 -4,1 -12,4 6,8 -0,6 0,5 3,0 2,8 7,9
+Prezzi alla produzione
+var.% t-4 1,7 1,7 1,9 1,7 1,9 2,2 0,7 0,2 1,3 2,2 3,9 15,1 14,3 25,5
+var.% t-1 1,6 1,7 1,9 1,7 1,8 1,9 0,6 0,6 1,2 1,5 3,7 13,0 12,4 23,8
+Ordini
+var.% t-4 0,1 0,7 0,7 0,9 0,6 0,4 -1,9 -11,9 0,0 -0,9 1,7 4,1 4,1 11,9
+var.% t-1 0,4 0,6 0,6 0,7 0,3 0,3 -2,4 -11,5 2,9 -0,2 1,6 3,0 3,7 8,8
+Occupazione
+var.% t-4 -0,2 0,3 -0,1 -0,3 0,7 -0,8 -1,1 -1,3 -1,0 -0,2 1,2 0,9 0,9 1,6
+var.% t-1 0,2 0,3 0,4 0,5 -0,4 0,1 -0,3 0,5 1,1 -1,7 1,6 2,1 0,7 -0,5 
+a) t-4 indica le variazioni percentuali rispetto al corrispondente periodo dell'anno precedente; t-1 indica le variazioni percentuali rispetto al periodo precedente.
+b) Per il 2020 i dati sono definitivi, per il 2021 i dati sono provvisori.
+c) Da gennaio 2016 l'Istat diffonde gli indici con base 2015=100. Al momento quindi non è possibile il confronto con i trimestri precedenti.
+d) Per il 2021 i dati sono provvisori.
+e) È dato dal rapporto tra i flussi trimestrali dei nuovi prestiti deteriorati rettificati (default rettificato) in rapporto ai prestiti non deteriorati rettificati alla fine del periodo precedente. 
+f) Dati riferiti alle imprese manifatturiere con almeno 10 addetti.
+g) Dati riferiti alle imprese delle costruzioni con almeno un dipendente. L'indagine per il primo ed il secondo trimestre 2018 è stata effettuata semestralmente.
+Per informazioni, chiarimenti, comunicare con la redazione, segnalare errori, inviare una mail a centrostudi@ven.camcom.it
+0,3
+-0,2 
+0,4
+0,1
+1,8
+1,5
+0,7
+0,5
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+INDICATORI 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+POPOLAZIONE (fonte: Istat)
+Popolazione residente 4.863.372 4.879.606 4.887.328 4.901.415 4.905.712 4.902.694 4.890.648 4.883.373 4.880.936 4.884.590 4.879.133 4.852.453
+var.% a/a 0,4 0,3 0,2 0,3 0,1 -0,1 -0,2 -0,1 -0,0 0,1 -0,1 -0,5 
+Popolazione residente straniera 451.085 465.718 475.302 496.292 503.057 497.258 481.890 467.409 468.447 481.916 485.972 483.972
+var.% a/a 4,3 3,2 2,1 4,4 1,4 -1,2 -3,1 -3,0 0,2 2,9 0,8 -0,4 
+PIL (fonte: Istat)
+var.% t-1
+PIL (mln euro - prezzi dell'anno prec.) 137.970 143.458 145.753 143.603 144.422 146.381 149.935 153.897 159.514 161.444 164.705 150.335
+var.% a/a -3,5 4,0 1,6 -1,5 0,6 1,4 2,4 2,6 3,7 1,2 2,0 -8,7 
+PIL (mln euro - val. conc. al 2015) 150.117 152.809 155.259 150.236 148.841 149.432 151.154 153.897 157.251 158.375 159.641 144.221
+var.% a/a -5,6 1,8 1,6 -3,2 -0,9 0,4 1,2 1,8 2,2 0,7 0,8 -9,7 
+PIL (mln euro - val. corr.) 140.931 143.453 148.404 145.776 145.802 148.227 151.154 156.112 160.299 163.398 166.408 152.341
+var.% a/a -3,5 1,8 3,5 -1,8 0,0 1,7 2,0 3,3 2,7 1,9 1,8 -8,5 
+PIL pro capite (euro - val. corr.) 29.004 29.427 30.355 29.719 29.631 30.083 30.714 31.786 32.672 33.464 34.087 31.253
+var.% a/a -4,2 1,5 3,2 -2,1 -0,3 1,5 2,1 3,5 2,8 2,4 1,9 -8,3 
+IMPRESE (fonte: Infocamere)
+Imprese registrate 506.006 506.453 505.467 500.011 493.176 490.302 490.207 488.897 488.226 486.736 484.083 479.692 479.437
+var.% a/a -0,7 0,1 -0,2 -1,1 -1,4 -0,6 -0,0 -0,3 -0,1 -0,3 -0,5 -0,9 -0,1 
+Imprese attive 458.352 457.225 455.927 450.299 442.278 439.307 437.130 434.994 434.373 432.970 430.266 427.517 429.779
+var.% a/a -0,9 -0,2 -0,3 -1,2 -1,8 -0,7 -0,5 -0,5 -0,1 -0,3 -0,6 -0,6 0,5
+Fallimenti e concordati 1.091 1.418 1.332 1.175 1.398 1.456 1.474 1.212 1.017 902 998 717 750
+var.% a/a 30,5 30,0 -6,1 -11,8 19,0 4,1 1,2 -17,8 -16,1 -11,3 10,6 -28,2 4,6
+Scioglimenti e liquidazioni 8.187 7.429 7.465 8.025 8.712 8.197 7.721 8.086 7.374 7.613 7.471 6.893 6.911
+var.% a/a 1,9 -9,3 0,5 7,5 8,6 -5,9 -5,8 4,7 -8,8 3,2 -1,9 -7,7 0,3
+LAVORO (fonte: Istat, Inps)
+Occupati (mgl) 2.086 2.082 2.101 2.100 2.043 2.065 2.052 2.081 2.126 2.096 2.149 2.042 2.140
+var.% a/a -2,6 -0,2 0,9 -0,0 -2,7 1,1 -0,7 1,4 2,1 -1,4 2,5 -4,9 4,8
+Cassa integrazione (mgl ore) 81.227 124.523 87.165 104.295 109.247 83.795 57.881 53.427 28.154 18.381 16.759 344.480 154.660
+var.% a/a 394,1 53,3 -30,0 19,7 4,7 -23,3 -30,9 -7,7 -47,3 -34,7 -8,8 1955,5 -55,1 
+Tasso di attività 15-64 anni 67,8 68,3 68,3 69,4 68,3 69,0 68,6 69,5 70,6 71,2 71,6 69,4 69,4
+Tasso di occupazione 15-64 anni 64,6 64,4 64,9 64,9 63,1 63,7 63,6 64,7 66,0 66,6 67,5 65,2 65,7
+Tasso di disoccupazione 4,7 5,7 4,9 6,4 7,6 7,5 7,1 6,8 6,3 6,5 5,6 5,9 5,3
+SCAMBI CON L'ESTERO (fonte: Istat)
+Esportazioni (mln euro) 39.239 45.613 50.318 51.178 52.683 54.597 57.517 58.246 61.581 63.635 65.142 59.812 70.252
+var.% a/a -21,5 16,2 10,3 1,7 2,9 3,6 5,3 1,3 5,7 3,3 2,4 -8,2 17,5
+Importazioni (mln euro) 30.624 38.321 40.737 37.586 38.853 39.578 42.308 41.789 46.158 48.734 47.886 41.478 53.304
+var.% a/a -22,5 25,1 6,3 -7,7 3,4 1,9 6,9 -1,2 10,5 5,6 -1,7 -13,4 28,5
+Saldo commerciale (mln euro) 8.615 7.293 9.581 13.592 13.830 15.019 15.209 16.457 15.422 14.901 17.256 18.335 16.949
+var. ass. a/a -1.896 -1.323 2.288 4.011 238 1.189 190 1.248 -1.035 -521 2.355 1.079 -1.386 
+TURISMO (fonte: Regione del Veneto)
+Arrivi turistici (mln) 13,9 14,6 15,8 15,9 16,0 16,3 17,3 17,9 19,2 19,6 20,2 7,9 11,9
+var.% a/a -1,3 4,6 8,1 1,1 0,3 1,7 6,1 3,5 7,4 2,0 3,2 -61,1 50,8
+Presenze turistiche (mln) 60,4 60,8 63,4 62,6 61,5 61,9 63,3 65,4 69,2 69,2 71,2 32,5 50,6
+var.% a/a -0,3 0,6 4,2 -1,2 -1,8 0,5 2,3 3,4 5,8 0,1 2,9 -54,4 55,8
+                     Barometro dell'economia regionale
+                  serie storiche annuali 
+n.4/2022
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+INDICATORI 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+                     Barometro dell'economia regionale
+                  serie storiche annuali 
+n.4/2022
+COMMERCIO (fonte: Istat, Unrae)
+Prezzi al consumo (NIC) 0,3 1,4 2,4 2,9 1,0 0,0 -0,1 0,0 1,2 1,2 0,5 -0,4 1,9
+Immatricolazioni auto 166.248 151.823 134.846 107.752 100.875 105.122 121.207 143.252 146.994 148.377 150.795 109.042 111.047
+var.% a/a -0,1 -8,7 -11,2 -20,1 -6,4 4,2 15,3 18,2 2,6 0,9 1,6 -27,7 1,8
+MERCATO IMMOBILIARE (fonte: Agenzia Entrate)
+Compravendite immobili residenziali 51.453 51.944 47.725 34.538 31.840 33.750 38.046 47.003 49.516 54.498 57.492 53.470 69.555
+var.% a/a -11,7 1,0 -8,1 -27,6 -7,8 6,0 12,7 23,5 5,3 10,1 5,5 -7,0 30,1
+CREDITO (fonte: Banca d'Italia)
+Prestiti bancari (mld euro) 151,6 147,9 143,3 141,7 140,2 136,2 128,0 121,9 118,9 123,5 125,3
+var.% t-4 3,7 -1,6 -2,0 -1,5 -1,2 -1,3 0,4 1,2 0,2 3,5
+di cui: imprese 106,3 102,9 98,7 97,3 93,9 89,2 82,0 75,8 71,7 75,1 74,6
+var.% t-4 -2,7 -2,7 -1,9 -2,1 -2,8 -0,8 0,1 -1,8 4,3 3,4
+Tasso di deterioramento 5,9 7,4 5,4 6,5 7,6 8,9 6,7 4,5 3,7 2,3 1,9 1,6 1,2
+di cui: famiglie 45,2 45,0 44,6 44,4 46,3 47,0 46,0 46,1 47,1 48,4 50,7
+var.% t-4 1,0 -0,5 -0,4 0,7 2,0 2,8 3,0 3,4 2,3 4,1
+Tasso di deterioramento 3,4 3,2 2,7 2,8 3,0 2,4 2,7 2,9 1,9 1,2 0,9 0,8 0,8
+Depositi bancari (mld euro) 87,4 92,4 95,4 99,5 105,2 113,4 120,2 122,6 129,7 145,7 158,0
+var.% t-4 1,0 4,5 4,8 3,6 5,3 6,4 6,9 5,5 3,7 12,3
+Per informazioni, chiarimenti, comunicare con la redazione, segnalare errori, inviare una mail a centrostudi@ven.camcom.it
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+FONTI 2021 2022 2023 2024 2025
+PIL Area euro
+Commissione UE (a) 5,3 4,0 2,7 - -
+Banca Centrale Europea (b) 5,4 3,7 2,8 1,6 -
+Ref. (c) 5,2 3,7 2,5 - -
+OECD (d) 5,2 4,3 2,5 - -
+FMI (e) 5,3 2,8 2,3 - -
+ISTAT (f) 4,3 4,4 - - -
+Italia
+ISTAT (f) 6,3 4,7 - - -
+Governo (g) 6,6 2,9 2,3 1,8 1,5 
+Commissione UE (a) 6,5 4,1 2,3 - -
+Banca d'Italia (h) 6,3 3,8 2,5 1,7 -
+Ref. (c) 6,3 3,7 2,7 - -
+Confindustria (i) 6,6 1,9 1,6 - -
+OECD (d) 6,3 4,6 2,6 - -
+FMI (e) 6,6 2,3 1,7 - -
+Prometeia (l) 6,6 2,2 2,5 1,9 1,7
+PIL Nord est
+Prometeia (l) 7,2 2,3 2,7 2,1 1,8
+PIL Veneto
+Prometeia (l) 7,2 2,4 2,7 2,2 1,9
+(a) European Commission. Winter Economic Forecast (10 febbraio 2022)
+(c) Ref. Ricerche. Congiuntura REF (gennaio 2022)
+(d) OECD. Economic Outlook (dicembre 2021)
+(e) FMI. World Economic Outlook (aprile 2022)
+(f) Istat. Le prospettive per l'economia italiana nel 2021-2022 (dicembre 2021)
+(g) MEF. Documento di Economia e Finanza 2022 (6 aprile 2022)
+(h) Banca d’Italia. Bollettino economico n.1 (gennaio 2022)  
+(i) Centro Studi Confindustria. L'economia italiana alla prova del conflitto in Ucraina (2 aprile 2022)
+( - ) dato non disponibile 
+Per informazioni, chiarimenti, comunicare con la redazione, segnalare errori, inviare una mail a centrostudi@ven.camcom.it
+(b) Eurostystem staff macroeconomic projections for the euro area (marzo 2022)
+                           Barometro dell'economia regionale
+                     Previsioni PIL Area Euro, Italia, Nord est e Veneto 
+(l) Prometeia. Scenari per le economie locali. Previsioni (aprile 2022)
+n.4/2022
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+INDICATORI Anno Piemonte Lombardia Toscana Emilia Rom. Trentino A.A. Friuli V.G. Veneto Nord Est Italia
+IMPRESE (fonte: Infocamere)
+Imprese registrate (n.) 2021 428.476 952.492 408.533 451.242 111.378 100.443 479.437 1.142.500 6.067.466
+% su Italia 7,1 15,7 6,7 7,4 1,8 1,7 7,9 18,8 100,0
+Imprese attive (n.) 2021 382.184 814.756 350.347 400.680 103.481 88.673 429.779 1.022.613 5.164.831
+% su Italia 7,4 15,8 6,8 7,8 2,0 1,7 8,3 19,8 100,0
+LAVORO (fonte: Istat, Inps)
+Occupati (mgl) 2021 1.795 4.418 1.589 1.962 502 521 2.140 5.124 22.924
+% su Italia 7,8 19,3 6,9 8,6 2,2 2,3 9,3 22,3 100,0
+Cassa Integrazione (mgl ore) 2021 159.310 387.117 109.449 134.013 16.458 34.530 154.660 339.661 1.790.682
+% su Italia 8,9 21,6 6,1 7,5 0,9 1,9 8,6 19,0 100,0
+Tasso di attività 15-64 anni 2021 70,3 70,7 71,1 72,5 72,1 71,5 69,4 71,1 64,5
+Tasso di occupazione 15-64 anni 2021 65,0 66,5 65,6 68,5 69,0 67,4 65,7 67,2 58,2
+Tasso di disoccupazione 2021 7,3 5,9 7,6 5,5 4,3 5,7 5,3 5,3 9,5
+Imprese per 100 abitanti 2020 10,0 9,6 11,1 10,2 10,3 8,4 9,9 9,9 10,2
+POPOLAZIONE (fonte: Istat)
+Pop. residente al 31/12 (migliaia) 2020 4.273 9.967 3.668 4.446 1.078 1.199 4.852 11.575 59.258
+% su Italia 7,2 16,8 6,2 7,5 1,8 2,0 8,2 19,5 100,0
+PIL (fonte: Istat)
+PIL (mln euro - prezzi dell'anno prec.) 2020 124.896 363.801 110.167 147.672 43.272 36.336 150.335 377.615 1.634.493
+% su Italia 7,6 22,3 6,7 9,0 2,6 2,2 9,2 23,1 100,0
+PIL (mln euro - val. conc. al 2015) 2020 120.562 351.707 105.379 142.644 41.427 34.735 144.221 363.038 1.573.153
+% su Italia 7,7 22,4 6,7 9,1 2,6 2,2 9,2 23,1 100,0
+PIL (mln euro - val. corr.) 2020 126.375 367.167 111.606 149.633 43.822 36.814 152.341 382.610 1.653.577
+% su Italia 7,6 22,2 6,7 9,0 2,7 2,2 9,2 23,1 100,0
+PIL pro capite (euro - val. corr.) 2020 29.437 36.700 30.223 33.614 40.666 30.579 31.253 32.962 27.820
+n.i. Italia=100 105,8 131,9 108,6 120,8 146,2 109,9 112,3 118,5 100,0
+COMMERCIO ESTERO (fonte: Istat)
+Esportazioni (mln euro) 2021 49.574 135.883 47.720 72.440 10.168 18.140 70.252 171.001 516.262
+% su Italia 9,6 26,3 9,2 14,0 2,0 3,5 13,6 33,1 100,0
+Importazioni (mln euro) 2021 35.102 149.894 29.816 42.484 8.262 9.375 53.304 113.424 466.008
+% su Italia 7,5 32,2 6,4 9,1 1,8 2,0 11,4 24,3 100,0
+Saldo commerciale (mln euro) 2021 14.472 -14.011 17.904 29.957 1.906 8.765 16.949 57.577 50.253
+Barometro dell'economia regionale
+regioni italiane e confronto
+Per informazioni, chiarimenti, comunicare con la redazione, segnalare errori, inviare una mail a centrostudi@ven.camcom.it
+n.4/2022
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+Ultimo aggiornamento: venerdì 29 aprile 2022 (in giallo i dati aggiornati e/o revisionati)
+INDICATORI Anno Baden-W. Bayern Cataluña Île de F. Lombardia Veneto Emilia-R. Stockholm
+LAVORO (fonte: Eurostat)
+Occupati (mgl) 2020 5.669 6.776 3.297 5.369 4.289 2.054 1.924 1.226
+Tasso di attività (a) 2020 81,3 84,0 79,2 81,9 69,9 76,9 76,4 91,0
+Tasso di occupazione (a) 2020 78,7 79,9 65,8 67,7 66,9 65,9 68,8 78,3
+Tasso di disoccupazione 2020 3,4 2,6 12,6 8,2 5,0 5,8 5,7 7,6
+POPOLAZIONE (fonte: Eurostat)
+Pop. residente al 31/12 (mgl) 2020 11.103 13.140 7.671 12.349 9.982 4.870 4.439 2.392
+PIL (fonte: Eurostat)
+(h) OECD Economic Outlook (settembre 2017).
+PIL (mln euro - pps) 2020 458.431 557.954 226.787 652.399 367.946 152.920 150.355 122.984
+PIL (mln euro - val. corr.) 2020 506.543 616.511 212.931 710.091 365.515 151.910 149.361 153.558
+PIL pro capite (euro - pps) 2020 41.289 42.462 29.563 52.832 36.863 31.402 33.872 51.415
+COMMERCIO ESTERO (fonti varie)
+Esportazioni (mln euro) 2018 203.099 191.745 71.649 84.366 127.061 63.312 63.427 30.022
+Importazioni (mln euro) 2018 177.558 179.760 90.765 138.304 133.861 48.558 36.375 45.987
+Saldo commerciale (mln euro) (b) 2018 25.541 11.985 -19.116 -53.938 -6.800 14.754 27.052 -15.965
+a) Riferito alla classe di età 15 e 64 anni.
+Per informazioni, chiarimenti, comunicare con la redazione, segnalare errori, inviare una mail a centrostudi@ven.camcom.it
+b) I dati per la regione Ile de France e South East non sono aggiornati, anno di riferimento 2016, per Beyern e Stckholm 2017.
+                Barometro dell'economia regionale
+              regioni europee e confronto 
+n.4/2022
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
+
+GLOSSARIO 
+Indicatore Definizione
+Arrivi turistici Numero di clienti, italiani e stranieri, ospitati negli esercizi ricettivi (alberghieri o complementari) 
+nel periodo considerato.
+Cassa integrazione Numero di ore di cassa integrazione guadagni autorizzate per lavoratori sospesi o che lavorano 
+ad orario ridotto presso aziende in momentanea difficoltà produttiva. Il dato è ottenuto come 
+somma delle ore di cassa integrazione guadagni ordinaria (CIG ordinaria), straordinaria (CIGS) e 
+in deroga (CIGD). 
+Esportazioni Valore monetario dei trasferimenti di beni e di servizi da operatori residenti a operatori non 
+residenti. Le esportazioni di beni includono tutti i beni (nazionali o nazionalizzati, nuovi o usati) 
+che, a titolo oneroso o gratuito, escono dal territorio economico del Paese per essere destinati al 
+Resto del mondo.
+Immatricolazioni auto Numero di autoveicoli immatricolati nel pubblico registro automobilistico (PRA).
+Importazioni Valore monetario degli acquisti all'estero di beni e di servizi, introdotti nel territorio nazionale. Le 
+importazioni di beni comprendono tutti i beni (nuovi o usati) che, a titolo oneroso o gratuito, 
+entrano nel territorio economico del Paese e che provengono dal Resto del mondo. 
+Imprese attive Numero di imprese registrate che risultano avere almeno un'attività economica in esercizio e non 
+avere procedure concorsuali o di liquidazione nel periodo considerato.
+Imprese registrate Numero di imprese non cessate presenti nel Registro Imprese nel periodo considerato: imprese 
+attive, inattive, sospese, in liquidazione e/o con procedure concorsuali.
+Occupati Numero di persone di 15 anni e più che dichiara: di possedere un'occupazione, anche se nel 
+periodo di riferimento non ha svolto attività lavorativa (occupato dichiarato); di essere in una 
+condizione diversa da occupato, ma di aver effettuato ore di lavoro nel periodo di riferimento 
+(altra persona con attività lavorativa).
+Presenze turistiche Numero di pernottamenti trascorsi dai clienti negli esercizi ricettivi.
+Prezzi al consumo (NIC) Variazione dei prezzi che si formano nelle transazioni relative a beni e servizi scambiati tra gli 
+operatori economici ed i consumatori privati finali.
+Fallimenti e concordati Numero di procedimenti aperti per le imprese in situazione di: fallimento, liquidazione coatta 
+amministrativa, amministrazione giudiziaria, amministrazione controllata e amministrazione 
+straordinaria, concordato preventivo e concordato fallimentare, bancarotta semplice e 
+bancarotta fraudolenta, stato di insolvenza e accordi di ristrutturazione dei debiti.
+Saldo commerciale Differenza in valore monetario tra le esportazioni e le importazioni.
+Scioglimenti e liquidazioni Numero di procedimenti aperti per le imprese in situazione di: liquidazione, liquidazione 
+volontaria, liquidazione giudiziaria, scioglimento, scioglimento senza messa in liquidazione, 
+scioglimento e liquidazione, scioglimento per atto dell’Autorità.
+Tasso di attività Rapporto tra le persone appartenenti alle forze di lavoro e la popolazione di 15 anni e più.
+Tasso di disoccupazione Rapporto tra le persone in cerca di occupazione e le forze di lavoro.
+Tasso di occupazione 15-64 anni Rapporto tra il numero di persone occupate in età lavorativa (15-64 anni) e la popolazione della 
+stessa fascia di età.
+Variazione congiunturale Variazione rispetto al periodo precedente (es. trimestre t rispetto al trimestre t-1 dell'anno in 
+corso).
+Variazione tendenziale Variazione rispetto al corrispondente periodo dell'anno precedente (es. trimestre t dell'anno in 
+corso rispetto al trimestre t dell'anno precedente).
+Unioncamere Veneto
+Area Studi e Ricerche
+www.unioncamereveneto.it
+www.venetocongiuntura.it
+twitter@Venetocong
