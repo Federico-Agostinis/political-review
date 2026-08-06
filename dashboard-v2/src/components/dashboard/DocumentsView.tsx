@@ -26,6 +26,10 @@ const DOC_TYPE_LABELS: Record<DocumentType, string> = {
     odg: 'Ordine del giorno',
     delibere_approvate: 'Delibere approvate',
     verbale: 'Verbale',
+    report_economico: 'Report economico',
+    comunicato_industria: 'Comunicato industria',
+    decreto_presidente: 'Decreto del Presidente',
+    ordinanza: 'Ordinanza',
 };
 
 const DOC_TYPE_STYLES: Record<DocumentType, string> = {
@@ -34,6 +38,10 @@ const DOC_TYPE_STYLES: Record<DocumentType, string> = {
     odg: 'bg-amber-500/15 text-amber-400 border-amber-500/30',
     delibere_approvate: 'bg-emerald-500/15 text-emerald-400 border-emerald-500/30',
     verbale: 'bg-violet-500/15 text-violet-400 border-violet-500/30',
+    report_economico: 'bg-teal-500/15 text-teal-400 border-teal-500/30',
+    comunicato_industria: 'bg-indigo-500/15 text-indigo-400 border-indigo-500/30',
+    decreto_presidente: 'bg-rose-500/15 text-rose-400 border-rose-500/30',
+    ordinanza: 'bg-orange-500/15 text-orange-400 border-orange-500/30',
 };
 
 const formatDate = (value: string) =>
@@ -79,9 +87,11 @@ export const DocumentsView: React.FC = () => {
         [filtered, selectedHash]
     );
 
-    const bySource = useMemo(() => getDistributionData(documents, 'source', 6), [documents]);
+    // Il tetto deve restare >= al numero di enti e di doc_type, altrimenti i
+    // grafici tagliano via una fonte senza dirlo.
+    const bySource = useMemo(() => getDistributionData(documents, 'source', 10), [documents]);
     const byType = useMemo(() => {
-        const raw = getDistributionData(documents, 'doc_type', 6);
+        const raw = getDistributionData(documents, 'doc_type', 10);
         return {
             ...raw,
             labels: raw.labels.map(l => DOC_TYPE_LABELS[l as DocumentType] ?? l),
@@ -204,16 +214,37 @@ export const DocumentsView: React.FC = () => {
                                         {filtered.map(doc => {
                                             const isActive = selected?.content_hash === doc.content_hash;
                                             return (
-                                                <button
+                                                <div
                                                     key={doc.content_hash}
+                                                    role="button"
+                                                    tabIndex={0}
                                                     onClick={() => { setSelectedHash(doc.content_hash); setShowText(false); }}
-                                                    className={`w-full text-left p-4 transition-all border-l-4 ${isActive ? 'border-accent bg-accent/5' : 'border-transparent hover:bg-white/[0.02]'}`}
+                                                    onKeyDown={e => {
+                                                        if (e.key === 'Enter' || e.key === ' ') {
+                                                            e.preventDefault();
+                                                            setSelectedHash(doc.content_hash);
+                                                            setShowText(false);
+                                                        }
+                                                    }}
+                                                    className={`w-full text-left p-4 transition-all border-l-4 cursor-pointer ${isActive ? 'border-accent bg-accent/5' : 'border-transparent hover:bg-white/[0.02]'}`}
                                                 >
                                                     <div className="flex items-center justify-between gap-2 mb-2">
-                                                        <span className={`text-[9px] font-black uppercase tracking-wider px-1.5 py-0.5 rounded border ${DOC_TYPE_STYLES[doc.doc_type]}`}>
+                                                        <span className={`text-[9px] font-black uppercase tracking-wider px-1.5 py-0.5 rounded border ${DOC_TYPE_STYLES[doc.doc_type] ?? ''}`}>
                                                             {DOC_TYPE_LABELS[doc.doc_type] ?? doc.doc_type}
                                                         </span>
-                                                        <span className="text-[10px] text-text-muted">{formatDate(doc.date)}</span>
+                                                        <div className="flex items-center gap-2">
+                                                            <span className="text-[10px] text-text-muted">{formatDate(doc.date)}</span>
+                                                            <a
+                                                                href={doc.link}
+                                                                target="_blank"
+                                                                rel="noreferrer"
+                                                                onClick={e => e.stopPropagation()}
+                                                                title="Apri PDF originale"
+                                                                className="text-text-muted hover:text-accent transition-colors"
+                                                            >
+                                                                <ExternalLink size={12} />
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                     <h4 className="text-sm font-bold text-text-main leading-tight line-clamp-3">{doc.title}</h4>
                                                     <div className="flex items-center gap-2 mt-2">
@@ -222,7 +253,7 @@ export const DocumentsView: React.FC = () => {
                                                             <span className="text-[8px] font-black uppercase text-amber-400/80">• in attesa AI</span>
                                                         )}
                                                     </div>
-                                                </button>
+                                                </div>
                                             );
                                         })}
                                     </div>

@@ -1,11 +1,19 @@
-// Documenti istituzionali (Veneto Lavoro, Consiglio comunale di Padova).
+// Documenti istituzionali (Veneto Lavoro, Consiglio comunale di Padova,
+// Unioncamere del Veneto, Confindustria Veneto Est, Banca d'Italia,
+// Provincia di Padova).
 // Prodotti da scripts/docs_scraper.py + scripts/enrich_docs.py.
+// Ogni valore aggiunto qui va mappato anche in DOC_TYPE_LABELS e
+// DOC_TYPE_STYLES (DocumentsView.tsx) e in PROMPTS/PROFILES (enrich_docs.py).
 export type DocumentType =
     | 'bollettino'
     | 'misure'
     | 'odg'
     | 'delibere_approvate'
-    | 'verbale';
+    | 'verbale'
+    | 'report_economico'
+    | 'comunicato_industria'
+    | 'decreto_presidente'
+    | 'ordinanza';
 
 export interface DocumentFigure {
     label: string;

@@ -49,6 +49,12 @@ PROFILES = {
     "odg":                {"max_chars": 25000,  "max_output_tokens": 4096},
     "delibere_approvate": {"max_chars": 25000,  "max_output_tokens": 4096},
     "verbale":            {"max_chars": 400000, "max_output_tokens": 8192},
+    # I rapporti annuali di Banca d'Italia sono ~100 pagine: servono piu' input
+    # e piu' spazio in uscita per le figures.
+    "report_economico":   {"max_chars": 120000, "max_output_tokens": 4096},
+    "comunicato_industria": {"max_chars": 25000, "max_output_tokens": 2048},
+    "decreto_presidente": {"max_chars": 25000,  "max_output_tokens": 2048},
+    "ordinanza":          {"max_chars": 25000,  "max_output_tokens": 2048},
 }
 DEFAULT_PROFILE = {"max_chars": 25000, "max_output_tokens": 2048}
 
@@ -107,12 +113,51 @@ In "interventions" raggruppa per oratore e argomento: un elemento per ogni inter
 DOCUMENTO ({title}):
 {text}"""
 
+PROMPT_REPORT_ECONOMICO = """Sei un analista economico. Analizza questo documento di analisi congiunturale sull'economia del Veneto (Unioncamere, Banca d'Italia o Confindustria).
+
+{rules}
+
+Schema richiesto:
+{{
+  "summary": "sintesi esecutiva di 3-5 frasi sul quadro economico descritto",
+  "key_points": ["3-6 punti chiave, uno per stringa"],
+  "figures": [{{"label": "nome dell'indicatore", "value": "valore con unità di misura", "note": "contesto o variazione, opzionale"}}],
+  "entities": {{"people": ["persone citate, se rilevanti"], "organizations": ["enti, associazioni e imprese citate"], "locations": ["province e territori citati"]}}
+}}
+
+In "figures" riporta i dati quantitativi salienti: produzione industriale, export, PIL, fatturato, occupazione, credito, variazioni percentuali e settori più rilevanti. Massimo 8 voci.
+
+DOCUMENTO ({title}):
+{text}"""
+
+PROMPT_ATTO_PROVINCIA = """Sei un analista di politica locale. Analizza questo atto della Provincia di Padova (decreto del Presidente o ordinanza) pubblicato all'albo pretorio.
+
+{rules}
+
+Schema richiesto:
+{{
+  "summary": "sintesi di 2-4 frasi su cosa dispone l'atto e perché",
+  "key_points": ["2-5 punti chiave su effetti pratici e destinatari del provvedimento"],
+  "decisions": [{{"numero": "numero dell'atto, se presente", "oggetto": "oggetto del provvedimento", "proponente": "settore o dirigente proponente", "esito": "quanto viene disposto o approvato"}}],
+  "entities": {{"people": ["amministratori e dirigenti citati"], "organizations": ["enti e imprese coinvolte"], "locations": ["comuni e strade provinciali citati"]}}
+}}
+
+DOCUMENTO ({title}):
+{text}"""
+
 PROMPTS = {
     "bollettino": PROMPT_BOLLETTINO,
     "misure": PROMPT_BOLLETTINO,
     "odg": PROMPT_DELIBERE,
     "delibere_approvate": PROMPT_DELIBERE,
     "verbale": PROMPT_VERBALE,
+    # Un doc_type assente da questa mappa viene saltato ma resta summary=None:
+    # rientrerebbe nella coda pending a ogni run, bruciando il budget --limit
+    # senza mai riuscire. Ogni nuovo doc_type va aggiunto qui.
+    "report_economico": PROMPT_REPORT_ECONOMICO,
+    "comunicato_industria": PROMPT_REPORT_ECONOMICO,
+    "decreto_presidente": PROMPT_ATTO_PROVINCIA,
+    "ordinanza": PROMPT_ATTO_PROVINCIA,
 }
 
 

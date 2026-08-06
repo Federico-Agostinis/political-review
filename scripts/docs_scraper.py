@@ -1,11 +1,23 @@
 """
-Raccolta documenti istituzionali (PDF) e estrazione del testo.
+Raccolta documenti istituzionali e estrazione del testo.
 
-Due sorgenti, due strategie:
+Sei sorgenti, cinque strategie:
   - "liferay"       -> Osservatorio Veneto Lavoro (HTML server-rendered, accordion)
   - "padova_jsonapi"-> Comune di Padova, pagina "Lavori del Consiglio comunale"
                        (il sito e' una SPA Angular senza SSR: si passa dalla
                         JSON:API Drupal /api/entity?path=...)
+  - "wp_rest"       -> Unioncamere del Veneto e Confindustria Veneto Est, entrambi
+                       WordPress con REST API aperta. Confindustria espone il suo
+                       backend headless su content.confindustriavenest.it (il sito
+                       pubblico e' una SPA Nuxt, inservibile).
+  - "bankitalia"    -> Banca d'Italia, "L'economia del Veneto": URL deterministico
+                       per anno, nessun HTML da parsare.
+  - "albo_padova"   -> Provincia di Padova, albo pretorio (lista -> dettaglio -> PDF)
+
+Il testo di un documento arriva per due vie alternative:
+  - PDF scaricato ed estratto (extract_pdf_text), il caso normale;
+  - testo gia' presente nella risposta API (write_inline_text), usato per i
+    comunicati Confindustria, che sono HTML e non hanno alcun PDF allegato.
 
 Scrive data/documents_index.json e il testo estratto in data/documents/<source_id>/<slug>.txt.
 I PDF vengono scaricati in una directory temporanea e mai lasciati nel repo:
@@ -16,6 +28,7 @@ Fail-safe: ogni sorgente e' isolata, una fonte morta non fa fallire il run.
 
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -70,6 +83,67 @@ SOURCES = [
         "strategy": "padova_jsonapi",
         "url": "https://www.comune.padova.it/api/entity?path=/lavori-del-consiglio-comunale-{year}",
         "page_url": "https://www.comune.padova.it/lavori-del-consiglio-comunale-{year}",
+    },
+    {
+        "source_id": "unioncamere_veneto",
+        "collana": "Barometro dell'economia regionale",
+        "doc_type": "report_economico",
+        "source": "Unioncamere del Veneto",
+        "topic": "Economia",
+        "zone": "Veneto",
+        "strategy": "wp_rest",
+        "content_kind": "pdf",
+        "url": "https://www.unioncamereveneto.it/wp-json/wp/v2/posts",
+        # 640 = categoria "statistiche": Barometro mensile e indagini congiunturali.
+        "wp_params": {"categories": 640},
+        "max_pages": 2,
+    },
+    {
+        "source_id": "confindustria_veneto_est",
+        "collana": "Comunicati stampa",
+        "doc_type": "comunicato_industria",
+        "source": "Confindustria Veneto Est",
+        "topic": "Industria",
+        "zone": "Veneto orientale",
+        "strategy": "wp_rest",
+        # I comunicati non allegano PDF: il testo sta nel corpo del post.
+        "content_kind": "html",
+        "url": "https://content.confindustriavenest.it/wp-json/wp/v2/comunicatostampa",
+        "wp_params": {},
+        # 2 pagine = ~100 comunicati, poco piu' di un anno. Con 4 pagine si
+        # arriverebbe a 200, cioe' l'intero MAX_DOCUMENTS_PER_SOURCE: i comunicati
+        # sono la fonte meno densa e da soli sbilancerebbero l'indice.
+        "max_pages": 2,
+        "public_url": "https://www.confindustriavenest.it/stampa-e-media/comunicati-stampa/{slug}",
+    },
+    {
+        "source_id": "banca_italia",
+        "collana": "Economie regionali — L'economia del Veneto",
+        "doc_type": "report_economico",
+        "source": "Banca d'Italia",
+        "topic": "Economia",
+        "zone": "Veneto",
+        "strategy": "bankitalia",
+        # Il Veneto e' sempre il n. 5 della collana, pubblicato a giugno.
+        "url": "https://www.bancaditalia.it/pubblicazioni/economie-regionali/{year}/{year}-0005/{yy}05-veneto.pdf",
+        "page_url": "https://www.bancaditalia.it/pubblicazioni/economie-regionali/{year}/{year}-0005/index.html",
+    },
+    {
+        "source_id": "provincia_padova",
+        "collana": "Albo pretorio",
+        "source": "Provincia di Padova",
+        "topic": "Politica locale",
+        "zone": "Padova",
+        "strategy": "albo_padova",
+        "url": "https://attiweb.provincia.padova.it/AlboOnline/ricercaAlbo",
+        "max_pages": 4,
+        # Etichette come compaiono in lista (nel menu a tendina sono diverse:
+        # li' le ordinanze sono "ORDINANZE"). Tutto il resto e' rumore
+        # tecnico-contabile: le determine dirigenziali da sole sono meta' dell'albo.
+        "tipi": {
+            "DECRETO PRESIDENTE": "decreto_presidente",
+            "OD ORDINANZA DIRIGENTE": "ordinanza",
+        },
     },
 ]
 
@@ -267,6 +341,196 @@ def fetch_padova(source: dict, backfill_years: int) -> list:
     return found
 
 
+def _clean_html(fragment: str) -> str:
+    """Testo leggibile da un frammento HTML di WordPress."""
+    return BeautifulSoup(fragment or "", "html.parser").get_text(" ", strip=True)
+
+
+def fetch_wp_rest(source: dict) -> list:
+    """WordPress REST API, usata da Unioncamere del Veneto e Confindustria Veneto Est.
+
+    Due modalita', decise da "content_kind":
+      - "pdf"  -> i PDF sono linkati nel corpo del post (Unioncamere)
+      - "html" -> il post *e'* il documento, non c'e' nessun PDF (Confindustria)
+    """
+    found = []
+    kind = source.get("content_kind", "pdf")
+
+    for page in range(1, source.get("max_pages", 2) + 1):
+        params = {
+            "per_page": 50,
+            "page": page,
+            "orderby": "date",
+            "order": "desc",
+            "_fields": "id,date,link,slug,title,content",
+            **source.get("wp_params", {}),
+        }
+        resp = requests.get(source["url"], params=params, headers=HEADERS, timeout=TIMEOUT)
+        # Oltre l'ultima pagina WordPress risponde 400, non una lista vuota.
+        if resp.status_code == 400:
+            break
+        resp.raise_for_status()
+        posts = resp.json()
+        if not posts:
+            break
+
+        for post in posts:
+            title = html.unescape(_clean_html(post.get("title", {}).get("rendered", ""))) or "Documento"
+            body = post.get("content", {}).get("rendered", "") or ""
+            date = parse_date(post.get("date"))
+            year = date[:4]
+
+            if kind == "html":
+                text = html.unescape(_clean_html(body))
+                if not text:
+                    continue
+                link = source["public_url"].format(slug=post.get("slug", post.get("id")))
+                found.append({
+                    "title": title,
+                    "link": link,
+                    "date": date,
+                    "doc_type": source["doc_type"],
+                    "abstract": text[:2000] or None,
+                    "slug": slugify(post.get("slug") or title),
+                    "page_url": link,
+                    "text": text,
+                })
+                continue
+
+            pdf_urls = list(dict.fromkeys(re.findall(r'https?://[^\s"\'<>\\]+?\.pdf', body)))
+            # Ogni post del Barometro ripete un link fisso a un numero vecchio
+            # (2023_11): tenendo solo i PDF caricati nell'anno del post si scarta.
+            same_year = [u for u in pdf_urls if f"/uploads/{year}/" in u]
+            for pdf_url in (same_year or pdf_urls):
+                filename = pdf_url.rsplit("/", 1)[-1]
+                found.append({
+                    "title": title,
+                    "link": pdf_url,
+                    "date": date,
+                    "doc_type": source["doc_type"],
+                    "abstract": html.unescape(_clean_html(body))[:2000] or None,
+                    "slug": slugify(Path(filename).stem or post.get("slug") or title),
+                    "page_url": post.get("link") or source["url"],
+                })
+
+        if len(posts) < 50:
+            break
+
+    return found
+
+
+def fetch_bankitalia(source: dict) -> list:
+    """Banca d'Italia, "L'economia del Veneto": l'URL e' ricavabile dall'anno,
+    quindi si sondano gli anni invece di parsare un indice. Il rapporto esce a
+    giugno: sull'anno corrente, prima di allora, il 404 e' il comportamento atteso."""
+    found = []
+    year_now = datetime.now(timezone.utc).year
+
+    for year in range(year_now, year_now - 4, -1):
+        url = source["url"].format(year=year, yy=str(year)[2:])
+        try:
+            resp = requests.head(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+            if resp.status_code != 200 or "pdf" not in resp.headers.get("Content-Type", ""):
+                continue
+        except Exception as exc:
+            print(f"   ⚠️  {year}: {exc}")
+            continue
+
+        found.append({
+            "title": f"L'economia del Veneto — Rapporto annuale {year}",
+            "link": url,
+            "date": f"{year}-06-15 00:00:00",
+            "doc_type": source["doc_type"],
+            "abstract": None,
+            "slug": slugify(f"economia_veneto_{year}"),
+            "page_url": source["page_url"].format(year=year, yy=str(year)[2:]),
+        })
+
+    return found
+
+
+def fetch_albo_padova(source: dict) -> list:
+    """Provincia di Padova, albo pretorio.
+
+    Due passi: la lista espone pannelli Bootstrap (30 per pagina) da cui si legge
+    il tipo di atto, il PDF sta solo nella pagina di dettaglio.
+
+    L'albo e' una finestra scorrevole e non esiste un endpoint per lo storico
+    (archivioAlbo con parametri GET restituisce zero risultati). La dedup per
+    md5(url) fa si' che l'indice accumuli nel tempo atti che sul sito non sono
+    piu' raggiungibili."""
+    found = []
+    tipi = source["tipi"]
+
+    for page in range(1, source.get("max_pages", 4) + 1):
+        resp = requests.get(source["url"], params={"page": page}, headers=HEADERS, timeout=TIMEOUT)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        panels = soup.select("div.panel.panel-primary")
+        if not panels:
+            break
+
+        for panel in panels:
+            # "Tipo pubblicazione:" e' un'etichetta, il valore sta nel div gemello.
+            doc_type = None
+            for label in panel.select(".testata-etichetta"):
+                if "tipo pubblicazione" in label.get_text(strip=True).lower():
+                    value = label.find_next_sibling("div")
+                    if value:
+                        doc_type = tipi.get(value.get_text(strip=True))
+                    break
+            if not doc_type:
+                continue
+
+            detail = panel.select_one("a.dettaglio-doc")
+            if not detail:
+                continue
+
+            panel_text = panel.get_text(" ", strip=True)
+            date_match = re.search(r"Pubblicazione dal\s*(\d{2}/\d{2}/\d{4})", panel_text)
+            oggetto_match = re.search(r"Oggetto:\s*(.+?)(?:\s*Documento in Pubblicazione|$)", panel_text)
+            numero_match = re.search(r"Albo n\.\s*([\d/]+)", panel_text)
+
+            oggetto = (oggetto_match.group(1).strip() if oggetto_match else "").rstrip(".")
+            numero = numero_match.group(1) if numero_match else ""
+            label = "Decreto del Presidente" if doc_type == "decreto_presidente" else "Ordinanza"
+            title = f"{label} — {oggetto[:150]}" if oggetto else f"{label} albo n. {numero}"
+
+            detail_url = requests.compat.urljoin(source["url"], detail.get("href", ""))
+            try:
+                detail_resp = requests.get(detail_url, headers=HEADERS, timeout=TIMEOUT)
+                detail_resp.raise_for_status()
+            except Exception as exc:
+                print(f"   ⚠️  dettaglio non raggiungibile: {exc}")
+                continue
+
+            detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+            pdf_url = None
+            for anchor in detail_soup.select('a[href*="/download/albo/"]'):
+                href = anchor.get("href", "")
+                # "sbustato=true" e' la copia senza firma digitale: stesso contenuto,
+                # ma l'URL cambia e creerebbe un duplicato.
+                if "sbustato" in href:
+                    continue
+                pdf_url = requests.compat.urljoin(detail_url, href)
+                break
+            if not pdf_url:
+                continue
+
+            found.append({
+                "title": title,
+                "link": pdf_url,
+                "date": parse_date(date_match.group(1) if date_match else None),
+                "doc_type": doc_type,
+                "abstract": oggetto[:2000] or None,
+                "slug": slugify(f"{doc_type}_{numero.replace('/', '_')}_{oggetto[:60]}"),
+                "page_url": detail_url,
+            })
+
+    return found
+
+
 # --------------------------------------------------------------------------
 # Download / estrazione
 # --------------------------------------------------------------------------
@@ -299,6 +563,19 @@ def extract_pdf_text(pdf_url: str, dest: Path) -> dict:
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(text, encoding="utf-8")
     return {"extraction_status": "ok", "pages": pages, "chars": len(text)}
+
+
+def write_inline_text(text: str, dest: Path) -> dict:
+    """Scrive un testo gia' in mano (nessun download) rispettando il contratto di
+    extract_pdf_text, cosi' build_stats, il capping e il frontend non cambiano.
+    pages=0 marca "documento senza PDF a monte"."""
+    text = (text or "").strip()
+    if not text:
+        return {"extraction_status": "empty", "pages": 0, "chars": 0}
+
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(text, encoding="utf-8")
+    return {"extraction_status": "ok", "pages": 0, "chars": len(text)}
 
 
 def load_index() -> list:
@@ -377,10 +654,16 @@ def main():
         label = f"{source['source']} / {source['collana']}"
         print(f"\n🔎 {label}")
         try:
-            if source["strategy"] == "liferay":
-                items = fetch_liferay(source)
-            else:
-                items = fetch_padova(source, args.backfill_years)
+            # Mappa esplicita: con un if/else una strategia sconosciuta finirebbe
+            # silenziosamente nel ramo else invece di segnalare l'errore.
+            strategies = {
+                "liferay": lambda s: fetch_liferay(s),
+                "padova_jsonapi": lambda s: fetch_padova(s, args.backfill_years),
+                "wp_rest": lambda s: fetch_wp_rest(s),
+                "bankitalia": lambda s: fetch_bankitalia(s),
+                "albo_padova": lambda s: fetch_albo_padova(s),
+            }
+            items = strategies[source["strategy"]](source)
             print(f"   Trovati {len(items)} documenti")
             for item in items:
                 candidates.append((source, item))
@@ -399,7 +682,13 @@ def main():
 
         print(f"\n⬇️  {item['title'][:70]}")
         text_rel = f"{source['source_id']}/{item['slug']}.txt"
-        result = extract_pdf_text(item["link"], DOCUMENTS_TEXT_DIR / text_rel)
+        dest = DOCUMENTS_TEXT_DIR / text_rel
+        # Le fonti HTML (comunicati Confindustria) portano gia' il testo con se':
+        # non c'e' nessun PDF da scaricare.
+        if item.get("text"):
+            result = write_inline_text(item["text"], dest)
+        else:
+            result = extract_pdf_text(item["link"], dest)
 
         documents.append({
             # Blocco NewsItem-compatibile

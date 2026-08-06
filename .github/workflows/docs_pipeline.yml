@@ -27,10 +27,16 @@ jobs:
         run: pip install -r config/requirements.txt
 
       - name: Raccolta documenti istituzionali (fail-safe)
-        # Veneto Lavoro (PDF bollettini) + Consiglio comunale di Padova
-        # (odg / delibere approvate / verbali). timeout-minutes è necessario:
-        # continue-on-error non protegge da un endpoint che non risponde mai.
-        run: python scripts/docs_scraper.py
+        # Sei fonti: Veneto Lavoro, Consiglio comunale di Padova, Unioncamere del
+        # Veneto, Confindustria Veneto Est, Banca d'Italia, Provincia di Padova.
+        # timeout-minutes è necessario: continue-on-error non protegge da un
+        # endpoint che non risponde mai.
+        #
+        # --limit non è un dettaglio: save_index() scrive una volta sola a fine
+        # run, quindi un timeout a metà download perderebbe tutto il lavoro e il
+        # run si ripeterebbe identico ogni giorno. Il limite tiene la durata
+        # bounded; un eventuale arretrato si smaltisce nei giorni successivi.
+        run: python scripts/docs_scraper.py --limit 80
         timeout-minutes: 15
         continue-on-error: true
 

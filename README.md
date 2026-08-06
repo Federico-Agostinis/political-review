@@ -9,13 +9,23 @@ e li pubblica come sito statico su GitHub Pages.
 
 Il progetto:
 
-1. **Raccoglie PDF** da due fonti istituzionali del Veneto:
+1. **Raccoglie documenti** da sei fonti istituzionali del Veneto:
    - **Osservatorio Veneto Lavoro** — bollettini periodici sul mercato del lavoro (HTML server-rendered).
    - **Consiglio comunale di Padova** — ordini del giorno, delibere approvate e verbali stenografici
      delle sedute (JSON:API Drupal, il sito del Comune è una SPA Angular senza SSR).
-2. **Estrae il testo** da ogni PDF e lo salva in `data/documents/<fonte>/<slug>.txt`.
-3. **Arricchisce con Gemini** (opzionale): sintesi, punti chiave, dati quantitativi (bollettini),
-   elenco delibere (odg/delibere), interventi in aula (verbali).
+   - **Unioncamere del Veneto** — Barometro mensile dell'economia regionale e indagini
+     congiunturali (REST API WordPress).
+   - **Confindustria Veneto Est** — comunicati stampa sulla congiuntura industriale di Padova,
+     Venezia, Treviso e Rovigo (REST API del backend WordPress headless).
+   - **Banca d'Italia** — "L'economia del Veneto", rapporto annuale della collana *Economie
+     regionali* (URL deterministico per anno).
+   - **Provincia di Padova** — decreti del Presidente e ordinanze dall'albo pretorio.
+2. **Estrae il testo** e lo salva in `data/documents/<fonte>/<slug>.txt`. Di norma il testo si
+   ricava dal PDF; i comunicati di Confindustria non hanno PDF e il testo si prende direttamente
+   dal corpo del post.
+3. **Arricchisce con Gemini** (opzionale): sintesi, punti chiave, dati quantitativi (bollettini e
+   report economici), elenco delibere (odg/delibere/atti della Provincia), interventi in aula
+   (verbali).
 4. **Pubblica** una dashboard React che permette di sfogliare, filtrare e cercare i documenti.
 
 Tutta la pipeline (raccolta, arricchimento, build, deploy) gira su GitHub Actions in cron
@@ -27,24 +37,39 @@ che lo legge via fetch.
 ## Pipeline dati
 
 ```
-Veneto Lavoro (HTML)          --\
-Consiglio comunale Padova     --- scripts/docs_scraper.py --> data/documents_index.json
-(JSON:API Drupal)             --/                              + data/documents/**/*.txt
+Veneto Lavoro (HTML accordion)        --\
+Consiglio comunale PD (JSON:API)      --\
+Unioncamere Veneto (WP REST)          --- scripts/docs_scraper.py --> data/documents_index.json
+Confindustria Veneto Est (WP REST)    --/                              + data/documents/**/*.txt
+Banca d'Italia (URL per anno)         --/
+Provincia di Padova (albo pretorio)   --/
 
 data/documents_index.json --(Gemini)--> scripts/enrich_docs.py --> data/documents_index.json (in-place)
 ```
 
+- Ogni forma di sito è una `strategy` in `scripts/docs_scraper.py`, instradata da una mappa
+  esplicita: aggiungere una fonte significa aggiungere una voce a `SOURCES`, e un `fetch_*` solo
+  se la forma del sito è nuova.
 - I PDF vengono scaricati in una directory temporanea e **mai** lasciati nel repo: si committa solo
   il testo estratto.
 - Deduplicazione: `md5(url_senza_querystring)`.
+- L'albo pretorio della Provincia è una finestra scorrevole senza archivio interrogabile: l'indice
+  accumula nel tempo atti che sul sito non sono più raggiungibili, ma non è possibile recuperare
+  a posteriori quelli già scaduti.
 - I documenti si tagliano per conteggio (`MAX_DOCUMENTS_PER_SOURCE`), mai per età: un bollettino
   mensile non deve sparire dall'indice solo perché è vecchio di più di 15 giorni.
 - L'arricchimento LLM (Gemini 2.0 Flash Lite) è opzionale e richiede `GEMINI_API_KEY` come secret
   GitHub; senza chiave i campi restano `null`/`[]` e la dashboard resta comunque utilizzabile con
   titolo, data, e link al PDF (graceful degradation). Il workflow ruota su fino a 10 chiavi
   (`GEMINI_API_KEY`..`GEMINI_API_KEY10`) per il rate limiting.
-- Ogni `doc_type` (`bollettino`, `misure`, `odg`, `delibere_approvate`, `verbale`) usa un prompt
-  dedicato: sui verbali, ad esempio, si estrae `interventions` (chi ha detto cosa in aula).
+- Ogni `doc_type` usa un prompt dedicato: sui verbali, ad esempio, si estrae `interventions`
+  (chi ha detto cosa in aula). I tipi sono nove, raggruppati per forma dell'output:
+  `figures` (dati quantitativi) per `bollettino`, `misure`, `report_economico`,
+  `comunicato_industria`; `decisions` per `odg`, `delibere_approvate`, `decreto_presidente`,
+  `ordinanza`; `interventions` per `verbale`.
+  Un `doc_type` senza voce in `PROMPTS` viene saltato ma resta `summary=None`, quindi rientra nella
+  coda a ogni run consumando il budget `--limit`: aggiungendo un tipo, aggiornare sempre `PROMPTS`
+  e `PROFILES` in `scripts/enrich_docs.py`.
 
 ---
 
