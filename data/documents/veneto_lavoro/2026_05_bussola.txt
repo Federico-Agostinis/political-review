@@ -1,0 +1,1126 @@
+IL MERCATO DEL LAVORO VENETO 
+NEL MESE DI MAGGIO 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Osservatorio regionale Mercato del Lavoro 
+ 
+Giugno 2026 
+
+
+2/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+La Bussola rappresenta uno strumento oramai consolidato di analisi congiunturale mensile sul mercato del lavoro 
+dipendente privato che garantisce una diffusione tempestiva dei dati desunti dalle Comunicazioni Obbligatorie. 
+Dal numero di maggio 2023 questa pubblicazione diventa un agile bollettino informativo in cui si propone una 
+descrizione sintetica delle principali tendenze del mercato del lavoro regionale ad integrazione delle rappresentazioni 
+grafiche e tabellari. Per guidare la lettura si forniscono una nota metodologica ed un glossario essenziale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La Bussola/Maggio 2026   
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+
+3/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+  Nota metodologica  
+ 
+La Bussola è il bollettino di analisi congiunturale mensile sul mercato del lavoro in Veneto basata sui dati 
+desunti dalle comunicazioni obbligatorie relative all’instaurazione, alle trasformazioni e alle cessazioni dei 
+rapporti di lavoro attivati dalle aziende localizzate in regione. 
+Le elaborazioni sono riferite agli eventi occupazionali per i quali, già nel mese successivo a quello di 
+accadimento, le informazioni disponibili risultano sufficientemente complete. Questa scelta risponde 
+all’esigenza di privilegiare la tempestività dell’analisi e della diffusione dei dati. Occorre comunque tener 
+presente che, poiché i dati di origine amministrativa sono soggetti a costante aggiornamento e revisione anche 
+per il passato, i dati mensili vengono presentati quando sono ancora in una fase di assestamento. 
+Il campo di osservazione è limitato al settore dipendente privato e, per quanto riguarda l’analisi delle principali 
+dinamiche occupazionali, ai tre principali contratti di lavoro: tempo indeterminato, tempo determinato e 
+apprendistato. Nel caso del lavoro somministrato, in questo report considerato separatamente, è presente un 
+ritardo temporale di un mese nell’aggiornamento delle informazioni conseguente alla dilazione prevista per 
+l’invio delle relative comunicazioni obbligatorie.  
+Le informazioni sinteticamente presentate hanno lo scopo di visualizzare prontamente gli andamenti del 
+mercato del lavoro e di individuare precocemente i trend in corso grazie al focus sull’ultimo mese concluso. Gli 
+andamenti sono presentati sia in un’ottica congiunturale sia in chiave tendenziale, sia con riferimento all’ultimo 
+mese che al complessivo periodo osservabile per l’anno in corso.  
+Per l’analisi dettagliata riferita all’intero mercato del lavoro regionale, effettuata su dati amministrativi 
+stabilizzati e comprensiva del settore pubblico, si rimanda al report periodico di analisi trimestrale Il Sestante 
+https://osservatorio.venetolavoro.it/il-sestante e ai dati disponibili in modalità navigabile sul sito di Veneto 
+Lavoro https://osservatorio.venetolavoro.it/occupazione 
+ 
+Classificazione ATECO 2025 
+A seguito dell’introduzione, a fine aprile, dell’ATECO 2025 nell’applicativo CO Veneto, i codici della nuova classificazione 
+sono stati attribuiti all’aggregazione delle attività economiche tradizionalmente utilizzata da Veneto Lavoro. Per 
+garantire la continuità e la confrontabilità della serie storica, anche gli eventi occupazionali precedenti, codificati 
+secondo ATECO 2007, sono stati riallineati alla nuova classificazione attraverso la mappatura operativa ISTAT–Sistema 
+Camerale e successivamente attribuiti alla riclassificazione utilizzata da Veneto Lavoro. 
+ 
+Questa operazione consente di trattare in modo omogeneo i dati storici e quelli più recenti. Eventuali differenze rispetto 
+ai dati settoriali presentati nei report precedenti possono quindi dipendere dal riallineamento dei codici ATECO 2007 
+alla nuova versione ATECO 2025. I criteri adottati saranno descritti in modo più dettagliato in una specifica nota 
+metodologica di prossima pubblicazione. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+4/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+    Il mercato del lavoro nel mese di maggio 2026 
+ 
+ Per il mercato del lavoro dipendente privato in Veneto il saldo dei primi cinque mesi del 2026 si mantiene 
+positivo (+59.200 posizioni di lavoro) e, grazie alle buone performance registrate a marzo, risulta ancora 
+più favorevole di quello registrato nel 2025 (+57.500). L’ultimo mese mostra un bilancio occupazionale 
+(positivo per +17.300 unità) in leggero miglioramento rispetto all’anno precedente per via di una lieve 
+contrazione delle cessazioni (-1%), a fronte di una stabilità nelle attivazioni. La domanda di lavoro nei 
+cinque mesi si conferma in aumento, analogamente a quanto osservato per le cessazioni contrattuali 
+(+4% in entrambi i casi); su tali dinamiche incide tuttavia il marcato incremento dei rapporti di brevissima 
+durata nelle attività di produzione cinematografica (tab. 1 e graff. 1/2).  
+ Dal punto di vista contrattuale, il bilancio occupazionale registrato tra gennaio e maggio 2026 in 
+riferimento al tempo indeterminato è positivo (+11.800) ma meno favorevole rispetto a quello del 2025 
+(+14.800) per effetto della riduzione delle trasformazioni/qualificazioni (-7%) – peraltro compatibile con 
+una protratta riduzione delle posizioni di lavoro a termine nei mesi passati –; le assunzioni nel periodo 
+sono in leggera contrazione. Nel singolo mese di maggio il saldo per questa tipologia contrattuale (+620) 
+risulta quasi dimezzato rispetto a quello dell’anno precedente (+1.100) a seguito della diminuzione 
+registrata nelle assunzioni (-7%) e nelle trasformazioni (-5%). Per quanto riguarda il tempo determinato, 
+il bilancio del periodo gennaio-maggio è positivo (+46.300) e più elevato di quello dello scorso anno 
+(+42.100). Questo risultato – al lordo degli effetti delle ricorrenze stagionali – è legato al forte 
+incremento delle attivazioni contrattuali (+6%), superiore (in valore assoluto) a quello delle cessazioni 
+(+8%). Anche l’ultimo mese concluso segna un lieve aumento del saldo (+16.100 contro +15.200 di 
+maggio 2025), con le assunzioni in crescita (+2%, soprattutto nelle attività turistiche) più delle cessazioni 
+(+1%). In riferimento all’apprendistato, il saldo occupazionale relativo ai primi cinque mesi del 2026 è 
+positivo per +1.100 unità e superiore a quello dell’anno precedente (quando era pari a +610); tale 
+andamento si lega ad una riduzione nelle qualificazioni (-7%) e nelle cessazioni (-6%) di intensità 
+superiore a quella che ha interessato le attivazioni (-3%) (tab. 2 e graff. 3/4). 
+ L’aumento nel volume delle assunzioni registrate nei primi cinque mesi del 2026 rispetto all’analogo periodo 
+dell’anno precedente interessa i lavoratori di entrambi i generi (+4% sia per gli uomini che per le donne) ed 
+è attribuibile soprattutto alla crescita degli avviamenti a orario pieno (+4% per gli uomini e +7% per le donne); 
+le assunzioni a orario ridotto registrano un incremento complessivo più contenuto (+2%) che interessa 
+prevalentemente la componente maschile (+4%). Nel periodo gennaio-maggio 2026 l’incidenza del part time 
+rimane elevata (pari al 31,1% del totale delle assunzioni) anche se risulta in leggera contrazione; rispetto 
+all’analogo periodo del 2025 rimane stabile per gli uomini (21,5%), mentre cala per le donne (dal 47,3% al 
+45,9%; tab. 3). 
+ Con riferimento alle principali caratteristiche socio-anagrafiche, il bilancio occupazionale del periodo 
+gennaio-maggio 2026 risulta positivo per tutte le componenti e in crescita sullo stesso periodo del 2025 
+soprattutto per gli stranieri; gli italiani registrano invece un saldo lievemente più contenuto rispetto 
+all’anno precedente. Nell’ultimo mese il saldo (complessivamente in lieve aumento) migliora per tutte 
+le componenti. Guardando alle assunzioni, l’incremento osservato rispetto all’analogo periodo 
+dell’anno precedente interessa tutti i sottogruppi demografici, in particolare i lavoratori più maturi 
+(+10%); nel singolo mese di maggio le attivazioni risultano in lieve calo per i cittadini italiani e gli adulti, 
+mentre stranieri, giovani e senior segnano un incremento (tab. 4 e graff. 5/6). 
+ Il bilancio occupazionale dei primi cinque mesi del 2026 è positivo in tutte le province, ad eccezione di 
+Belluno dove si rileva un saldo tipicamente negativo per il periodo (-2.800) per effetto della conclusione 
+della stagione turistica invernale, che comporta la chiusura di molti rapporti di lavoro attivati alla fine 
+del 2025; rispetto all’analogo periodo del 2025, si osservano bilanci occupazionali diffusamente più 
+contenuti, fatta eccezione per Verona, Venezia e Rovigo. La domanda di lavoro si riduce leggermente 
+a Treviso e Vicenza, mentre cresce in particolare a Venezia (soprattutto nelle attivazioni di contratti di 
+breve durata in ambito cinematografico), Belluno (dove a gennaio si era registrato un incremento delle 
+assunzioni di hostess e steward, legato all’avvio dei Giochi Olimpici Invernali) e Verona. Nel mese di 
+maggio si osserva un bilancio occupazionale lievemente negativo nel trevigiano; in questo territorio il 
+saldo peggiora per via del calo nelle attivazioni, dinamica condivisa anche con Vicenza e Padova. Nelle 
+altre province si registra invece un miglioramento del saldo, legato soprattutto alle dinamiche 
+turistiche (tab. 5 e graff. 7/8). 
+
+5/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+ Dal punto di vista settoriale1 (tab. 6 e graff. 9/10), i dati del periodo gennaio-maggio 2026 mostrano 
+bilanci occupazionali positivi in tutti e tre i macro-settori. L’agricoltura nel periodo registra un saldo 
+(+7.100) leggermente superiore a quello del 2025, grazie a un calo delle cessazioni (-3%) a fronte di una 
+stabilità delle assunzioni; a maggio il bilancio è in linea con quello dell’analogo mese del 2025 (+1.400).  
+In riferimento al macro-settore industriale comprensivo delle costruzioni, nei primi cinque mesi dell’anno 
+si osserva un ridimensionamento della crescita occupazionale (+6.800 rispetto a +7.400 dello stesso 
+periodo dell’anno precedente) per via soprattutto dei risultati registrati a maggio: il saldo mensile diventa 
+negativo (pari a -330 unità quando era +620 l’anno precedente) a seguito di un calo nelle assunzioni (-7%) 
+che interessa in particolare le costruzioni e il metalmeccanico; per quest’ultimo settore, diversamente 
+da quanto osservato l’anno precedente, il bilancio del mese si attesta su valori negativi (-190), risultando 
+in peggioramento rispetto a maggio 2025. Il rallentamento della crescita occupazionale registrato tra 
+gennaio e maggio si concentra in particolare nelle costruzioni (+2.200, era +3.700 nel 2025) dove si rileva 
+un calo nelle attivazioni (-7%). In riferimento a metalmeccanico e made in Italy si registra un aumento 
+della crescita occupazionale nel periodo (rispettivamente +2.500 e +1.100) legato a un incremento delle 
+attivazioni (+4% e +3%). Nel made in Italy, si distinguono le industrie del tessile-abbigliamento e del 
+calzaturiero per bilanci, seppur di poco, negativi (che tuttavia rimangono superiori a quelli registrati 
+nell’anno precedente), mentre il legno e mobilio mostra un saldo positivo, ma in leggera riduzione. Anche 
+per l’industria della chimica-plastica il bilancio occupazionale è meno favorevole dello scorso anno per 
+via di un calo nelle attivazioni.  
+Nel terziario, il mese di maggio segna un miglioramento del saldo (+16.200 quando era +14.800 nel 2025), 
+concentrato nei servizi turistici, che contribuisce alla crescita del bilancio complessivo del macro-settore 
+registrata nel periodo (+45.300 rispetto a +43.900); tale risultato è legato ad un aumento delle assunzioni 
+(+6%) superiore in volume a quello che ha interessato le cessazioni (+7%). L’incremento della domanda 
+di lavoro nel periodo riguarda prevalentemente i servizi turistici (+5%), quelli di pulizia e l’editoria e 
+cultura, con picchi di contratti di breve e brevissima durata legati alle attività di produzione 
+cinematografica nel veneziano. Il saldo occupazionale tra gennaio e maggio rimane diffusamente 
+positivo; se da un lato il bilancio risulta in leggero ridimensionamento nell’ingrosso, nei servizi alla 
+persona, informatici e di supporto alle imprese, dall’altro migliora nei servizi turistici, nel commercio al 
+dettaglio, nella logistica, nei servizi finanziari e, soprattutto, in quelli di pulizia.  
+ 
+ 
+ 
+Il bilancio complessivo dei primi cinque mesi del 2026, con riferimento al lavoro dipendente privato in 
+Veneto, si mantiene positivo e leggermente superiore a quello osservato nello stesso periodo dell’anno 
+precedente. Anche il dato di maggio conferma un moderato ritmo di crescita occupazionale, nonostante 
+il permanere di un quadro economico e geopolitico caratterizzato da elevata incertezza, tensioni sugli 
+approvvigionamenti energetici e pressioni sui prezzi, fattori che continuano a condizionare le scelte delle 
+imprese e le dinamiche produttive.  
+Il risultato positivo del periodo continua ad essere sostenuto soprattutto dai rapporti a tempo 
+determinato, favoriti dalle dinamiche stagionali e dall’incremento delle assunzioni nei servizi, mentre il 
+contributo del tempo indeterminato si riduce ulteriormente.  
+Nel periodo considerato, il terziario continua a rappresentare il principale motore dell’occupazione, 
+trainato in particolare dai servizi turistici. Per contro, nell’industria prosegue il rallentamento della 
+dinamica occupazionale, riconducibile soprattutto all’andamento delle costruzioni e, nell’ambito di un 
+manifatturiero ancora molto variabile nel breve periodo, anche al peggioramento osservato nel 
+metalmeccanico nell’ultimo mese. 
+ 
+ Per quanto riguarda le conclusioni contrattuali registrate tra gennaio e maggio (229.600), in aumento 
+rispetto ai livelli dell’analogo periodo del 2025 (+4%), si osserva un incremento delle cessazioni per 
+fine termine (119.900, +11%), in particolare in riferimento ad attività turistiche e, soprattutto, 
+cinematografiche. Segnano invece una riduzione le altre conclusioni contrattuali in periodo di prova 
+e, soprattutto, le dimissioni (tab. 7).  
+                                                 
+1 I dati settoriali tengono conto dell’introduzione, a fine aprile, dell’ATECO 2025 nell’applicativo CO Veneto e del conseguente riallineamento degli 
+eventi precedentemente codificati secondo ATECO 2007. 
+L’ago della Bussola 
+
+6/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+ Il ritardo strutturale delle comunicazioni obbligatorie relative ai rapporti di lavoro in somministrazione 
+consente di osservare i dati per questa tipologia contrattuale aggiornati fino a aprile 2026 (tab. 8). Nel 
+primo quadrimestre del 2026 i rapporti di lavoro in somministrazione attivati da agenzie localizzate in 
+Veneto sono stati complessivamente 41.200. La domanda di lavoro risulta in leggero aumento rispetto 
+a quella dell’analogo periodo dello scorso anno (+3%). Il bilancio occupazionale del quadrimestre è 
+positivo per +2.600 posizioni di lavoro anche se inferiore ai risultati dello stesso periodo del 2025 
+(+3.000) soprattutto per il rallentamento registrato a febbraio (+610 rispetto a +1.400). Ad aprile si 
+rileva un leggero miglioramento del saldo occupazionale (+1.100 contro +830 dell’analogo mese del 
+2025) e una lieve crescita della domanda di lavoro (+5%) 
+  
+
+7/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+●  La dinamica del lavoro dipendente  
+ 
+Tab. 1 – Veneto. Posizioni di lavoro dipendente nel settore privato. Confronto 2019-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato 
+ 2019 2020 2021 2022 2023 2024 2025 2026          Assunzioni (gen-mag) 265.689 170.470 194.089 276.564 284.483 283.162 277.787 288.784 
+Gennaio 60.484 56.740 41.528 56.053 59.150 58.692 59.052 59.748 
+Febbraio 41.828 41.619 30.660 42.819 46.730 46.278 44.737 46.830 
+Marzo 49.960 28.456 34.044 56.271 56.688 58.550 52.099 58.164 
+Aprile 58.801 14.335 33.891 57.289 60.336 58.470 60.836 62.691 
+Maggio 54.616 29.320 53.966 64.132 61.579 61.172 61.063 61.351 
+Giugno 59.225 48.156 65.469 64.222 62.642 58.810 61.761  
+Luglio 49.181 46.850 53.245 53.008 52.103 54.647 51.475  
+Agosto 33.492 32.800 35.406 37.265 35.084 34.551 33.195  
+Settembre 65.411 56.739 66.515 65.361 65.173 65.824 66.377  
+Ottobre 47.387 41.335 51.944 50.426 51.343 51.127 51.357  
+Novembre 40.404 31.703 45.290 44.282 44.116 43.942 42.896  
+Dicembre 33.816 23.133 35.791 34.347 34.745 34.164 33.432           Trasformazioni (gen-mag) 41.115 29.314 21.265 36.039 38.273 35.726 37.957 35.471 
+Gennaio 14.419 9.540 4.709 9.849 10.779 8.938 10.279 9.447 
+Febbraio 5.935 6.020 3.794 5.671 6.298 6.024 6.460 5.902 
+Marzo 6.950 5.064 4.264 6.721 7.113 6.477 7.191 6.714 
+Aprile 7.375 4.412 4.102 7.041 7.312 7.077 7.259 6.957 
+Maggio 6.436 4.278 4.396 6.757 6.771 7.210 6.768 6.451 
+Giugno 6.765 4.182 4.632 8.271 6.643 6.901 6.788  
+Luglio 7.548 5.111 5.699 8.050 7.614 7.375 7.101  
+Agosto 5.398 4.603 4.314 5.790 5.438 5.603 5.312  
+Settembre 7.461 5.725 6.253 7.815 7.374 7.945 7.279  
+Ottobre 8.429 6.089 7.307 8.901 8.262 8.724 8.232  
+Novembre 6.905 4.645 5.881 7.352 6.756 7.039 6.698  
+Dicembre 6.261 11.193 7.907 8.029 8.035 6.502 6.466           Cessazioni (gen-mag) 204.788 174.902 154.107 218.052 218.461 218.777 220.268 229.590 
+Gennaio 59.627 56.304 43.712 58.015 59.286 57.937 59.712 62.783 
+Febbraio 29.691 35.315 23.578 32.697 33.897 35.764 33.083 36.740 
+Marzo 38.436 34.275 26.354 39.955 39.290 40.807 41.509 42.339 
+Aprile 39.720 24.464 27.801 44.014 45.190 41.654 41.690 43.680 
+Maggio 37.314 24.544 32.662 43.371 40.798 42.615 44.274 44.048 
+Giugno 43.995 27.693 37.167 43.660 43.865 45.025 43.919  
+Luglio 43.634 34.867 46.732 51.806 49.380 46.908 47.809  
+Agosto 38.889 32.690 37.207 38.592 39.643 41.708 43.631  
+Settembre 67.727 53.774 64.830 70.010 70.932 70.091 68.867  
+Ottobre 70.539 61.329 72.124 72.282 69.195 69.848 75.044  
+Novembre 53.455 41.194 47.833 50.337 52.838 56.122 56.987  
+Dicembre 45.876 37.174 45.307 47.285 47.493 47.991 46.724           Saldo (gen-mag) 60.901 -4.432 39.982 58.512 66.022 64.385 57.520 59.194 
+Gennaio 857 436 -2.184 -1.962 -136 755 -660 -3.035 
+Febbraio 12.137 6.304 7.082 10.122 12.833 10.514 11.654 10.090 
+Marzo 11.524 -5.819 7.690 16.316 17.398 17.743 10.591 15.825 
+Aprile 19.081 -10.129 6.090 13.275 15.146 16.816 19.146 19.011 
+Maggio 17.302 4.776 21.304 20.761 20.781 18.557 16.789 17.303 
+Giugno 15.230 20.463 28.304 20.562 18.777 13.785 17.842  
+Luglio 5.547 11.983 6.513 1.203 2.723 7.739 3.667  
+Agosto -5.397 110 -1.801 -1.327 -4.559 -7.157 -10.436  
+Settembre -2.316 2.965 1.685 -4.649 -5.759 -4.267 -2.490  
+Ottobre -23.152 -19.994 -20.180 -21.856 -17.852 -18.721 -23.687  
+Novembre -13.051 -9.491 -2.543 -6.054 -8.722 -12.180 -14.091  
+Dicembre -12.060 -14.041 -9.516 -12.938 -12.748 -13.826 -13.292           
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026  
+   
+
+8/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+ 
+Graff. 1/2 – Veneto. Posizioni di lavoro dipendente nel settore privato.  Variazioni mensili gennaio 2019 - maggio 2026 (tre contratti: cti+cap+ctd) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Var. cumulata (gennaio 2019=0) 
+Var. tendenziale annualizzata 
+
+
+9/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+●  Per contratto 
+ 
+Tab. 2 – Veneto. Posizioni di lavoro dipendente nel settore privato. Confronto 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato 
+  Assunzioni  Trasformazioni  Saldo 
+ 2024 2025 2026 2024 2025 2026 2024 2025 2026           Gennaio-maggio 283.162 277.787 288.784 35.726 37.957 35.471 64.385 57.520 59.194 Tempo indeterminato 55.321 52.206 51.397 - - - 15.488 14.848 11.834 Apprendistato 18.297 17.013 16.430 6.342 6.655 6.159 1.720 606 1.062 Tempo determinato 209.544 208.568 220.957 29.384 31.302 29.312 47.177 42.066 46.298           Maggio 61.172 61.063 61.351 7.210 6.768 6.451 18.557 16.789 17.303 Tempo indeterminato 9.437 9.481 8.825 - - - 2.496 1.145 624 Apprendistato 4.049 3.793 3.836 1.182 1.143 1.165 684 482 605 Tempo determinato 47.686 47.789 48.690 6.028 5.625 5.286 15.377 15.162 16.074           
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Tab. 3 – Veneto. Assunzioni di rapporti di lavoro dipendente per orario di lavoro. Confronto 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato 
+  Donne  Uomini  Totale 
+ 2024 2025 2026 2024 2025 2026 2024 2025 2026           Gennaio-maggio 115.588 109.676 113.702 167.574 168.111 175.082 283.162 277.787 288.784 Part time 55.510 51.914 52.207 35.291 36.112 37.629 90.801 88.026 89.836 Full time 59.845 57.514 61.321 131.606 131.220 136.844 191.451 188.734 198.165 N.d. 233 248 174 677 779 609 910 1.027 783 Inc. % part time 48,0% 47,3% 45,9% 21,1% 21,5% 21,5% 32,1% 31,7% 31,1%           Maggio 25.091 24.617 24.843 36.081 36.446 36.508 61.172 61.063 61.351 Part time 11.964 11.017 11.146 8.291 8.169 8.827 20.255 19.186 19.973 Full time 13.082 13.555 13.655 27.659 28.115 27.572 40.741 41.670 41.227 N.d. 45 45 42 131 162 109 176 207 151 Inc. % part time 47,7% 44,8% 44,9% 23,0% 22,4% 24,2% 33,1% 31,4% 32,6%           
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Graff. 3/4 – Veneto. Posizioni di lavoro dipendente nel settore privato per tipologia contrattuale.  Variazioni mensili gennaio 2019 - maggio 2026 (tre contratti: cti+cap+ctd) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+Var. cumulata (gennaio 2019=0) 
+ 
+Var. tendenziale annualizzata 
+
+
+10/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Var. cumulata (gennaio 2019=0) 
+●  Per caraƩerisƟche anagraﬁche 
+ 
+Tab. 4 – Veneto. Posizioni di lavoro dipendente nel settore privato. Confronto 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato per caratteristiche anagrafiche  
+  Assunzioni  Saldo 
+ 2024 2025 2026 2024 2025 2026        Gennaio-maggio 283.162 277.787 288.784 64.385 57.520 59.194 
+Donne 115.588 109.676 113.702 29.876 25.615 26.590 Uomini 167.574 168.111 175.082 34.509 31.905 32.604 
+Italiani 190.043 181.789 189.120 38.273 33.747 32.488 Stranieri 93.119 95.998 99.664 26.112 23.773 26.706 
+Giovani 100.565 101.239 105.245 - - - Adulti 145.029 137.968 141.135 - - - Senior 37.568 38.580 42.404 - - -        Maggio 61.172 61.063 61.351 18.557 16.789 17.303 
+Donne 25.091 24.617 24.843 8.559 7.576 7.887 Uomini 36.081 36.446 36.508 9.998 9.213 9.416 
+Italiani 40.209 40.165 39.753 11.408 10.037 10.130 Stranieri 20.963 20.898 21.598 7.149 6.752 7.173 
+Giovani 23.686 24.113 24.778 - - - Adulti 29.811 28.864 28.289 - - - Senior 7.675 8.086 8.284 - - -        
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Graff. 5/6 – Veneto. Posizioni di lavoro dipendente nel settore privato per genere.  Variazioni mensili gennaio 2019 – maggio 2026 (tre contratti: cti+cap+ctd)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Var. tendenziale annualizzata 
+
+
+11/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Var. cumulata (gennaio 2019=0) 
+  ●  Per provincia 
+ 
+Tab. 5 – Veneto. Posizioni di lavoro dipendente nel settore privato. Confronto 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato per provincia 
+  Assunzioni  Saldo 
+ 2024 2025 2026 2024 2025 2026        
+Gennaio-maggio 283.162 277.787 288.784 64.385 57.520 59.194 
+Belluno 8.786 8.327 8.901 -2.241 -2.551 -2.791 
+Padova 40.120 38.588 38.736 5.230 4.340 4.226 
+Rovigo 13.701 13.176 13.212 3.360 2.309 2.508 
+Treviso 34.991 34.797 34.046 3.721 2.741 1.804 
+Venezia 80.406 79.872 88.403 30.860 29.316 30.336 
+Verona 73.667 72.984 75.630 20.207 18.778 21.224 
+Vicenza 31.491 30.043 29.856 3.248 2.587 1.887        
+Maggio 61.172 61.063 61.351 18.557 16.789 17.303 
+Belluno 2.162 2.367 2.404 713 719 918 
+Padova 7.257 7.134 6.784 615 410 114 
+Rovigo 2.859 2.652 2.790 947 452 616 
+Treviso 6.313 6.353 6.020 353 125 -158 
+Venezia 22.259 22.991 23.494 10.961 10.900 11.848 
+Verona 14.611 13.699 14.223 4.483 3.519 3.743 
+Vicenza 5.711 5.867 5.636 485 664 222        
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+Graff. 7/8 – Veneto. Posizioni di lavoro dipendente nel settore privato per provincia.  Variazioni mensili gennaio 2019 - maggio 2026 (tre contratti: cti+cap+ctd) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns.  elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+ 
+Var. tendenziale annualizzata 
+
+
+12/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+  ●  Per settore 
+ 
+Tab. 6 – Veneto. Posizioni di lavoro dipendente privato. Confronto gennaio-maggio 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato per settore 
+  2024  2025  2026  Assunzioni Saldo Assunzioni Saldo Assunzioni Saldo        Totale 283.162 64.385 277.787 57.520 288.784 59.194        Agricoltura 33.684 7.614 35.601 6.227 35.516 7.105 Industria 67.496 8.127 66.279 7.428 66.086 6.774 Made in Italy 19.752 1.477 18.810 577 19.354 1.090 – Ind. alimentari 7.976 1.185 7.904 1.017 8.171 1.181 – Ind. tessile-abb. 3.898 -311 3.728 -434 4.020 -100 – Ind. conciaria 1.061 -3 970 -5 858 44 – Ind. calzature 1.309 -173 1.242 -98 1.343 -55 – Legno/mobilio 2.691 131 2.750 235 2.692 84 – Occhialeria 1.291 499 684 -243 947 70 Metalmeccanico 19.831 1.743 19.708 2.120 20.467 2.543 – Prod.metallo 9.568 890 9.356 905 9.685 1.077 – Apparecchi meccanici 7.015 572 6.812 748 7.134 826 – Macchine elettriche 2.161 161 2.448 371 2.422 494 – Mezzi di trasporto 1.087 120 1.092 96 1.226 146 Altre industrie 5.639 726 5.483 729 5.393 678 – Ind. chimica-plastica 2.891 478 2.742 467 2.631 317 – Ind. farmaceutica 489 126 450 104 446 98 Utilities 1.727 432 1.549 292 1.537 310 Costruzioni 20.547 3.749 20.729 3.710 19.335 2.153 Servizi 181.982 48.644 175.907 43.865 187.182 45.315 Comm.-tempo libero 97.201 34.273 94.989 31.722 99.069 33.122 – Commercio dett. 18.323 3.097 17.250 1.811 17.312 2.213 – Servizi turistici 78.878 31.176 77.739 29.911 81.757 30.909 Ingrosso e logistica 27.966 3.309 26.494 2.427 25.660 2.410 – Comm. ingrosso 11.003 2.384 10.318 1.596 10.106 1.263 – Trasporti e magazz. 16.963 925 16.176 831 15.554 1.147 Servizi finanziari 1.381 43 1.448 -81 1.252 73 Terziario avanzato 15.620 2.343 14.585 1.955 22.600 1.695 – Editoria e cultura 6.243 13 5.978 281 14.404 302 – Servizi informatici 2.977 685 2.849 638 2.537 259 – Attività professionali 6.078 1.581 5.497 1.104 5.389 1.109 Servizi alla persona 17.718 3.403 17.697 3.113 17.425 2.522 – Istruzione 1.744 595 1.819 543 1.495 350 – Sanità/servizi sociali 7.868 1.162 7.706 1.222 7.845 865 Altri servizi 22.096 5.273 20.694 4.729 21.176 5.493 – Supporto alle imprese 5.151 653 4.927 1.055 4.500 685 – Servizi di pulizia 12.195 3.113 10.990 1.946 11.921 3.283        
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026  
+Graff. 9/10 – Veneto. Posizioni di lavoro dipendente nel settore privato per settore.  Variazioni mensili gennaio 2019 - maggio 2026 (tre contratti: cti+cap+ctd) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+Var. cumulata (gennaio 2019=0) Var. tendenziale annualizzata 
+
+
+13/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+# Un focus sulle dinamiche occupazionali nell’industria  
+I primi cinque mesi del 2026 continuano a mostrare una nuova espansione della base occupazionale nel 
+complesso del comparto industriale – superiore a quella del medesimo periodo del biennio precedente – ma con 
+alcuni ambiti del manifatturiero che registrano ancora una riduzione delle posizioni di lavoro. Sullo sfondo 
+permane la tendenza alla normalizzazione delle dinamiche occupazionali, dopo i ritmi di crescita particolarmente 
+sostenuti registrati nel periodo post-pandemico, con andamenti discontinui ed elevata variabilità nel breve 
+periodo nei mesi più recenti. Pesa uno scenario economico fortemente condizionato dalle nuove crisi 
+geopolitiche che hanno aumentato ulteriormente l’incertezza in merito all’evoluzione del ciclo internazionale 
+condizionando le scelte delle aziende2 e permangono tensioni anche sul fronte del reperimento della 
+manodopera e delle professionalità necessarie, in un contesto demografico sfavorevole.  
+Il bilancio nei primi cinque mesi dell’anno per il settore industriale, al netto delle costruzioni, è positivo e in 
+crescita rispetto allo stesso periodo del biennio 2024-2025. Nel metalmeccanico, anche grazie al risultato 
+registrato nel mese di aprile, le posizioni di lavoro tornano ad aumentare, confermando un incremento della 
+domanda di lavoro. Un risultato analogo, pur di dimensioni più contenute, si registra anche nel complesso del 
+made in Italy, che continua tuttavia a presentare importanti differenziazioni al proprio interno (tab. 1).  
+Tab. 1 – Veneto. Posizioni di lavoro dipendente* nel comparto industriale.  
+Saldi occupazionali gennaio 2019 - maggio 2026 
+ Industria (senza costruzioni) 
+Metal- meccanico Auto- motive Made in Italy Tessile-abb. Concia, calzature Legno- mobilio Occhialeria 
+         
+Totale anno         
+2019 6.992 3.914 55 1.809 -458 107 271 957 
+2020 -1.988 -472 -57 -1.965 -903 -634 -224 -524 
+2021 9.329 6.391 102 1.025 -397 55 371 67 
+2022 12.150 6.972 218 3.488 653 983 289 416 
+2023 6.092 3.852 25 1.899 566 -458 -237 525 
+2024 834 420 -112 -550 -1.146 -1.036 -260 912 
+2025 451 1.015 -82 -1.557 -1.249 -539 40 -592 
+Gennaio-maggio         
+2019 8.755 4.556 168 2.599 189 456 532 172 
+2020 -509 179 0 -1.018 -577 -215 -133 -45 
+2021 5.748 3.527 120 832 -101 130 362 -63 
+2022 10.039 5.568 201 2.925 435 684 540 207 
+2023 7.381 4.077 76 2.504 639 138 171 314 
+2024 4.378 1.743 21 1.446 -311 -176 131 499 
+2025 3.718 2.120 2 523 -434 -103 235 -243 
+2026 4.621 2.543 88 1.065 -100 -11 84 70 
+         
+* Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026  
+ 
+Nel comparto metalmeccanico, le aziende dell’automotive3 confermano per i primi cinque mesi del 2026 un 
+leggerissimo incremento delle posizioni di lavoro. All’interno del made in Italy persiste una situazione di 
+contrazione delle posizioni di lavoro nel tessile-abbigliamento (pur di intensità inferiore rispetto a quella delle 
+annualità precedenti) e, nuovamente, anche nell’ambito della concia-calzature. Rallenta il legno-mobilio, mentre 
+nell’occhialeria, dopo un inizio 2026 segnato da una significativa flessione occupazionale – in parte esito di alcuni 
+processi di ristrutturazione organizzativa – il bilancio del periodo si mantiene, pur di poco, positivo (fig. 1). 
+                                                 
+2 Le prospettive dell’economia mondiale restano infatti estremamente incerte per il protrarsi delle tensioni geopolitiche e delle difficoltà negli 
+approvvigionamenti energetici, che hanno spinto al rialzo prezzi del petrolio e inflazione. Gli effetti della crisi restano tuttavia difficili da valutare, 
+soprattutto in relazione al perdurare delle interruzioni nelle rotte internazionali. Questa situazione si riflette sulle scelte delle famiglie e delle imprese, 
+condizionando sia il clima di fiducia che la dinamica della domanda. Nel mese di maggio, secondo le rilevazioni dell’Istat, si registra una flessione 
+dell’indice di fiducia tra le imprese. Nel comparto manifatturiero si osserva una sostanziale stabilità, con un leggero miglioramento dei giudizi sugli 
+ordini, ma non delle attese sulla produzione. L’indice HCOB PMI sul settore manifatturiero italiano anche a maggio mostra un significativo 
+miglioramento con le aziende interessate da una maggiore domanda collegata soprattutto alla creazione di scorte di sicurezza sospinta dal timore di 
+ulteriori interruzioni nella catena di approvvigionamento e dall’aumento dei prezzi. Sul fronte dell’occupazione, le imprese del comparto 
+manifatturiero mostrano un riallineamento dei livelli di crescita del personale evidenziati nei mesi precedenti.  
+3 Il comparto è definito, considerando un perimetro ristretto, in base alla selezione dei seguenti codici Ateco: 27.40.01 Fabbr. apparecchiature di 
+illuminazione e segnalazione per mezzi di trasporto; 29.1 Fabbr. autoveicoli; 29.2 Fabbr. carrozzerie per autoveicoli, rimorchi e semirimorchi; 29.3 
+Fabbr. parti ed accessori per autoveicoli e motori; 29.31 Fabbr. apparecchiature elettriche ed elettroniche per autoveicoli e motori; 29.32 Fabbr. di 
+altre parti e accessori per autoveicoli. 
+
+14/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Fig. 1 – Veneto. Posizioni di lavoro dipendente* nel comparto industriale.  
+Variazioni mensili gennaio 2019 - maggio 2026 
+Var. cumulata (gennaio 2019=0) 
+ 
+Var. tendenziale annualizzata 
+ 
+Var. cumulata (gennaio 2019=0) 
+ 
+Var. tendenziale annualizzata 
+ 
+Var. cumulata (gennaio 2019=0) 
+ 
+Var. tendenziale annualizzata 
+ 
+* Rapporti di lavoro a tempo indeterminato, determinato e apprendistato 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+-5.00005.00010.00015.00020.00025.00030.00035.00040.0002019 2020 2021 2022 2023 2024 2025 26Industria (senza Costruzioni)MetalmeccanicoMade in Italy-6.000-4.000-2.00002.0004.0006.0008.00010.00012.00014.00016.0002019 2020 2021 2022 2023 2024 2025 26Industria (senza Costruzioni)MetalmeccanicoMade in Italy
+-3.200
+-2.800
+-2.400
+-2.000
+-1.600
+-1.200
+-800
+-400
+0
+400
+800
+2019 2020 2021 2022 2023 2024 2025 26
+Automotive
+Tessile-abbigliamento
+Concia-calzature
+-1.500-1.000-50005001.0001.5002019 2020 2021 2022 2023 2024 2025 26AutomotiveTessile-abbigliamentoConcia-calzature
+-1.000-50005001.0001.5002.0002.5003.0002019 2020 2021 2022 2023 2024 2025 26Legno-mobilioOcchialeria-800-600-400-20002004006008001.0001.2001.4002019 2020 2021 2022 2023 2024 2025 26Legno-mobilioOcchialeria
+
+15/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+La rappresentazione delle variazioni mensili cumulate per i diversi comparti consente di mettere a confronto, 
+anche in relazione a quanto avvenuto negli anni precedenti, la progressiva evoluzione dei bilanci occupazionali 
+nel corso dell’anno (fig. 2).  
+Fig. 2 – Veneto. Posizioni di lavoro dipendente* nel metalmeccanico e nel made in Italy.  
+Variazioni mensili cumulate per anno 
+Metalmeccanico 
+ 
+Made in Italy 
+ 
+Automotive 
+ 
+Tessile-abb., concia, calzature 
+ 
+Legno-mobilio 
+ 
+Occhialeria 
+  
+*Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+-2.00002.0004.0006.0008.00010.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026-3.000-2.000-1.00001.0002.0003.0004.0005.0006.0007.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026
+-150
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic
+2019
+20202021
+2022
+2023
+2024
+20252026
+-2.500-2.000-1.500-1.000-50005001.0001.5002.0002.500Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026
+-600-400-2000200400600800Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026-800-600-400-20002004006008001.0001.200Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026
+
+16/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Per quanto riguarda invece la domanda di lavoro, la ricostruzione della dinamica associata al flusso delle nuove 
+assunzioni4 continua a mostrare, su base annua, una graduale stabilizzazione nel made in Italy e un leggero incremento 
+nel metalmeccanico. Una tendenza alla stabilizzazione si intravede anche negli accessi al tempo indeterminato, 
+considerando assunzioni e trasformazioni, con livelli che nel metalmeccanico restano tuttavia superiori a quelli del 
+made in Italy (graff. 1/2).   
+ 
+Graff. 1/2 – Veneto. Assunzioni totali* ed accessi al tempo indeterminato  
+nel metalmeccanico e nel made in Italy. 
+Media mobile mensile (media degli ultimi 12 mesi) 
+ 
+Assunzioni totali 
+ 
+ 
+ 
+ 
+*Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+ 
+ 
+                                                 
+4 Sono escluse da quest’analisi preliminare le missioni attivate in relazione al lavoro in somministrazione. 
+05001.0001.5002.0002.5003.0003.5004.0004.5005.0002019 2020 2021 2022 2023 2024 2025 26Made in ItalyMetalmeccanico05001.0001.5002.0002.5003.0002019 2020 2021 2022 2023 2024 2025 26Made in ItalyMetalmeccanico
+Assunzioni e trasformazioni a tempo indeterminato 
+
+17/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Il comparto industriale, nei primi mesi del 2026, mostra un lieve recupero del saldo occupazionale, dopo una fase 
+caratterizzata da un ridimensionamento dei ritmi di crescita. L’elevato ricorso alla Cassa Integrazione, come 
+suggeriscono i dati riferiti alle ore autorizzate (graff. 3/4-5/6), potrebbe aver attenuato gli effetti sul mercato del lavoro 
+delle incertezze che, più in generale, continuano ad interessare il settore e a condizionare le dinamiche produttive.5 I 
+dati sulle ore di Cassa Integrazione autorizzate nel primo trimestre del 2026 diffusi ad aprile evidenziano sia un 
+incremento delle domande di Cigo, sia un settoriale rafforzamento di quelle di Cigs.    
+ 
+ 
+Graff. 3/4 – Veneto. Ore autorizzate di Cassa integrazione ordinaria e straordinaria nell’industria*  
+(gennaio 2019-marzo 2026)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graff. 5/6 – Veneto. Ore autorizzate di Cassa integrazione ordinaria e straordinaria nell’industria*   
+(gennaio 2022-marzo 2026) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Classificazione settoriale secondo il codice statistico contributivo Inps. 
+Fonte: ns. elab. su dati Inps 
+                                                 
+5 Secondo le informazioni disponibili per il complessivo contesto nazionale, la quota di ore di Cassa integrazione utilizzate fino a gennaio 2026 rispetto 
+alle ore complessivamente autorizzate nel periodo gennaio-dicembre 2025 (tiraggio) si attesta sul 23,70% per la Cigo e al 31,25% per la Cigs. 
+Ordinaria Straordinaria 
+Ordinaria Straordinaria 
+
+
+18/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Nel complesso del periodo gennaio-maggio 2026 sono tornate leggermente a rafforzarsi anche le conclusioni 
+contrattuali, che rimangono su livelli elevati. L’incremento risulta più evidente nel metalmeccanico, mentre nel 
+made in Italy le cessazioni si mantengono stabili, sui livelli dell’anno precedente. Nel metalmeccanico risultano 
+in leggera crescita le dimissioni e i recessi del lavoratore che, per contro, risultano in calo nel made in Italy. 
+Diminuiscono i licenziamenti per motivi economici, individuali e collettivi nel metalmeccanico mentre risultano 
+in leggera crescita nel complesso del made in Italy (tab. 2). 
+ 
+Tab. 2 – Veneto. Cessazioni di rapporti di lavoro dipendente* per motivo della cessazione  
+ Totale anno  Gennaio-maggio 
+Metal-
+mecc. 
+Auto-
+motive 
+Made in 
+Italy 
+Tessile-
+abb. 
+Concia-
+calzat. 
+Legno-
+mobilio 
+Occhia-
+leria 
+Metal-
+mecc. 
+Auto-
+motive 
+Made in 
+Italy 
+Tessile-
+abb. 
+Concia-
+calzat. 
+Legno-
+mobilio 
+Occhia
+-leria                
+Totale cessazioni             
+2019 40.544 1.190 46.008 10.486 5.625 5.984 1.811 16.489 472 18.450 4.382 2.300 2.516 711 
+2020 33.188 979 38.445 7.848 4.373 5.110 1.539 14.330 447 16.186 3.552 1.877 2.149 525 
+2021 40.964 1.314 44.190 9.535 5.397 6.103 1.875 15.218 463 16.657 3.860 2.009 2.122 752 
+2022 46.818 1.467 47.992 9.911 6.428 7.086 2.021 19.877 625 20.434 4.424 2.749 3.003 1.046 
+2023 45.982 1.555 46.204 9.748 6.253 6.494 1.830 19.612 686 19.392 4.119 2.788 2.752 765 
+2024 42.494 1.361 43.620 9.743 5.767 5.930 1.842 18.088 570 18.127 4.209 2.546 2.560 792 
+2025 42.762 1.344 42.548 9.424 5.280 5.889 1.902 17.588 549 18.112 4.162 2.315 2.515 927 
+2026        17.924 554 18.122 4.120 2.212 2.608 877                
+- dimissioni/recessi del lavoratore           
+2019 19.881 610 16.786 4.383 2.867 3.053 788 8.410 250 6.787 1.821 1.174 1.273 329 
+2020 15.679 464 13.399 3.533 2.197 2.587 567 6.531 208 5.519 1.495 885 1.047 237 
+2021 23.573 818 18.961 4.839 3.170 3.641 828 8.992 302 6.836 1.936 1.192 1.310 266 
+2022 27.031 929 22.291 5.318 3.929 4.096 1.165 12.079 415 10.001 2.381 1.780 1.852 588 
+2023 26.293 880 21.202 5.088 3.594 3.751 1.104 11.773 423 9.268 2.197 1.612 1.671 486 
+2024 23.131 745 19.567 5.113 3.295 3.281 1.009 10.372 324 8.515 2.152 1.495 1.491 470 
+2025 22.337 714 18.719 5.118 2.986 3.280 874 9.647 295 8.324 2.285 1.328 1.459 464 
+2026        9.731 334 8.257 2.211 1.317 1.446 497 
+ 
+       
+       
+- licenziamenti economici (ind. e collettivi)         
+2019 3.162 147 5.262 2.522 743 641 334 1.176 59 2.237 1.030 336 316 114 
+2020 1.747 76 2.662 1.160 421 378 165 1.015 44 1.373 551 200 211 62 
+2021 1.462 52 3.199 1.752 456 266 95 500 9 1.285 774 164 47 20 
+2022 2.258 79 3.620 1.639 476 494 253 986 34 1.775 857 180 194 220 
+2023 2.386 68 3.434 1.469 562 517 83 950 32 1.565 664 266 199 25 
+2024 2.791 127 3.799 1.697 727 469 134 1.195 53 1.582 809 245 201 31 
+2025 3.334 140 4.295 1.664 730 491 417 1.482 54 1.900 819 319 226 163 
+2026        1.364 67 1.937 709 347 242 174 
+               
+* Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+ 
+ 
+ 
+# Un focus sulle dinamiche occupazionali nelle costruzioni 
+Negli ultimi anni il comparto delle costruzioni ha registrato dinamiche occupazionali particolarmente positive, 
+sostenute dagli incentivi all’edilizia e dall’avvio degli interventi finanziati dal PNRR. Questa fase espansiva ha 
+contribuito in misura rilevante alla crescita delle posizioni di lavoro in essere e al recupero della pesante perdita 
+occupazionale accumulata dal settore a partire dalla crisi del 2008. 
+Più di recente, tuttavia, sul finire del 2025 e nei primi mesi del 2026, la crescita del lavoro dipendente ha 
+evidenziato un marcato rallentamento, diffuso nei territori e nelle diverse componenti del comparto. Nei primi 
+cinque mesi dell’anno il saldo occupazionale resta positivo, ma risulta fortemente ridotto rispetto allo stesso 
+periodo delle annualità precedenti: diminuiscono le assunzioni, mentre aumentano le cessazioni dei rapporti di 
+lavoro, segnalando un complessivo indebolimento della domanda di lavoro. Il saldo negativo registrato nel mese 
+di maggio accentua ulteriormente questa tendenza. 
+ 
+
+19/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+Tab. 1 – Veneto. Posizioni di lavoro dipendente* nelle costruzioni.  
+Assunzioni, cessazioni e saldi occupazionali gennaio 2019 - maggio 2026 
+ Totale anno  Gennaio-maggio Assunzioni Cessazioni Saldi Assunzioni Cessazioni Saldi 
+       
+2019 39.606 36.423 3.183 18.706 14.342 4.364 
+2020 33.363 30.047 3.316 13.403 11.299 2.104 
+2021 38.522 34.468 4.054 15.993 12.566 3.427 
+2022 42.112 37.027 5.085 19.598 15.101 4.497 
+2023 44.431 40.058 4.373 19.156 15.685 3.471 
+2024 46.484 42.089 4.395 20.547 16.798 3.749 
+2025 45.271 42.006 3.265 20.729 17.019 3.710 
+2026    19.335 17.182 2.153 
+       
+* Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026  
+ 
+Fig. 1 – Veneto. Posizioni di lavoro dipendente* nelle costruzioni.  
+Variazioni mensili gennaio 2019 - maggio 2026 
+Var. cumulata (gennaio 2019=0) 
+ 
+Var. tendenziale annualizzata 
+ 
+Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+Fig. 2 – Veneto. Posizioni di lavoro dipendente* nelle costruzioni.  
+Variazioni mensili cumulate per anno 
+ 
+ 
+Rapporti di lavoro a tempo indeterminato, determinato e apprendistato. 
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+05.00010.00015.00020.00025.00030.00035.0002019 2020 2021 2022 2023 2024 2025 26-1.00001.0002.0003.0004.0005.0006.0007.0002019 2020 2021 2022 2023 2024 2025 2601.0002.0003.0004.0005.0006.0007.0008.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20192020202120222023202420252026
+
+20/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+●  Per moƟvo di cessazione 
+ 
+Tab. 7 – Veneto. Cessazioni di rapporti di lavoro dipendente per motivo della cessazione. Confronto 2024-2026.  Rapporti di lavoro a tempo indeterminato, determinato e di apprendistato 
+ 2024 2025 2026     Gennaio-maggio 218.777 220.268 229.590 
+Lic. disciplinari 4.425 3.588 3.760 
+Lic. economici individuali 10.141 10.193 10.141 
+Lic. collettivi 750 1.199 1.215 
+Altre cess. con diritto alla Naspi 12.523 10.887 10.209 
+Dimissioni/Recessi del lavoratore 82.910 81.345 79.962 
+Fine termine 103.438 108.441 119.881 
+Altro 4.590 4.615 4.422     Maggio 42.615 44.274 44.048 
+Lic. disciplinari 950 760 800 
+Lic. economici individuali 1.684 1.882 1.931 
+Lic. collettivi 79 235 173 
+Altre cess. con diritto alla Naspi 2.971 2.366 2.505 
+Dimissioni/Recessi del lavoratore 17.549 17.875 17.094 
+Fine termine 18.714 20.308 20.833 
+Altro 668 848 712     
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+21/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+●  Il lavoro somministrato  
+ 
+Tab. 8 – Veneto. Settore privato. Confronto 2024-2026.  Attivazioni e saldi di rapporti di lavoro in somministrazione 
+  2024  2025  2026 
+ Attivazioni Saldo Attivazioni Saldo Attivazioni Saldo        Gennaio-aprile 40.780 2.794 40.123 2.973 41.154 2.592 
+Gennaio 10.640 585 10.914 553 11.087 621 
+Febbraio 9.164 610 9.081 1.413 9.479 609 
+Marzo 9.167 -561 9.908 177 9.830 272 
+Aprile 11.809 2.160 10.220 830 10.758 1.090 
+Maggio 11.363 1.513 10.706 930   
+Giugno 11.570 219 11.186 1.266   
+Luglio 11.092 274 10.363 422   
+Agosto 7.620 -2.756 6.616 -3.694   
+Settembre 13.377 1.312 13.110 2.138   
+Ottobre 11.692 191 11.633 311   
+Novembre 10.439 471 10.522 289   
+Dicembre 6.847 -4.398 6.740 -4.048          
+Fonte: ns. elab. su dati Silv, aggiornamento all’8 giugno 2026 
+ 
+ 
+ 
+
+22/22 
+ 
+Osservatorio regionale Mercato del Lavoro     
+Giugno 2026 
+ 
+ 
+ 
+  Glossario essenziale  
+ 
+Assunzione/attivazione: inizio di un nuovo rapporto di lavoro, a carattere permanente o temporaneo, 
+sottoposto a comunicazione obbligatoria da parte del datore di lavoro. 
+Cessazione: conclusione di un rapporto di lavoro a carattere permanente o temporaneo; la comunicazione 
+obbligatoria non è dovuta nel caso di rapporti di lavoro a termine che si concludono alla data di fine prevista. 
+Comunicazioni Obbligatorie (CO): comunicazioni che tutti i datori di lavoro, pubblici e privati, devono 
+obbligatoriamente trasmettere ai servizi competenti in caso di attivazione, proroga, trasformazione e 
+cessazione di rapporti di lavoro subordinato, di tirocini e di altre esperienze professionali previste dalla 
+normativa vigente. 
+Flusso: indica i movimenti (in questo caso occupazionali, ovvero assunzioni, cessazioni, trasformazioni di 
+rapporti di lavoro) osservati in un determinato arco di tempo. Considerando che un lavoratore può essere 
+stato interessato da più movimenti occupazionali della stessa tipologia nel periodo di tempo osservato, il 
+conteggio dei flussi non coincide necessariamente con il numero di lavoratori movimentati (teste). 
+Posizioni di lavoro: rapporti di lavoro. Poiché un individuo può essere interessato, nel medesimo periodo, da 
+più rapporti di lavoro, il numero delle posizioni di lavoro non coincide con il numero di occupati (teste).    
+Saldo (delle posizioni di lavoro): variazione delle posizioni di lavoro intervenuta in un determinato periodo. 
+Il saldo complessivo è dato dalla differenza tra il numero delle assunzioni e quello delle cessazioni registrate 
+nel periodo. Per calcolare il saldo per tipologia contrattuale è necessario tenere conto anche dalle 
+trasformazioni/conferme a tempo indeterminato (rispettivamente dei contratti a tempo determinato e di 
+apprendistato). 
+Sistema Informativo Lavoro del Veneto (Silv): raccolta e sistematizzazione delle informazioni contenute nelle 
+Comunicazioni Obbligatorie effettuate dalle aziende localizzate in regione ai Centri per l’impiego (Cpi) in 
+riferimento ai rapporti di lavoro e di quelle relative ai soggetti che dichiarano esplicitamente la loro 
+condizione di disoccupazione e l’orientamento alla ricerca attiva di un lavoro (rilascio di una Dichiarazione di 
+immediata disponibilità al lavoro, Did).  
+Trasformazione: modifiche dei rapporti di lavoro che riguardano la tipologia contrattuale (da contratti a 
+termine a contratti a tempo indeterminato) o il regime orario (da part time a full time e viceversa). 
+Variazione congiunturale: variazione assoluta o percentuale rispetto al periodo immediatamente precedente. 
+Variazioni cumulate (delle posizioni di lavoro): somma delle variazioni assolute (saldi) intercorse nell’arco di 
+un periodo a partire da un determinato momento.  
+Variazione tendenziale: variazione assoluta o percentuale rispetto al corrispondente periodo dell’anno 
+precedente.

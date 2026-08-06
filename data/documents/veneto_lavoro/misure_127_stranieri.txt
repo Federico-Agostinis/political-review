@@ -1,0 +1,610 @@
+2/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Misure/127 – Misurare la presenza straniera nel mercato del lavoro veneto 
+a cura di Letizia Bertazzon, Stefania Maschio, Ilaria Rocco 
+ 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+ 
+ 
+ 
+3/12 
+ 
+ 
+Il report analizza la presenza dei lavoratori stranieri nel mercato del lavoro veneto, mostrando come 
+consistenza e incidenza varino in modo significativo a seconda della fonte utilizzata e della prospettiva 
+adottata: popolazione residente, forze di lavoro, occupati, rapporti di lavoro, assunzioni o disoccupazione. 
+Nel 2025 gli occupati stranieri residenti sono circa 267mila, pari al 12% del totale, mentre gli stranieri con 
+un rapporto di lavoro dipendente in aziende situate in regione superano le 320 mila unità in media annua, 
+con un’incidenza superiore al 17%. Ancora più rilevante è il loro peso sui flussi: i lavoratori stranieri 
+rappresentano circa un terzo delle nuove assunzioni e, ogni anno oltre 50 mila fanno il loro primo ingresso 
+nel mercato del lavoro veneto. 
+La presenza straniera si conferma quindi una componente strutturale della forza lavoro regionale, rilevante 
+soprattutto nel lavoro dipendente e nei flussi di ingresso, ma anche caratterizzata da maggiore mobilità e 
+discontinuità. Per questo, una lettura integrata delle diverse fonti è essenziale per evitare interpretazioni 
+parziali del fenomeno. 
+ 
+  
+Abstract 
+
+ 
+ 
+ 
+4/12 
+ 
+Quanti sono i lavoratori stranieri in Veneto? 
+Si dice che per ogni problema complesso esista sempre una soluzione semplice, ma sbagliata. Anche la 
+risposta a un quesito apparentemente “semplice”, come quello a cui questa nota intende rispondere, 
+rischia infatti di trasformarsi in un errore. Per rispondere alla domanda “quanti sono i lavoratori stranieri 
+in Veneto?”, individuare tra le diverse fonti un dato che, più o meno correttamente, si presti a colmare le 
+necessità conoscitive del momento può risultare relativamente facile e alla portata di tutti. Se si vuole 
+procedere con rigore, come è auspicabile nel campo della ricerca (ma non solo!), è però necessario 
+affrontare la “questione” in modo diverso.  
+Innanzitutto, provando a riformulare la domanda. Questo aiuta a chiarire con precisione di che cosa 
+abbiamo bisogno e, di conseguenza, a farsi un’idea di ciò che i dati disponibili possono realmente 
+raccontare. Ad esempio, ci riferiamo a tutti i lavoratori con cittadinanza straniera oppure ai soli cittadini 
+non comunitari (o extracomunitari), che spesso rappresentano il principale profilo dell’immigrazione? 
+Parliamo di lavoratori residenti in un territorio o ci interessa piuttosto considerare il bacino di persone che 
+quel territorio lo “frequenta” per ragioni lavorative? Ci è più utile un’indicazione di una presenza media, 
+ad esempio nell’anno, oppure vogliamo guardare alla domanda complessiva di lavoro?  
+Potremmo proseguire in questa direzione, vagliando le diverse ipotesi che possono aiutarci a definire un 
+fenomeno estremamente complesso – quello dell’immigrazione nel mercato del lavoro – in cui si 
+intrecciano, e talvolta si amplificano, le molteplici dimensioni che riguardano, da un lato, le regole di 
+accesso al lavoro e, dall’altro, l’evoluzione normativa (oltre che le caratteristiche e la storia) della presenza 
+straniera nel nostro territorio. Leggere e interpretare correttamente i dati messi a disposizione dalle 
+diverse fonti informative dipende dalla capacità di integrare le informazioni su entrambi i fronti. 
+In questa breve nota proveremo a mettere in ordine, pur in estrema sintesi e senza ambizioni di esaustività, 
+le informazioni provenienti da diverse fonti di dati (statistiche e amministrative), che restituiscono letture 
+differenti ma complementari del fenomeno. Fare chiarezza, esplorando i diversi modi con cui è possibile 
+rispondere alla domanda di partenza, rappresenta non solo un utile esercizio di confronto metodologico, 
+ma anche uno stimolo a non lasciarsi fuorviare da interpretazioni scorrette dei dati. Da tale lettura 
+dipendono il giudizio complessivo che si può formulare su un fenomeno, la valutazione delle sue possibili 
+evoluzioni nel tempo e, soprattutto, le decisioni che su tali informazioni si fondano.  
+ 
+1. Popolazione residente e forza lavoro straniera 
+Per completezza, iniziamo facendo un passo indietro, utile a definire i confini entro cui collocare la presenza 
+complessiva nel mercato del lavoro. Un riferimento fondamentale è rappresentato dalla popolazione in età 
+lavorativa presente in un determinato territorio, in questo caso quello della regione Veneto. Secondo l’Istat, 
+la popolazione in età lavorativa comprende le persone tra i 15 e i 64 anni – definizione standard, oggi sempre 
+più spesso affiancata a livello internazionale dalla classe 15-74 anni, per tener conto del progressivo 
+invecchiamento della popolazione e dell’allungamento delle carriere lavorative – e rappresenta la base 
+demografica potenziale del mercato del lavoro. Essa si distingue dalle fasce di età tradizionalmente non attive 
+(0-14 anni e 65 anni o più). 
+Secondo i dati Istat della Rilevazione della popolazione residente, gli stranieri in età lavorativa residenti in 
+Veneto sono circa 388mila al 1° gennaio 20251, in crescita rispetto al 2022. Essi rappresentano il 77,1% della 
+popolazione straniera residente complessiva, e il 12,6% del totale della popolazione in età lavorativa della 
+regione.  
+                                                 
+1 I dati provvisori al 1° gennaio 2026, basati sulle risultanze anagrafiche, stimano in oltre 398mila gli stranieri residenti in Veneto in età lavorativa, in 
+lieve crescita rispetto all’anno precedente. Per la definizione del dato definitivo saranno necessari gli aggiustamenti censuari, che tendono 
+generalmente a correggere al ribasso le risultanze anagrafiche. 
+
+ 
+ 
+ 
+5/12 
+ 
+In base al Censimento permanente della popolazione e delle abitazioni, a fine 2024 i cittadini stranieri 
+residenti in Veneto appartenenti alle forze di lavoro (occupati e disoccupati) sono circa 272mila, pari all’11,5% 
+del totale della popolazione attiva nel mercato del lavoro. Questa quota risulta leggermente più elevata se si 
+considerano i dati della Rilevazione sulle forze di lavoro, che adottano una misura media annua e tengono 
+quindi conto anche dei movimenti intervenuti nel corso dell’anno e delle presenze temporanee.  
+Secondo questa fonte, nel 2025 le forze di lavoro straniere residenti in Veneto ammontano 
+complessivamente a circa 283mila unità, pari al 14,2% del totale. Circa i due terzi di questo bacino – una 
+quota in crescita nel tempo – è costituito da cittadini non comunitari. 
+ 
+Tab. 1 – Veneto. Stranieri residenti in Veneto, totale, in età lavorativa e forze di lavoro (2021-2026*) 
+  2021  2022   2023  2024   2025  2026* 
+        
+Stranieri residenti in Veneto (Istat) al 1° gennaio 509.420 493.119 498.127 501.161 503.466 515.298 
+% su totale residenti  10,5% 10,2% 10,3% 10,3% 10,4% 10,6% 
+di cui:        
+- Comunitari  150.771 148.451 148.688 148.646 147.127  
+- Non comunitari  358.649 344.668 349.439 352.514 356.337  
+    % non comun. su totale stranieri res.  70,4% 69,9% 70,2% 70,3% 70,8%  
+        
+Stranieri res. in età lavorativa (15-64 anni) al 1° gennaio 391.640 375.822 379.825 384.179 388.295 398.198 
+% su totale stranieri res.  76,9% 76,2% 76,3% 76,7% 77,1% 77,3% 
+% su totale res. in età lavorativa  12,6% 12,2% 12,3% 12,5% 12,6% 13,0% 
+        
+Stranieri, forze di lavoro (Censimento) al 31 dicembre 263.273 264.504 269.979 271.740   
+% su totale forze di lavoro  11,4% 11,4% 11,5% 11,5%   
+        
+Stranieri, forze di lavoro (Eurostat) media annua 265.400 274.100 284.300 290.400 282.700  
+% su totale forze di lavoro  13,7% 13,9% 13,9% 14,5% 14,2%  
+di cui:        
+- Comunitari  94.600 95.600 98.600 102.000 94.000  
+- Non comunitari  170.700 178.500 185.700 187.900 188.700  
+% non comun. su totale stranieri res.  64,3% 65,1% 65,3% 64,7% 66,7%  
+        
+* Dato stimato. 
+Fonte: elab. Veneto Lavoro su dati Istat (Rilevazione della popolazione residente, Censimento permanente della popolazione e delle abitazioni e 
+Rilevazione sulle forze di lavoro) e Eurostat (EU Labour Force Survey) 
+ 
+ 
+ 
+I residenti con background migratorio nel contesto regionale 
+Il dettaglio informativo offerto dal Censimento permanente della popolazione e delle abitazioni sul complesso dei residenti 
+in regione consente di delineare in modo più preciso le caratteristiche e la composizione della popolazione in base alla 
+condizione personale e ai percorsi migratori. Grazie a queste informazioni è possibile ricostruire, e conoscere più a fondo, 
+l’insieme della popolazione di cittadinanza straniera o di origine straniera presente in Veneto e, per estensione, nel mercato 
+del lavoro regionale.   
+Un primo insieme di informazioni riguarda il contesto di nascita dei residenti stranieri. Secondo i dati del Censimento, nel 
+triennio 2021-2023 la maggior parte dei cittadini non italiani presenti nel territorio regionale è costituita da persone nate 
+all’estero, in larga parte provenienti da paesi non comunitari. I residenti con cittadinanza straniera nati in Italia, per lo più 
+minori, si attestano invece tra il 17% e il 18%, in graduale diminuzione nel periodo considerato.  
+Una seconda integrazione informativa riguarda l’insieme degli italiani acquisiti, ovvero quei soggetti che, nel corso 
+dell’esperienza migratoria nel nostro Paese hanno ottenuto la cittadinanza italiana per discendenza, nascita in Italia, 
+matrimonio o residenza (naturalizzazione). Si tratta di persone di origine straniera divenute nel tempo parte integrante della 
+componente nazionale della popolazione. A fine 2023, gli italiani acquisiti residenti in regione erano poco meno di 229mila 
+(il 20% con meno di 18 anni); in circa i tre quarti dei casi si tratta di persone nate all’estero e successivamente divenute 
+italiane. Sul totale dei residenti italiani, essi rappresentano il 5,3% (mentre sono il 4,7% della popolazione totale).  
+ 
+ 
+
+ 
+ 
+ 
+6/12 
+ 
+ 
+Complessivamente, le persone con background migratorio residenti in regione (residenti stranieri e italiani acquisiti) sono 
+circa 730mila; di queste, circa il 26% è minorenne. Il peso sul totale della popolazione residente in regione si attesta intorno 
+al 15%. 
+ 
+Tab. B1 – Veneto. Popolazione straniera residente, residenti italiani acquisiti ed incidenza sul totale dei residenti 
+(al 31 dicembre di ogni anno) 
+ 2021 2022 2023     Residenti totali in regione 4.847.745 4.849.553 4.852.216 
+ - italiani 4.354.626 4.351.426 4.351.055     Residenti stranieri    Totale residenti stranieri  493.119 498.127 501.161 
+ - con cittadinanza extra UE 344.668 349.439 352.515 
+Inc. % stranieri su tot. residenti 10,2% 10,3% 10,3% 
+Inc. % extra UE su totale stranieri 86,8% 86,9% 86,9%     Residenti stranieri nati in Italia  90.707 88.851 85.485 
+di cui: minori 86.608 83.760 79.732 
+Inc. % stranieri su tot. residenti stranieri 18,4% 17,8% 17,1% 
+Residenti stranieri nati all’estero  402.412 409.276 415.676 
+Inc. % nati all’estero su totale stranieri 81,6% 82,2% 82,9% 
+ - in paesi extra UE 279.556 286.220 292.485     Residenti italiani acquisiti    Totale italiani acquisiti  188.774 207.421 228.623 
+di cui: minori 38.290 41.856 45.770 
+Italiani acquisiti nati in Italia  48.371 55.007 62.669 
+di cui: minori 33.674 37.119 40.724 
+Italiani acquisiti nati all’estero  140.403 152.414 165.954 
+Inc. % italiani acquisiti su totale residenti 3,9% 4,3% 4,7% 
+Inc. % italiani acquisiti su totale italiani 4,3% 4,8% 5,3%     Popolazione con background migratorio    Totale residenti stranieri e residenti italiani acquisiti 681.893 705.548 729.784 
+di cui: minori 181.541 186.792 191.303 
+Inc. % su tot. residenti 14,1% 14,5% 15,0%     
+Fonte: elab. Veneto Lavoro su dati Istat, Censimento permanente della popolazione e delle abitazioni 
+ 
+ 
+Le domande a cui il paragrafo risponde: 
+ Quanti sono gli stranieri residenti in regione e quale è il loro peso sul totale della popolazione? Quanti sono i cittadini 
+non comunitari? Al 1° gennaio 2025, gli stranieri residenti in Veneto sono complessivamente 503mila, il 10,4% della 
+popolazione complessiva. Di questi, i non comunitari sono 356mila, il 70,8% degli stranieri residenti. 
+ Quante sono le persone con background migratorio (cittadini stranieri e italiani acquisiti) residenti in Veneto? Quale 
+è il loro peso sul totale della popolazione? I residenti con background migratorio in Veneto, al 31 dicembre 2023 (ultimo 
+dato disponibile) sono complessivamente 730mila (di questi 229mila sono italiani acquisiti), pari al 15% della 
+popolazione. 
+ Tra i residenti stranieri in Veneto, quanti sono quelli in età lavorativa? Quale il loro peso sul totale della popolazione? 
+Al 1° gennaio 2025, i residenti stranieri in età lavorativa sono 388mila, il 77,1% di tutti gli stranieri e il 12,6% della 
+complessiva popolazione in età lavorativa. 
+ Considerando la condizione occupazionale dei residenti stranieri, a quanto ammonta il bacino delle forze di lavoro 
+(occupati e disoccupati)? Al 31 dicembre 2024, sulla base della condizione professionale rilevata dal Censimento, i 
+residenti stranieri appartenenti alle forze di lavoro sono circa 272mila, pari all’11,5% del totale. 
+ Nel corso dell’anno, qual è la consistenza media del bacino delle forze di lavoro straniere in regione? Quanti i cittadini 
+non comunitari? Nel 2025, gli stranieri appartenenti alle forze di lavoro (media annua) sono circa 283mila, pari al 14,2% 
+del totale. Di questi, 189mila sono cittadini non comunitari, pari al 66,7% di tutti gli stranieri.  
+
+ 
+ 
+ 
+7/12 
+ 
+2. Occupati stranieri residenti in regione 
+A seconda della fonte informativa, della modalità di misurazione e del criterio di osservazione, il numero di 
+stranieri occupati in regione varia sia nei valori assoluti che nel peso sul totale degli occupati. Secondo i dati 
+del Censimento, a fine 2024 gli occupati stranieri sono circa 245mila – in significativa crescita nel tempo – 
+con un’incidenza sul totale che sfiora l’11%.  
+Considerando il volume medio annuo degli occupati stranieri derivante dalla Rilevazione sulle forze di lavoro, 
+il dato si attesta su livelli più elevati, in crescita fino al 2024 e in lieve flessione nel 2025, quando il peso sul 
+totale degli occupati supera di poco il 12%. Circa i 2/3 sono cittadini non comunitari. Si tratta, nella grande 
+maggioranza dei casi, di lavoratori dipendenti (88% nel 2025); il peso dei lavoratori stranieri sul totale dei 
+dipendenti si colloca al di sopra del 13%. 
+ 
+Tab. 2 – Veneto. Occupati stranieri e peso sul totale degli occupati secondo le principali fonti 
+   2021 2022 2023 2024 2025  
+ISTAT, 
+Censimento  
+Occupati stranieri   Al 31 dic. 229.966 235.309 241.215 245.003  Popolazione residente in Veneto (15 
+anni e più) per condizione 
+professionale al 31 dic. di ogni anno 
+% su totale  10,7% 10,8% 10,8% 10,9% 
+         
+Eurostat e Istat, 
+Rilevazione forze 
+di lavoro  
+Occupati stranieri   Media annua 240.700 254.900 262.600 272.400 267.200 Occupati (15 anni e più), residenti in 
+Veneto % su totale 11,6% 11,9% 11,8% 12,2% 12,1% 
+di cui:      
+Comunitari 86.700 91.700 95.400 96.200 89.900 
+Non comunitari 153.900 163.200 167.200 175.800 177.300 
+% non comun.  63,9% 64,0% 63,7% 64,5% 66,4% 
+ - dipendenti 216.865 224.256 231.375 241.132 233.935 
+% stranieri su tot. dip.  13,1% 13,3% 13,1% 13,5% 13,2%   
+      
+Fonte: elab. Veneto Lavoro su dati Istat, Censimento permanente della popolazione e delle abitazioni, Rilevazione sulle forze di lavoro e Eurostat (EU 
+Labour Force Survey)  
+ 
+Le domande a cui il paragrafo risponde: 
+ Considerando la condizione occupazionale dei residenti stranieri, quanti sono gli occupati in Veneto? A fine 2024, gli 
+stranieri residenti in Veneto occupati sono 245mila, pari al 10,9% del totale dei residenti occupati. 
+ Nel corso dell’anno, qual è la consistenza media del numero di occupati stranieri in regione? Quanti i non comunitari? 
+Nel corso del 2025, gli occupati stranieri residenti in Veneto (media annua) sono stati 267mila, il 12,1% del totale degli 
+occupati residenti. Di questi, 177mila sono cittadini non comunitari, pari al 66,4% di tutti gli occupati stranieri.  
+ Tra gli occupati stranieri, quanti sono i dipendenti? E quanto incidono sul totale dei dipendenti? Tra gli occupati 
+stranieri mediamente rilevati nel 2025, i lavoratori dipendenti sono circa 234mila (l’88% degli occupati stranieri). Essi 
+rappresentano il 13,2% di tutti i dipendenti residenti in regione. 
+ 
+ 3. La domanda di lavoro: assunzioni di stranieri nelle aziende del Veneto 
+Adottiamo ora una prospettiva diversa e utilizziamo come fonte le informazioni sui lavoratori contribuenti 
+nell’anno tratte dagli archivi amministrativi dell’Inps (ossia riferendoci al bacino del totale dei lavoratori con 
+almeno un versamento nell’anno nei settori privato agricolo ed extra agricolo). Nel 2024 – ultimo dato 
+disponibile – i lavoratori stranieri impiegati in aziende con sede nel territorio regionale, indipendentemente 
+dal luogo di residenza e dalla durata effettiva del contratto, risultano complessivamente circa 426mila (erano 
+371mila nel 2021). Di questi, oltre il 90% è costituito da lavoratori subordinati. I cittadini non comunitari, 
+poco meno di 370mila nel 2024, sono in crescita e rappresentano l’86,7% del totale degli occupati stranieri; 
+tra i lavoratori dipendenti, la loro incidenza si attesta al 77,2%, in aumento rispetto al 73,6% del 2021. 
+
+ 
+ 
+ 
+8/12 
+ 
+In media annua2, i lavoratori stranieri contribuenti sono 366mila (in larga maggioranza dipendenti). Tra 
+questi, i cittadini non comunitari sono 283mila (di cui 256mila dipendenti) e rappresentano il 77,3% del totale. 
+Tab. 3 – Veneto. Lavoratori stranieri contribuenti impiegati presso le aziende della regione 
+   2021 2022 2023 2024     
+   
+  
+INPS, Osservatorio 
+Stranieri 
+contribuenti per 
+condizione 
+prevalente  
+Lavoratori stranieri    Totale anno 370.761 395.868 410.603 425.575 Lavoratori contribuenti, con almeno un 
+versamento nell’anno, settore privato 
+agricolo e privato extra agricolo 
+ - dipendenti 334.296 358.125 372.620 387.443 
+Non comunitari 304.073 328.437 349.063 369.018 
+ - dipendenti 245.929 268.094 283.536 299.287 
+% non comun. su tot. stranieri 82,0% 83,0% 85,0% 86,7% 
+% non comun. su stranieri dip. 73,6% 74,9% 76,1% 77,2%  Lavoratori stranieri    Media anno 311.347 338.056 352.160 366.098 Numero medio annuo di lavoratori 
+contribuenti, con almeno un 
+versamento nell’anno, settore privato 
+agricolo e privato extra agricolo 
+ - dipendenti 277.732 303.114 317.280 331.333 
+Non comunitari 230.663 254.777 268.686 282.886 
+ - dipendenti 205.042 228.092 242.013 256.217 
+% non comun. su tot. stranieri 74,1% 75,4% 76,3% 77,3% 
+% non comun. su stranieri dip. 73,8% 75,2% 76,3% 77,3% 
+       
+Fonte: elab. Veneto Lavoro su dati Inps, Osservatorio stranieri 
+ 
+Un ulteriore punto di osservazione sulla presenza straniera nel mercato del lavoro regionale è quello riferito 
+alla domanda di lavoro e ai flussi che la caratterizzano, in termini di posizioni lavorative attivate ─ con 
+riferimento ai cittadini stranieri ─ dalle unità locali delle imprese in regione.3 Le informazioni utilizzate 
+derivano dal Silv (Sistema informativo lavoro veneto) e si basano sui dati di flusso del sistema delle 
+Comunicazioni Obbligatorie. A partire dai dati di questo archivio amministrativo è possibile definire diverse 
+modalità di conteggio, riferite ai lavoratori assunti in regione, indipendentemente dalla loro residenza. 
+Nel tentativo di quantificare la presenza complessiva dei lavoratori stranieri nel mercato del lavoro regionale, 
+le principali modalità di analisi si basano sulla rielaborazione dei dati di flusso, al fine di ricostruire grandezze 
+di stock.4 Queste misure possono restituire due diverse tipologie di informazioni: una fotografia a fine anno 
+(stock al 31 dicembre) e uno stock medio annuo, calcolato come media dei lavoratori attivi al mese, che 
+consente di tenere maggiormente conto della variabilità dei rapporti di lavoro nel corso dell’anno – 
+includendo quindi anche le dinamiche legate alla stagionalità.5  
+Lo stock di lavoratori stranieri dipendenti6 al 31 dicembre 2025 è pari a circa 305mila unità (oltre 354mila 
+includendo i contratti di lavoro domestico attivati presso le famiglie del territorio), in progressiva crescita nel 
+corso degli anni. Lo stock medio annuo dei lavoratori stranieri con un rapporto di lavoro attivo si attesta, per 
+il 2025, a circa 321mila occupati stranieri (371mila includendo i domestici). In questo caso, il peso sul totale 
+degli occupati raggiunge il 17,2%, che sale al 19,1% se si considera anche il lavoro domestico. 
+Le dinamiche di crescita della presenza straniera nel mercato del lavoro dipendente regionale sono ben 
+rappresentate dai saldi occupazionali. Le variazioni annuali, definite come differenza tra le assunzioni e le 
+cessazioni intervenute nel corso dell’anno, consentono infatti di cogliere il trend e l’intensità della crescita 
+delle posizioni di lavoro occupate da cittadini stranieri rispetto allo stock complessivo. 
+                                                 
+2 Il numero medio annuo di stranieri considera il numero dei mesi di effettiva presenza nell’anno; ad es. un soggetto presente per soli sei mesi è 
+conteggiato per 0,5. 
+3 Nel caso delle informazioni contenute nel Silv, va sottolineato che la cittadinanza del lavoratore è l’ultima derivante dalle comunicazioni effettuate. 
+Potrebbero esserci dei casi, soprattutto in concomitanza dei rapporti di lavoro più duraturi, di individui che nel frattempo hanno acquisito la 
+cittadinanza italiana e che continuano ad essere conteggiati tra gli stranieri. 
+4 Per la loro natura e in relazione alla progressiva evoluzione del sistema di registrazione delle Comunicazioni Obbligatorie, gli archivi amministrativi 
+su cui si basa il Silv non risultano ancora pienamente esaustivi rispetto al totale delle posizioni lavorative attive in regione. Rimane infatti esclusa una 
+quota residuale (destinata a ridursi nel tempo) di rapporti di lavoro, soprattutto con riferimento ai contratti di più lunga durata. Nel caso dei lavoratori 
+stranieri, tuttavia, la ricostruzione degli stock risulta più completa: la relativamente recente espansione del fenomeno migratorio e l’elevata mobilità 
+occupazionale che caratterizza questo gruppo contribuiscono a rendere maggiore il grado di copertura delle informazioni disponibili. 
+5 In questo esercizio di stima sono esclusi il lavoro intermittente e il parasubordinato, forme contrattuali tradizionalmente non molto diffuse tra i 
+lavoratori non italiani. 
+6 In riferimento ai contratti a tempo indeterminato, in apprendistato, a tempo determinato e le missioni in somministrazione. 
+
+ 
+ 
+ 
+9/12 
+ 
+Tornando ai dati di flusso, le informazioni delle Comunicazioni Obbligatorie restituiscono un quadro 
+dettagliato sui nuovi rapporti di lavoro attivati nell’anno e sui lavoratori coinvolti. Nel 2025, le nuove 
+assunzioni di lavoratori stranieri – che non vanno confuse con il dato sulla presenza complessiva di cittadini 
+stranieri nel mercato del lavoro regionale – si sono attestate attorno alle 257mila unità (oltre 280mila 
+includendo anche il lavoro domestico), mentre i lavoratori interessati sono risultati poco più di 170mila 
+(185mila con il lavoro domestico). 
+L’elevato numero di assunzioni rispetto ai lavoratori coinvolti evidenzia il peculiare inserimento di questi 
+lavoratori in rapporti di breve durata: in molti casi, uno stesso lavoratore è interessato da più assunzioni nel 
+corso dell’anno. Il peso delle assunzioni di stranieri sul totale si colloca attorno al 30%, in crescita nel tempo. 
+La notevole incidenza dei lavoratori stranieri tra i nuovi rapporti attivati riflette sia la maggiore diffusione di 
+rapporti di breve durata, sia la loro concentrazione in settori e profili professionali più esposti a stagionalità 
+o discontinuità occupazionale7, in particolare nell’ambito dell’agricoltura, delle costruzioni e di alcuni 
+comparti del manifatturiero e dei servizi (come ristorazione, cura e pulizia).  
+Gli esordienti stranieri nel mercato del lavoro regionale – ovvero i lavoratori dipendenti assunti per la prima 
+volta da imprese del territorio8 – risultano in significativa crescita nel corso degli anni. Il picco è stato 
+raggiunto nel 2024, con oltre 60mila ingressi. Nel 2025 si attestano a 55.500 unità (57.300 includendo anche 
+il lavoro domestico). 
+ 
+Tab. 4 – La domanda di lavoro dipendente* secondo i dati del SILV.  
+Rapporti di lavoro attivati dalle unità locali aziendali del Veneto 
+  2021 2022 2023 2024 2025 
+  
+     
+Stock lavoratori stranieri con un 
+rapporto di lavoro in essere al 
+31/12 
+  
+Lavoratori dipendenti (stock al 31/12) 237.291 254.841 273.695 293.247 305.150 
+- incluso lavoro domestico 291.687 304.879 322.660 342.254 354.215 
+% su totale**           
+   Lavoratori dipendenti 14,0% 14,8% 15,5% 16,3% 16,7% 
+   - incluso lavoro domestico 16,5% 17,0% 17,6% 18,3% 18,8% 
+       
+Saldi di posizioni di lavoro 
+dipendente, stranieri 
+Posizioni di lavoro dipendente (saldi) +19.617 +18.305 +20.193 +20.445 +11.349 
+- incluso lavoro domestico +18.882 +13.699 +19.219 +20.710 +11.684 
+       
+Stock medio annuo di lavoratori 
+stranieri con un rapporto di 
+lavoro in essere 
+  
+  
+Lavoratori dipendenti (stock medio) 241.850 265.041 284.199 304.957 321.015 
+- incluso lavoro domestico 298.761 317.987 334.575 354.679 370.904 
+% su totale**           
+   Lavoratori dipendenti 14,2% 15,0% 15,7% 16,5% 17,2% 
+   - incluso lavoro domestico 16,7% 17,3% 17,9% 18,6% 19,1% 
+       
+Lavoratori stranieri assunti nel 
+lavoro dipendente (con un 
+nuovo contratto) nell’anno 
+Lavoratori assunti nell’anno (flusso di lav.) 128.618 149.141 158.165 169.939 170.227 
+- incluso lavoro domestico 148.169 165.479 173.855 185.684 185.508 
+% su totale      
+   - lavoratori assunti nell’anno 23,7% 25,2% 27,0% 29,1% 29,7% 
+   - incluso lavoro domestico 26,1% 27,0% 28,6% 30,7% 31,2%   
+     
+Assunzioni di lavoratori stranieri 
+nel lavoro dipendente (nuove 
+attivazioni contrattuali) 
+nell’anno 
+Assunzioni nell’anno (flusso di eventi) 200.054 231.935 240.304 256.200 257.078 
+- incluso lavoro domestico 227.789 256.025 263.627 279.944 280.477 
+% su totale      
+   Assunzioni nell’anno 25,0% 25,7% 27,3% 29,4% 30,0% 
+    - incluso lavoro domestico 27,2% 27,4% 29,0% 31,0% 31,6% 
+ 
+ 
+     
+Esordienti stranieri (prima 
+assunzione) nel mercato del 
+lavoro regionale 
+Lavoratori esordienti nell’anno (flusso di lav.) 36.552 49.766 54.190 60.730 55.513 
+- incluso lavoro domestico 40.368 50.196 55.178 62.386 57.333 
+ 
+      
+* tempo indeterminato, apprendistato, tempo determinato, missioni in somministrazione 
+** L’incidenza sul totale delle posizioni di lavoro attive potrebbe risultare sovrastimata, a causa della non completa copertura del denominatore 
+Fonte: elab. Veneto Lavoro su dati Silv (estrazione 25 gennaio 2026) 
+ 
+ 
+ 
+                                                 
+7 Per contro gli italiani si contraddistinguono per una minor mobilità occupazionale ed un peso maggiore nei rapporti di lavoro a tempo indeterminato. 
+8 Si tratta di cittadini stranieri, assunti in Veneto per la prima volta, arrivati da altri territori italiani o dall’estero, transitati al lavoro dipendente dal 
+lavoro autonomo o dall’inattività, oppure emersi da situazioni di irregolarità.   
+
+ 
+ 
+ 
+10/12 
+ 
+Le domande a cui il paragrafo risponde: 
+ Quanti sono, complessivamente e in media annua, i lavoratori impiegati presso le aziende della regione? Nel 
+corso del 2024, i lavoratori contribuenti stranieri (con almeno un versamento nell’anno) sono stati 
+complessivamente poco meno di 426mila, in larga parte dipendenti e per l’87% cittadini non comunitari. In termini 
+di presenza media nell’anno, i lavoratori stranieri sono circa 366mila, di cui 283mila non comunitari. 
+ Quanti sono, a fine anno e in media annua, i lavoratori stranieri con un rapporto di lavoro dipendente attivo in 
+unità locali di aziende situate in Veneto? Considerando lo stock a fine anno, nel 2025 cittadini stranieri con un 
+contratto attivo al 31 dicembre 2025 sono complessivamente 305mila (354mila considerando anche il lavoro 
+domestico presso le famiglie del territorio). Se si considera invece una consistenza media annua, che tiene conto 
+della variabilità delle posizioni di lavoro nei diversi periodi dell’anno, nel 2025 i cittadini stranieri attivi nel mercato 
+del lavoro dipendente regionale risultano circa 321mila (371mila includendo il domestico).  
+ Tra le nuove assunzioni effettuate nel corso dell’anno, quante hanno riguardato lavoratori stranieri? Nel 2025 le 
+assunzioni di lavoratori stranieri sono state oltre 257mila (280mila includendo il lavoro domestico). I lavoratori 
+coinvolti – per i quali si può registrare anche più di un’assunzione nell’anno – sono stati 170mila (186mila con il 
+domestico). Il peso sul totale delle nuove attivazioni contrattuali si attesta attorno al 30%. Tale quota è tuttavia 
+influenzata dal fatto che i lavoratori stranieri, più frequentemente rispetto agli italiani, sono impiegati in rapporti 
+di lavoro di breve durata e risultano quindi interessati da più assunzioni nel corso dell’anno. 
+ Quanti sono i nuovi ingressi di lavoratori stranieri nel mercato del lavoro dipendente regionale? Nel 2025, i 
+lavoratori stranieri che hanno fatto il loro primo ingresso nel mercato del lavoro dipendente regionale – provenienti 
+da altri territori italiani o dall’estero, oppure transitati al lavoro dipendente o alla regolarità – sono stati 56mila. 
+Mediamente, ogni anno fanno il loro primo ingresso nel mercato del lavoro regionale oltre 50mila lavoratori 
+stranieri, con una dinamica in crescita fino al 2024 e in lieve contrazione nell’ultimo anno. 
+ 
+4. I disoccupati stranieri residenti in regione 
+Spostando l’attenzione sulla disoccupazione, ovvero sul segmento delle forze di lavoro complementare 
+dell’occupazione, tra i residenti in regione i disoccupati stranieri sono in progressiva e rapida diminuzione; 
+nel corso del 2025 sono stati mediamente circa 15.500, pari al 20% del totale. Di questi, 11.400 sono cittadini 
+non comunitari, circa i 3/4 del totale. 
+ 
+Tab. 5 – Disoccupati stranieri secondo le principali fonti 
+   2021 2022 2023 2024 2025         
+  
+Eurostat, EU 
+Labour Force 
+Survey  
+Disoccupati stranieri Media 
+annua 
+24.700 19.200 21.700 18.000 15.500 Disoccupati (15-74 anni), 
+residenti in Veneto % su totale 21,3% 20,4% 22,2% 26,4% 19,9% 
+di cui:      
+Comunitari 7.900 3.900 3.200 5.800 4.100 
+Non comunitari 16.800 15.200 18.500 12.200 11.400 
+     % non comun.  68,0% 79,2% 85,3% 67,8% 73,5%  
+         
+INPS, 
+Osservatorio 
+Stranieri  
+Disoccupati stranieri Totale anno 22.593 22.025 25.168 26.588  Disoccupati, percettori di 
+prestazioni di sostegno al 
+reddito residenti in 
+Veneto (contribuenti per 
+condizione prevalente) 
+di cui:       
+    Comunitari  7.241 7.035 7.199 6.900  
+    Non comunitari  15.352 14.990 17.969 19.688  
+     % non comun.  68,0% 68,1% 71,4% 74,0%  
+         
+ Disoccupati stranieri Media 
+annua 
+16.784 16.953 19.306 20.246   
+ di cui:       
+     Comunitari  5.331 5.300 5.448 5.123   
+     Non comunitari  11.453 11.653 13.858 15.123   
+      % non comun.  68,2% 68,7% 71,8% 74,7%   
+         
+SILV Ingressi in disoccupazione  Totale anno  23.461 28.790 30.935 31.413 Utenti che hanno 
+sottoscritto un patto di 
+servizio nell’anno presso 
+un centro per l’impiego 
+ % su totale   20,0% 21,8% 24,4% 24,9% 
+ di cui:       
+    Comunitari   7.611 8.496 7.816 7.187 
+    Non comunitari   15.850 20.294 23.119 24.226 
+ % non comun.   67,6% 70,5% 74,7% 77,1% 
+         
+Fonte: elab. Veneto Lavoro su dati Eurostat (EU Labour Force Survey), Inps, Osservatorio stranieri e SILV 
+
+ 
+ 
+ 
+11/12 
+ 
+Il numero complessivo di disoccupati residenti in Veneto percettori di prestazioni di sostegno al reddito nel 
+corso dell’anno, secondo gli archivi amministrativi dell’Inps, nel 2024 è pari a 27mila unità (in leggera 
+crescita). Si tratta dell’insieme delle persone che hanno avuto accesso e beneficiato di un sussidio nel periodo 
+considerato. Nel corso dell’anno i beneficiari stranieri sono stati mediamente 20mila, di cui 15mila (il 75% del 
+totale) con cittadinanza non comunitaria. 
+Gli ingressi in disoccupazione, monitorati attraverso gli accessi ai servizi pubblici per l’impiego – in particolare 
+considerando le sottoscrizioni di un patto di servizio presso i centri per l’impiego – sono stati 31mila nel corso 
+del 2025 (il 24,9% del totale). I cittadini non comunitari, pari a 24mila, rappresentano il 77,1% dei patti di 
+servizio sottoscritti da stranieri. 
+ 
+Le domande a cui il paragrafo risponde: 
+ Tra i cittadini stranieri residenti in Veneto, quanti sono i disoccupati? Nel corso del 2025, i cittadini stranieri alla 
+ricerca di un’occupazione sono stati quasi 16mila, il 20% del totale; di questi, circa i 3/4 sono cittadini non 
+comunitari. 
+ Quanti sono i disoccupati stranieri percettori di prestazioni di sostegno al reddito? Secondo gli archivi Inps, nel 
+2024 (ultimo dato disponibile) i percettori di prestazioni di sostegno al reddito sono stati complessivamente 26.600; 
+mediamente nel corso dell’anno, i beneficiari sono stati circa 20mila. Il peso dei cittadini non comunitari si attesta 
+attorno ai 3/4 del totale. 
+ Quanti sono i disoccupati che accedono ai Centri per l’impiego della regione? Nel corso del 2025, i cittadini 
+stranieri alla ricerca di un’occupazione che hanno sottoscritto un patto di servizio presso i Centri per l’impiego del 
+Veneto sono stati oltre 31mila (il 25% del totale delle sottoscrizioni). Di questi, oltre 24mila sono cittadini non 
+comunitari, il 77% del totale. 
+ 
+Considerazioni conclusive 
+Come anticipato in apertura, la domanda “quanti sono i lavoratori stranieri in Veneto?” non si presta a una 
+risposta univoca. I dati analizzati mostrano chiaramente come il risultato dipenda dalla prospettiva adottata, 
+dalla fonte informativa utilizzata e dal criterio di osservazione prescelto. A seconda che si guardi alla 
+popolazione residente, alle forze di lavoro, agli occupati o ai rapporti di lavoro attivati, emergono valori 
+differenti, tutti corretti ma riferiti a fenomeni non sovrapponibili. Le statistiche basate sulla residenza 
+restituiscono una misura dell’offerta di lavoro, mentre gli archivi amministrativi legati alle posizioni 
+contributive o alle comunicazioni obbligatorie descrivono, con logiche diverse, la domanda di lavoro nel 
+territorio e la sua articolazione nel tempo. 
+Proprio questa pluralità di misure, lungi dall’essere un limite, rappresenta un elemento di ricchezza 
+conoscitiva. Essa consente di cogliere le diverse dimensioni della presenza straniera nel mercato del lavoro 
+regionale: dalla base demografica potenziale, alla partecipazione attiva, fino ai percorsi lavorativi concreti − 
+spesso caratterizzati da elevata mobilità e discontinuità −, e alle condizioni di accesso e permanenza nel 
+lavoro, osservabili anche attraverso la disoccupazione e l’accesso ai servizi per l’impiego. La condizione 
+essenziale è utilizzare ciascun dato in modo coerente con il fenomeno che intende descrivere, evitando 
+sovrapposizioni improprie. In questo senso, più che individuare “il” numero corretto, l’obiettivo è saper 
+leggere correttamente numeri diversi, riconoscendone il significato e i limiti: solo così è possibile costruire 
+interpretazioni solide e supportare in modo efficace le decisioni di policy. 
+Alla luce delle informazioni disponibili, è comunque possibile delineare alcuni elementi di sintesi sulla 
+presenza straniera nel mercato del lavoro regionale. I cittadini stranieri rappresentano una componente 
+strutturale e in crescita della forza lavoro in Veneto: nel 2025, la presenza media annua è di circa 270mila 
+unità se si considerano gli occupati residenti in regione, e si colloca tra 320 e 370 mila unità se si guarda ai 
+cittadini stranieri con almeno un rapporto di lavoro dipendente attivo nel periodo. La componente straniera 
+
+ 
+ 
+ 
+12/12 
+ 
+incide per oltre il 10% sulla popolazione residente e per una quota compresa tra circa l’11% e il 14% delle 
+forze di lavoro, a seconda della fonte e del criterio di misura; tra gli occupati, pesa per oltre il 12% (in 
+particolare tra i lavoratori dipendenti). 
+Dal lato della domanda di lavoro, la presenza straniera appare ancora più marcata: circa un terzo delle nuove 
+assunzioni riguarda lavoratori stranieri, a testimonianza di un ruolo rilevante nei flussi in ingresso e nei 
+processi di turnover del mercato del lavoro. In questo contesto si inserisce anche il contributo degli 
+esordienti, che ogni anno superano le 50mila unità e rappresentano una componente significativa dei nuovi 
+ingressi nel mercato del lavoro regionale. 
+Allo stesso tempo, la componente straniera presenta un’incidenza rilevante anche tra le persone in cerca di 
+occupazione: circa un quinto dei disoccupati è costituito da cittadini stranieri, con una quota prevalente di 
+non comunitari. La loro presenza è significativa anche tra i percettori di misure di sostegno al reddito e tra gli 
+utenti dei servizi pubblici per l’impiego, a conferma di una partecipazione intensa ma spesso caratterizzata 
+da maggiore esposizione a discontinuità occupazionale e transizioni frequenti tra lavoro e non lavoro.

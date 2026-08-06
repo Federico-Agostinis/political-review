@@ -1,0 +1,931 @@
+2/21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Misure/126 – Lavoro domestico, processi di emersione e percorsi occupazionali 
+a cura di Letizia Bertazzon, Laura Mulas e Stefania Maschio 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+ 
+ 
+ 
+3/21 
+ 
+ 
+A partire dai dati Inps e Silv, il presente contributo analizza le più recenti dinamiche occupazionali del lavoro 
+domestico in Veneto, con attenzione agli effetti dei processi di regolarizzazione, in particolare quelli avviati 
+durante l’emergenza sanitaria.  
+Nell’ultimo decennio il lavoro domestico – tradizionalmente caratterizzato da un’elevata incidenza di lavoro 
+sommerso –  ha registrato una progressiva riduzione del numero di lavoratori regolarmente impiegati, 
+nonostante l’aumento della domanda di cura legato all’invecchiamento della popolazione. Le 
+regolarizzazioni del 2009 e del 2020 hanno prodotto incrementi solo temporanei delle assunzioni e delle 
+posizioni di lavoro in essere, seguiti da rapide ricadute. Come evidenziato dall’analisi dei percorsi 
+occupazionali degli esordienti nel periodo 2019-2023, la permanenza nel settore risulta limitata: a due anni 
+dall’ingresso, meno della metà continua a lavorare nel domestico, mentre sono frequenti sia le transizioni 
+verso altri comparti sia, soprattutto, le uscite dal mercato del lavoro regionale. 
+La forza lavoro rimane composta in larga parte da donne straniere, ma mostra un progressivo aumento 
+dell’età media, dinamica comune all’intero mercato del lavoro, insieme a una crescente presenza di 
+lavoratori italiani.  
+ 
+  
+Abstract 
+
+ 
+ 
+ 
+4/21 
+ 
+Premessa 
+Negli ultimi dieci anni, l’occupazione nel lavoro domestico ha mostrato dinamiche complesse e in parte 
+contrastanti, scontando l’influenza di fattori di diversa natura e interconnessi tra loro. Sebbene il progressivo 
+aumento della longevità porti ad ipotizzare una domanda di lavoro in crescita, in un contesto in cui gran parte 
+della cura degli anziani è demandata alle famiglie1, si è comunque registrata una lenta ma costante 
+diminuzione del numero di lavoratori regolarmente impiegati. 
+In questo contesto, la pandemia e i processi di regolarizzazione che hanno caratterizzato il 2020 – e in parte 
+il 2021 – hanno solo temporaneamente interrotto la dinamica di contrazione occupazionale. Con il venir 
+meno dell’emergenza sanitaria, questo aumento non si è però tradotto, negli anni successivi, in un 
+incremento strutturale dell’input di lavoro: le dinamiche di contrazione osservate tra il 2021 e il 2024 
+indicano, infatti, un nuovo calo con un possibile spostamento verso forme irregolari di impiego, storicamente 
+molto diffuse in questo ambito occupazionale. Secondo le stime di contabilità nazionale diffuse dall’ISTAT2, 
+nel complessivo contesto nazionale, il tasso di irregolarità nel settore – da sempre il più alto tra tutti i 
+comparti economici – ha superato il 50% per molti anni e, sebbene la regolarizzazione del 2020 abbia 
+contribuito ad abbassare momentaneamente questa percentuale al 45%, nel triennio 2021-2023 si è 
+registrato un nuovo incremento.  
+L’ampia diffusione del lavoro irregolare in ambito domestico è alimentata da una combinazione di fattori e 
+caratteristiche che ne definiscono le peculiarità e i meccanismi di funzionamento, profondamente diversi da 
+quelli degli altri settori economici. Il comparto domestico presenta infatti caratteristiche strutturali – 
+relazione privata e fiduciaria, limitate possibilità di controllo, convenienze economiche per famiglie e 
+lavoratori, insufficiente offerta di servizi formali – che favoriscono una maggiore incidenza di lavoro 
+irregolare. L’elevata presenza di personale di origine straniera ed il legame strutturale con i flussi migratori 
+introducono ulteriori elementi di fragilità sia in relazione alle modalità di inserimento, sia sulle dinamiche 
+occupazionali dell’intero settore. 
+In questo scenario, si innestano gli effetti delle trasformazioni in atto nel mercato del lavoro. La crescente 
+difficoltà nel reperire manodopera, acuita dal progressivo calo della popolazione in età attiva e 
+dall’invecchiamento dei lavoratori, riguarda trasversalmente molti settori, ma risulta particolarmente critica 
+in ambiti come quello domestico, caratterizzato da un’elevata flessibilità lavorativa e da mansioni fisicamente 
+gravose che rischiano di ridurne l’attrattività, in un contesto di aumento della domanda di servizi da parte 
+delle famiglie. 
+Con l’obiettivo di apportare alcuni elementi conoscitivi alla lettura del fenomeno, anche alla luce delle 
+possibili implicazioni future dei recenti provvedimenti in materia di flussi di ingresso3, l’analisi qui proposta 
+intende approfondire i tratti peculiari che contraddistinguono il lavoro domestico in Veneto, con un focus 
+specifico sulle dinamiche occupazionali del periodo più recente e sui fattori che ne hanno influenzato 
+l’andamento. Partendo da una disamina delle caratteristiche socio-anagrafiche e professionali dei lavoratori 
+domestici regolarmente impiegati in regione e le principali tendenze evolutive dell’ultimo decennio, si 
+passerà poi ad analizzare nel dettaglio le dinamiche della domanda di lavoro durante la pandemia e nel 
+periodo immediatamente successivo. Viene infine proposta un’analisi dei percorsi occupazionali di quanti, 
+tra il 2019 e il 2023, hanno esordito nel mercato del lavoro regionale con un contratto di lavoro domestico, 
+con l’obiettivo di cogliere in particolare gli effetti dei processi di regolarizzazione attivati nel settore e di 
+verificarne i livelli di permanenza nel tempo.  
+                                                 
+1  Condizione tipica, come ampiamente documentato in letteratura, dei paesi a welfare familistico, come l’Italia e buona parte dell’Europa meridionale.  
+2 Cfr. Istat (2025), “L’economia non osservata nei conti nazionali | Anni 2020-2023”, Statistiche report, 17 ottobre, www.istat.it 
+3 In particolare, si fa riferimento alla sperimentazione prima e alla conferma poi di un canale “al di fuori delle quote” per lavoratori da impiegare nei 
+settori dell’assistenza familiare o socio-sanitaria e all’ipotesi, di cui si è discusso nella seconda metà del 2025, di abolire il tetto massimo previsto 
+puntando ad una liberalizzazione di fatto degli ingressi in questo settore.  
+
+ 
+ 
+ 
+5/21 
+ 
+1.  Considerazioni metodologiche sul perimetro di osservazione  
+Come già evidenziato, il sommerso economico nel lavoro domestico si conferma particolarmente rilevante, 
+con un’incidenza del lavoro irregolare che, pur con alcune oscillazioni nel tempo, si mantiene su livelli elevati. 
+Ne consegue che le informazioni disponibili per l’analisi delle dinamiche occupazionali, riferite alla sola 
+componente regolare, restituiscono inevitabilmente una rappresentazione parziale.  
+Per quanto riguarda nello specifico il contesto regionale, le principali fonti informative sul lavoro domestico 
+offrono prospettive complementari di analisi: da un lato gli archivi amministrativi che, presso l’Inps, 
+alimentano l’Osservatorio sui lavoratori domestici, fornendo informazioni sui lavoratori assicurati; dall’altro, 
+il Sistema informativo lavoro veneto (Silv), che a partire dai flussi del mercato del lavoro, consente di 
+monitorare la domanda di lavoro domestico espressa dalle famiglie della regione.  
+Nello specifico, i dati di fonte Inps si riferiscono al numero di lavoratori che hanno ricevuto almeno un 
+versamento contributivo nel periodo di osservazione. Qualora un lavoratore abbia avuto più datori di lavoro 
+(e dunque più rapporti di lavoro con versamenti distinti nello stesso periodo), esso viene contato una sola 
+volta; nella definizione delle variabili di classificazione, viene invece adottato il criterio della contribuzione 
+prevalente, considerando cioè il rapporto che genera il versamento più elevato. I dati Silv, invece, 
+sistematizzando le informazioni provenienti dal sistema delle Comunicazioni Obbligatorie, permettono sia di 
+monitorare le dinamiche contrattuali, sia di analizzare i percorsi dei lavoratori impiegati o transitati per il 
+lavoro domestico. 
+In entrambi i casi, il perimetro di osservazione del lavoro domestico coincide con l’applicazione di una 
+specifica fattispecie contrattuale che, nell’ambito del lavoro subordinato, è destinata esplicitamente a 
+disciplinare l’attività di coloro che prestano la loro opera all’interno delle famiglie (Box 1). Questo criterio di 
+definizione si differenzia dall’identificazione del lavoro in ambito domestico invece utilizzata da altre fonti o 
+ambiti di analisi, dove invece il criterio di riferimento è il settore merceologico, ovvero il codice 97.00, 
+“Attività di famiglie e convivenze come datori di lavoro per personale domestico” dell’attuale classificazione 
+Ateco 2025, dove possono confluire anche altre tipologie di prestazioni svolte a favore delle famiglie. È il 
+caso, ad esempio, delle prestazioni occasionali riconducibili al c.d. “Libretto Famiglia”4 oppure alle missioni 
+in somministrazione presso le famiglie da parte di personale assunto dalle agenzie per il lavoro, non di rado 
+specializzate proprio nella fornitura di servizi socio-sanitari e di assistenza (Box 3). 
+Infine, occorre sottolineare che le dinamiche occupazionali associate al lavoro domestico, oltre a risentire di 
+fattori congiunturali, sono spesso riconducibili agli effetti di interventi normativi, economici e sociali – come 
+l’introduzione di incentivi fiscali, opportunità offerte da differenti fattispecie contrattuali, l’avvio di 
+procedimenti di emersione dal lavoro informale, le previsioni dei flussi di ingresso regolare nel caso degli 
+stranieri – che di volta in volta ridefiniscono le modalità di accesso e le condizioni di impiego dei lavoratori. 
+A ciò si aggiunge che il lavoro domestico, configurandosi come un ambito occupazionale “aperto”, a basso 
+requisito di accesso e caratterizzato da elevate soglie di permeabilità, assolve spesso una funzione di 
+integrazione o mantenimento nel mercato del lavoro, offrendo opportunità di impiego rapide e facilmente 
+attivabili per favorire l’ingresso, la stabilizzazione o la continuità lavorativa.5 
+Per tutte queste ragioni, una corretta interpretazione delle dinamiche occupazionali associate al lavoro 
+domestico richiede attenzione e cautela: le variazioni osservate non sempre corrispondono a mutamenti reali 
+del fabbisogno, ma possono essere ricondotte alle scelte delle famiglie o alle strategie adottate dai lavoratori. 
+                                                 
+4 La sua introduzione nel 2017, conseguentemente all’abolizione del lavoro accessorio, ha consentito alle famiglie di poter avvalersi occasionalmente 
+di prestazioni in ambito domestico. Le prestazioni vengono pagate tramite titoli dal valore di 10 euro l’ora, comprensivi di compenso al lavoratore e 
+contributi, gestiti interamente tramite la piattaforma INPS per il lavoro occasionale. Le previsioni normative, dapprima riferite al lavoro accessorio 
+retribuito tramite voucher, successivamente al Libretto Famiglia, hanno in parte condizionato le dinamiche occupazionali del lavoro domestico in 
+senso stretto. Per una panoramica dettagliata sul numero delle prestazioni retribuite nell’ambito del Libretto Famiglia e sui prestatori coinvolti si 
+rimanda al monitoraggio trimestrale a cura dell’Osservatorio regionale Mercato del Lavoro, Il Sestante, www.venetolavoro.it/sestante. 
+5 Il lavoro domestico costituisce spesso un canale di ingresso regolare nel mercato del lavoro per molti lavoratori stranieri. Allo stesso tempo 
+rappresenta, soprattutto per le donne che perdono l’occupazione in età matura, uno dei pochi ambiti in cui è possibile un rapido reinserimento, in 
+continuità con competenze maturate nella sfera familiare e con minori barriere all’accesso rispetto ad altri settori. 
+
+ 
+ 
+ 
+6/21 
+ 
+Una corretta comprensione dei trend in atto in relazione a questo particolare ambito occupazionale richiede 
+necessariamente un’analisi complementare dei diversi fenomeni. 
+ 
+ 
+ 
+2.  I lavoratori domestici 
+Le informazioni provenienti dagli archivi amministrativi che alimentano l’Osservatorio sui lavoratori 
+domestici dell’Inps offrono uno spaccato sulla consistenza e le caratteristiche del bacino dei lavoratori 
+domestici regolarmente occupati in regione e sulle principali dinamiche evolutive osservate nel corso 
+dell’ultimo decennio.  
+Sulla base delle posizioni contributive rilevate, nel 2024 (ultimo dato disponibile) sono risultati circa 62.500 i 
+lavoratori con un contratto di lavoro domestico in Veneto. In linea con quanto rilevato per il complessivo 
+contesto nazionale6, i dati evidenziano negli ultimi tre anni un trend di progressiva contrazione, dopo 
+l’incremento significativo registrato durante il periodo dell’emergenza sanitaria (tab. 1).  
+                                                 
+6 Cfr., ad esempio, Inps (2025). Rapporto Annuale 2024, www.inps.it e Osservatorio DOMINA sul Lavoro Domestico (2024). 6° Rapporto annuale sul 
+lavoro domestico. Edizione 2024, www.osservatoriolavorodomestico.it 
+Box 1 – Il contratto di lavoro domestico 
+ 
+Il lavoro domestico in Italia è regolato dalla Legge 2 aprile 1958 n. 339, che definisce i lavoratori domestici come coloro che 
+prestano la loro opera all’interno delle famiglie, a qualsiasi titolo (ovvero indipendentemente dalla natura del contratto o dalla 
+qualificazione professionale). Lungi dal legittimare forme di lavoro irregolare, con l’espressione “a qualsiasi titolo” la legge 
+riconosce la complessità e la particolarità di tale ambito di impiego che, a causa delle sue origini informali, nonché dell’elevata 
+variabilità e flessibilità delle mansioni, non sempre viene valorizzato come un lavoro al pari degli altri. La finalità principale è 
+proprio quella di regolarizzare e tutelare i lavoratori, riducendo le disuguaglianze e promuovendo la parità dei diritti. 
+Con la legge n. 339 nasce di fatto il c.d. “contratto di lavoro domestico”, una tipologia specifica che consente ai lavoratori di poter 
+essere assunti sia a tempo indeterminato che determinato, rientrando di fatto nella generalità degli occupati dipendenti. Tuttavia, 
+tale contratto, a differenza degli altri ambiti, mantiene le sue peculiarità. Esso può essere applicato solo nel contesto familiare e, 
+in specifiche situazioni, può dare luogo a rapporti di lavoro in regime di convivenza. In quest’ultimo caso, la normativa, oltre a 
+regolare le ore di lavoro, definisce anche le condizioni abitative. 
+Per il suo particolare ambito di applicazione – posto al di fuori dalle logiche tradizionali che regolano la relazione tra datore e 
+lavoratore nei contesti aziendali –, la disciplina del contratto stabilisce in modo specifico l’inquadramento professionale 
+appropriato, definendo mansioni, condizioni di lavoro e diritti del lavoratore rispetto alla prestazione svolta. I principali profili 
+professionali sono quelli di badanti e collaboratori domestici (colf): i primi sono incaricati di assistere persone maggiorenni o 
+minorenni non autosufficienti, mentre i secondi si occupano delle quotidiane pratiche domestiche (come pulizia, commissioni, 
+cucina, ecc.). Sebbene il ruolo di badante possa includere anche compiti tipici del collaboratore domestico, la legge stabilisce che 
+non è mai ammesso il contrario. Si tratta, quindi, di due professioni distinte, che si differenziano per responsabilità, modalità 
+organizzative, complessità del lavoro e naturalmente competenze richieste. La figura del badante è caratterizzata da un impiego 
+più continuativo, spesso incompatibile con prestazioni di tipo occasionale, ed è finalizzato alla protezione sociale e sanitaria di 
+persone non autosufficienti per le quali sono necessarie specifiche competenze e formazione adeguata. All’opposto, la figura del 
+collaboratore domestico è più generica e prevede un’organizzazione del lavoro più flessibile e frammentata.  
+La distinzione professionale è cruciale perché da essa dipendono sia diversi livelli retributivi che trattamenti fiscali agevolati a 
+favore del datore di lavoro. I badanti ricevono una retribuzione generalmente più elevata rispetto ai collaboratori domestici, con 
+alcune variazioni a seconda del grado di specializzazione. Sotto il profilo fiscale badanti e colf assunti con il contratto di lavoro 
+domestico sono trattati in modo identico ai lavoratori dipendenti. Tuttavia, solo nel caso di assunzione di badanti per l’assistenza 
+di persone non autosufficienti, il datore può beneficiare di una detrazione IRPEF (pari al 19% fino a un massimo di 2.100 euro di 
+spesa, a condizione che il reddito complessivo del contribuente non superi i 40mila euro); per i collaboratori domestici, invece, 
+non è prevista una detrazione specifica (al di fuori di eventuali bonus governativi). Distinguere correttamente badanti e 
+collaboratori al momento della stipula del contratto è fondamentale per determinarne il trattamento economico e usufruire delle 
+relative detrazioni fiscali, se previste.  
+
+ 
+ 
+ 
+7/21 
+ 
+L’importante aumento dei lavoratori domestici negli anni della pandemia da Covid-19 è stato determinato 
+da una pluralità di fattori. Da un lato, l’emergenza sanitaria ha certamente incrementato la domanda di 
+supporto per la gestione delle attività domestiche ed assistenziali; dall’altro, hanno inciso i processi di 
+emersione che hanno favorito la regolarizzazione delle situazioni lavorative informali. In particolare, l’obbligo 
+di giustificare gli spostamenti casa-lavoro7 e la sanatoria prevista dal c.d. decreto “Rilancio” (n. 34/2020) 
+hanno di fatto incentivato l’emersione di numerosi rapporti di lavoro, soprattutto riferiti a lavoratori stranieri 
+non comunitari. Ciò ha determinato un primo importante aumento dei lavoratori nel 2020 (passati dai 66.600 
+del 2019 ad oltre 74.600) ed un vero e proprio picco nel 2021 quando, con il progressivo perfezionamento 
+delle procedure di regolarizzazione, si è raggiunta la quota massima di 77.300 lavoratori.  
+Negli anni successivi, il numero delle posizioni contributive è tornato a diminuire, proseguendo il trend di 
+lungo periodo che, al netto degli effetti della pandemia, ha visto progressivamente diminuire il numero dei 
+lavoratori domestici occupati in regione. 
+ 
+Tab. 1 – Veneto. Lavoratori domestici* per principali caratteristiche socio-anagrafiche (2015-2024)  
+  2015 2016 2017 2018 2019 2020 2021 2022 2023 2024                       Totale 67.886 66.326 66.048 65.976 66.627 74.555 77.332 70.388 64.019 62.494                       Donne 60.831 60.085 60.230 60.444 61.118 65.797 66.107 62.207 59.039 57.870 
+Uomini 7.055 6.241 5.818 5.532 5.509 8.758 11.225 8.181 4.980 4.624                       Italiani 14.837 15.230 16.287 17.006 17.627 19.900 20.120 19.009 17.836 17.502 
+di cui donne 13.843 14.163 15.084 15.700 16.300 18.567 18.792 17.786 16.695 16.405 
+Stranieri 53.049 51.096 49.761 48.970 49.000 54.655 57.212 51.379 46.183 44.992 
+di cui donne 46.988 45.922 45.146 44.744 44.818 47.230 47.315 44.421 42.344 41.465                       Giovani < 30 anni 5.060 4.197 3.683 3.260 3.092 4.851 5.551 3.519 2.117 2.011 
+Adulti 30-54 anni 43.924 41.547 40.076 38.716 37.606 41.114 42.088 36.928 31.371 29.089 
+Senior > 54 anni 18.902 20.582 22.289 24.000 25.929 28.590 29.693 29.941 30.531 31.394                       Zona geografica di provenienza         
+Italia 14.837 15.230 16.287 17.006 17.627 19.900 20.120 19.009 17.836 17.502 
+Europa 40.020 39.088 38.207 37.437 37.000 38.585 37.857 34.781 32.872 31.680 
+di cui est Europa 39.833 38.888 38.000 37.227 36.783 38.352 37.629 34.572 32.674 31.490 
+Asia 6.646 6.205 5.882 5.810 5.961 7.840 9.831 8.544 6.811 6.965 
+Africa 4.649 4.140 4.021 3.998 4.175 6.034 7.129 5.797 4.408 4.242 
+America 1.723 1.653 1.645 1.718 1.860 2.192 2.387 2.249 2.085 2.098 
+Oceania 11 10 6 7 4 4 8 8 7 7 
+* Lavoratori che nel corso dell’anno hanno ricevuto almeno un versamento contributivo (lavoratori contribuenti nell’anno) 
+Fonte: ns elab. su dati Inps, Osservatorio sul lavoro domestico 
+ 
+Per quanto riguarda le specificità strutturali che caratterizzano la forza lavoro in questo ambito 
+occupazionale, i dati mostrano una situazione rimasta sostanzialmente stabile nel tempo, nonostante il calo 
+complessivo dei lavoratori. La presenza femminile si conferma maggioritaria (57.900 lavoratrici nel 2024, pari 
+al 93% del totale), con una prevalenza di cittadine straniere (41.500, pari al 66%), provenienti soprattutto dai 
+paesi dell’Est Europa (31.500). Tale composizione riflette il ruolo che il lavoro domestico continua a svolgere 
+come principale porta di accesso al mercato del lavoro per molte donne migranti, oltre che come settore di 
+specializzazione per alcuni gruppi nazionali, grazie alla presenza di reti comunitarie già radicate che operano 
+attraverso canali informali di segnalazione e supporto e che contribuiscono alla costruzione di relazioni 
+fiduciarie tra lavoratrici e datori di lavoro. 
+Dai dati emergono tuttavia alcuni mutamenti che, seppur lentamente, stanno modificando la composizione 
+della forza lavoro in questo settore. Il primo riguarda il progressivo rafforzamento della componente italiana, 
+passata da 14.800 unità nel 2015 a 17.500 nel 2024 (dal 22% al 28% del totale). Questo processo di 
+trasformazione può essere ricondotto principalmente ad almeno tre fattori.  Esso è stato favorito dai processi 
+di acquisizione della cittadinanza italiana nel corso degli anni da parte di un numero crescente di lavoratrici; 
+                                                 
+7 Obbligo che, di fatto, ha dato origine ad una “mini-regolarizzazione” da pandemia, spingendo molte famiglie a contrattualizzare i propri collaboratori. 
+
+ 
+ 
+ 
+8/21 
+ 
+è stato alimentato dalla congiuntura economica sfavorevole, che ha reso il lavoro domestico un’opzione più 
+attrattiva in assenza di alternative durante il periodo della Grande Crisi; ha offerto, più di recente, agevoli 
+opportunità di impiego per completare il proprio percorso contributivo in vista del pensionamento. Nello 
+specifico, il lavoro domestico rappresenta per molte donne italiane una risposta alle difficoltà di ricollocazione 
+in età matura e alla progressiva riduzione delle opportunità occupazionali in altri ambiti. 
+Il secondo elemento di trasformazione riguarda il progressivo invecchiamento della forza lavoro, fenomeno 
+che interessa il settore domestico così come l’intero mercato del lavoro.8 Nel 2024, gli occupati con più di 54 
+anni sono arrivati a rappresentare il 50% del totale, superando per la prima volta la fascia dei 30-54enni. Si 
+tratta di una situazione inedita, tuttavia coerente con l’evoluzione demografica che caratterizza il contesto 
+regionale, cui si aggiunge la scarsa attrattività del settore per le generazioni più giovani. 
+Dal punto di vista del profilo professionale, i lavoratori domestici si suddividono principalmente in due 
+categorie: gli “assistenti familiari” (badanti), impiegati nelle attività di cura e assistenza alla persona, spesso 
+anziana o non autosufficiente, e i “collaboratori domestici” (colf), addetti a mansioni più generiche legate 
+alla gestione della casa. A ciascuna categoria corrispondono specifici livelli di inquadramento definiti della 
+contrattazione collettiva. Nel primo caso si tratta con maggiore frequenza di personale convivente, con vitto 
+e alloggio e orari contrattuali più estesi (fino a 54 ore settimanali), mentre nel secondo prevalgono rapporti 
+non conviventi e formule orarie ridotte, spesso in regime di part-time. 
+Nel 2024, il 57% dei lavoratori domestici risulta inquadrato come assistente familiare (badante) (tab. 2). Tale 
+distribuzione è però l’esito di un’evoluzione che ha subito mutamenti significativi nel tempo: fino al 2015, 
+infatti, la componente prevalente era rappresentata dai collaboratori domestici. Negli anni successivi, il 
+numero di questi ultimi ha registrato un calo progressivo – con la sola eccezione del biennio 2020-2021 – più 
+marcato rispetto alla diminuzione osservata tra gli assistenti familiari, determinando così l’attuale prevalenza 
+di questi ultimi nel comparto.  
+ 
+Tab. 2 – Veneto. Lavoratori domestici* per tipologia di inquadramento professionale (2015 – 2024) 
+  2015 2016 2017 2018 2019 2020 2021 2022 2023 2024            Totale 67.886 66.326 66.048 65.976 66.627 74.555 77.332 70.388 64.019 62.494                        Badanti 32.924 33.418 34.345 35.335 36.410 39.318 39.739 37.534 36.082 35.694 
+- italiani 4.064 4.375 5.155 5.707 6.176 7.161 7.377 7.046 6.652 6.734 
+- stranieri 28.860 29.043 29.190 29.628 30.234 32.157 32.362 30.488 29.430 28.960                       Colf-altro 34.962 32.908 31.703 30.641 30.217 35.237 37.593 32.854 27.937 26.800 
+- italiani 10.773 10.855 11.132 11.299 11.451 12.739 12.743 11.963 11.184 10.768 
+- stranieri 24.189 22.053 20.571 19.342 18.766 22.498 24.850 20.891 16.753 16.032 
+* Lavoratori che nel corso dell’anno hanno ricevuto almeno un versamento contributivo (lavoratori contribuenti nell’anno) 
+Fonte: ns elab. su dati Inps, Osservatorio sul lavoro domestico 
+ 
+Considerando le peculiarità del lavoro domestico, l’evoluzione della distribuzione tra le due principali figure 
+professionali può essere ricondotta a una combinazione di fattori economici e normativi (Box 2). Accanto alle 
+dinamiche demografiche, che con l’aumento della longevità hanno plausibilmente rafforzato la domanda di 
+assistenti familiari, incidono anche gli interventi sul lavoro accessorio (fino al 2017) e sulle prestazioni 
+occasionali del Libretto Famiglia (dal 2017), strumenti particolarmente adatti alla natura frammentata delle 
+prestazioni dei collaboratori domestici e potenzialmente sostitutivi del contratto di lavoro domestico. Inoltre, 
+per l’elevata flessibilità e variabilità delle mansioni tipiche dei collaboratori domestici che li espone 
+maggiormente al rischio di informalità, è plausibile ipotizzare che la contrazione osservata possa essere, 
+almeno in parte, riconducibile a una nuova espansione del lavoro irregolare. 
+                                                 
+8 Sul tema si rinvia agli approfondimenti della collana Opus, dedicata all’approfondimento delle dinamiche demografiche e alle connessioni che queste 
+hanno con il mercato del lavoro locale in particolar modo in relazione al progressivo cambiamento delle forze di lavorowww.venetolavoro.it/opus 
+
+ 
+ 
+ 
+9/21 
+ 
+ 
+Box 2 – Principali interventi normativi che hanno interessato il lavoro domestico  
+ 
+Legge 102/2009, art. 1-ter – Sanatoria mirata colf e badanti 
+La sanatoria consente al datore di lavoro di regolarizzare colf e badanti impiegati in modo irregolare se, alla data del 30 giugno 
+2009, essi risultavano già occupati da almeno tre mesi e ancora impiegati al momento della presentazione della domanda. La 
+procedura è rivolta a datori di lavoro e lavoratori italiani o stranieri presenti sul territorio nazionale. Nel caso specifico dei 
+lavoratori non comunitari, è prevista la possibilità di regolarizzare il rapporto di lavoro anche in assenza di un permesso di 
+soggiorno valido, purché soddisfino i requisiti previsti dalla norma. 
+Decreto Lgs. 109/2012 – Sanatoria lavoratori non comunitari 
+Inserita nell’ambito del Decreto Flussi e in attuazione della direttiva 2009/52/CE, questa sanatoria regolarizza solo lavoratori stranieri 
+non comunitari e già presenti in Italia. Possono beneficiare della procedura di emersione i cittadini stranieri occupati irregolarmente 
+da almeno 3 mesi, che continuano ad esserlo alla data di presentazione della domanda, e che siano presenti sul territorio nazionale 
+ininterrottamente alla data del 31 dicembre 2011. 
+D. Lgs. 81/2017 – Introduzione Libretto Famiglia 
+Il Libretto Famiglia è uno strumento elettronico pensato per permettere ai privati cittadini di pagare in modo semplice e tracciabile 
+prestazioni di lavoro occasionale. Il Libretto Famiglia è destinato a prestazioni di lavoro che non superano le 280 ore annue per 
+ciascun lavoratore; è pensato per prestazioni occasionali e non sostitutive di un rapporto di lavoro subordinato stabile e dunque 
+utilizzato per “prestazioni saltuarie, non abituali, non organizzate come rapporto di lavoro subordinato”. Tra le tipologie di lavoro 
+ammissibili rientrano le attività domestiche generiche (es. pulizia, giardinaggio) e quelle rivolte all’assistenza e alla cura della 
+persona anziana o con disabilità. 
+D. Lgs. 18/2020 “Cura Italia” – Bonus baby-sitting 
+Il D. Lgs. 18/2020 (“Cura Italia”), introdotto nel marzo 2020, prevede misure straordinarie a sostegno di famiglie, lavoratori e 
+imprese nel contesto dell’emergenza COVID-19.  Tra queste rientra il bonus baby-sitting, riconosciuto alle famiglie con figli a carico 
+e utilizzabile tramite il Libretto Famiglia per l’acquisto di servizi di cura e assistenza.  
+D. Lgs. 34/2020 “Decreto Rilancio” - Sanatoria COVID-19 
+Il decreto introduce una sanatoria COVID-19 per l’emersione e la regolarizzazione dei rapporti di lavoro in alcuni settori cruciali 
+nel periodo dell’emergenza sanitaria, quali l’agricoltura, l’assistenza alla persona non autosufficiente e il lavoro domestico di 
+sostegno al bisogno familiare. L’emersione dal lavoro irregolare riguarda sia cittadini italiani che stranieri e consente di sanare la 
+situazione lavorativa, mentre la regolarizzazione è rivolta nello specifico ai cittadini stranieri non comunitari che necessitano di 
+regolarizzare la propria posizione sul territorio nazionale, se presenti prima della data dell’8 marzo 2020. In particolare, la norma 
+definisce tre ipotesi operative: 
+ la dichiarazione di un rapporto di lavoro irregolare già in essere da parte del datore di lavoro; 
+ la sottoscrizione di un nuovo contratto di lavoro subordinato da parte del datore con un cittadino straniero regolare o irregolare; 
+ il rilascio di un permesso di soggiorno temporaneo di sei mesi per ricerca lavoro, convertibile in permesso per lavoro 
+subordinato se viene instaurato un rapporto nei settori indicati. In questo caso, possono accedere alla procedura cittadini 
+non comunitari con permesso di soggiorno scaduto dal 31 ottobre 2019, non rinnovato né convertito.  
+Rinnovo CCNL 2020-2022 (ottobre 2020) - Nuovi inquadramenti, maggiori tutele e professionalizzazione 
+Il rinnovo del Contratto Collettivo Nazionale di Lavoro per il settore domestico introduce un insieme di novità rivolte a migliorare 
+condizioni, diritti e professionalizzazione dei lavoratori domestici. Le principali modifiche riguardano l’aggiornamento degli 
+inquadramenti contrattuali e delle tabelle retributive minime, nonché il rafforzamento delle tutele normative in tema di orario di 
+lavoro, ferie, permessi, malattia e formazione professionale. Vengono altresì ridefinite le mansioni con specificazione di profili 
+come “assistente familiare generico”, “assistente familiare polifunzionale”, “assistente a persone non autosufficienti”, ecc. 
+DPCM 27 settembre 2023 - Decreto Flussi 2023 – 2025 
+Il decreto, riguardante la “Programmazione dei flussi d'ingresso legale in Italia dei lavoratori stranieri per il triennio 2023-2025”, 
+sperimenta per la prima volta una programmazione su base triennale, in attuazione anche del Decreto Legge 10 marzo 2023, n. 
+20. Il decreto prevede, all’articolo 6, comma 4, lettera c), l’istituzione di una quota specifica per l’ingresso di lavoratori subordinati 
+non stagionali nei settori dell’assistenza familiare e socio-sanitaria, per un contingente pari a 9.500 unità per ciascuno degli anni 
+compresi nella programmazione triennale. La quota è accessibile indipendentemente dal Paese di provenienza e riguarda in 
+particolare le figure impegnate nell’assistenza a persone anziane, fragili o non autosufficienti presso il domicilio. A queste 
+previsioni si affianca inoltre la possibilità di ulteriori ingressi “fuori quota” per lavoro subordinato – anche stagionale – a favore 
+dei cittadini di Paesi con cui l’Italia ha sottoscritto specifiche intese o accordi in materia di rimpatrio, ampliando così le possibilità 
+di reclutamento nel comparto domestico e di cura. 
+
+ 
+ 
+ 
+10/21 
+ 
+ 
+ 
+3.  La domanda di lavoro domestico  
+Portando l’attenzione alla domanda di lavoro domestico, l’analisi delle informazioni riferite ai rapporti di 
+lavoro attivati in regione consente di comprendere come le peculiarità strutturali del settore e la persistente 
+incidenza del lavoro irregolare influenzino l’andamento complessivo delle dinamiche occupazionali. L’analisi 
+si concentra in particolare sulle ricadute della pandemia, sui provvedimenti attivati in questo periodo e sulle 
+tendenze che caratterizzano gli anni successivi. 
+ 
+ 
+Decreto Legge n. 19/2024 “Decreto PNRR 4” – Previsione del “Bonus Badanti e Colf 
+Il decreto prevede un bonus che consiste nell’esonero al 100% dei contributi previdenziali e assicurativi a carico del datore di 
+lavoro domestico (fino a 3.000 euro annui per ciascuna assunzione o trasformazione a tempo indeterminato per un massimo di 
+24 mesi) per l’assunzione o la stabilizzazione di collaboratori con mansioni di assistenza nel confronti di persone anziane che 
+abbiano compiuto 80 anni di età, non autosufficienti e titolari di indennità di accompagnamento, purché l’ISEE del nucleo familiare 
+non risulti essere superiore a 6mila euro. 
+D. Lgs. 29/2024 – “Bonus Anziani” 
+Il decreto introduce, in via sperimentale per il biennio 2025-2026, la “Prestazione universale per anziani non autosufficienti” che 
+prevede un contributo mensile di 850 euro, cumulabile con l’indennità di accompagnamento, destinato all’acquisto di servizi di 
+cura o all’assunzione regolare di assistenti familiari. Il beneficio è modulato in base all’ISEE, con accesso pieno per i nuclei con ISEE 
+fino a 15.000 euro e riduzioni progressive oltre tale soglia. 
+Decreto Legge 145/2024 – Sperimentazione canale aggiuntivo “fuori quota” per assistenza familiare 
+Introduce, in via sperimentale per l’anno 2025 un canale “al di fuori delle quote” per lavoratori da impiegare nei settori 
+dell’assistenza familiare o socio-sanitaria, entro un massimo di 10.000 istanze, da impiegare a favore di persone con disabilità, 
+oppure “grandi anziani” (over 80).  Di fatto, quindi, per il 2025 l’assistenza familiare, può avvalersi, oltre alle 9.500 quote 
+“ordinarie” già previste dal DPCM 2023 per lavoro domestico, di un canale aggiuntivo ad hoc, per il quale sono riservate procedure 
+dedicate e previsti con vincoli più stringenti per i lavoratori. 
+Proposta (settembre 2025) – Ipotesi di canale “fuori quota senza limiti” per assistenti familiari 
+Ipotesi di introduzione di un canale strutturale di ingresso per lavoratori extra-UE impiegati nell’assistenza familiare, al di fuori del 
+sistema delle quote del Decreto Flussi, senza limiti numerici. La proposta, mai approvata, prevedeva un accesso riservato ai datori 
+di lavoro che necessitavano di assistenza per persone di età pari o superiore a 80 anni o per soggetti con disabilità grave 
+riconosciuta. Il canale sarebbe stato limitato alle figure specificamente dedicate alla cura della persona, escludendo mansioni 
+domestiche generiche come colf o baby-sitter. Tra le condizioni ipotizzate figurava l’obbligo, per il lavoratore assunto attraverso 
+questa modalità, di mantenere il rapporto con lo stesso datore per almeno 12 mesi, con possibilità di cambio solo previa 
+autorizzazione dell’Ispettorato del Lavoro. 
+Decreto Legge 146/2025 – Trasformazione del canale “fuori quota” da sperimentale a strutturale e lo proroga per 3 anni 
+Interviene sul sistema di ingresso dei lavoratori stranieri prorogando per il triennio 2026-2028 il canale “fuori quota” già 
+sperimentato nel 2025 per l’assistenza familiare e socio-sanitaria. Il decreto conferma un contingente massimo di 10.000 ingressi 
+annui, riservato ai lavoratori destinati all’assistenza di persone con disabilità o di anziani ultraottantenni, in aggiunta alle quote 
+ordinarie di programmazione dei flussi. Viene inoltre stabilito che le domande di nulla osta possano essere presentate 
+esclusivamente tramite agenzie per il lavoro autorizzate o associazioni datoriali firmatarie del CCNL del lavoro domestico, 
+rafforzando così la tracciabilità delle procedure e la qualificazione del canale di reclutamento. 
+DPCM 2 ottobre 2025 – Decreto Flussi 2026 – 2028 
+Definisce la programmazione dei flussi di ingresso dei lavoratori stranieri per il triennio 2026-2028. Il decreto quantifica le quote 
+annue per lavoro subordinato, stagionale e non stagionale, ripartendole tra i diversi settori produttivi e prevedendo specifiche 
+riserve per i Paesi con accordi di cooperazione in materia migratoria. Il provvedimento conferma inoltre la quota dedicata ai settori 
+dell’assistenza familiare e socio-sanitaria all’interno della programmazione ordinaria, coordinandosi con il canale fuori quota 
+prorogato dal Decreto-Legge 146/2025 e definendo criteri e priorità per la gestione delle domande e delle procedure di nulla osta. 
+
+ 
+ 
+ 
+11/21 
+ 
+3.1  Le dinamiche occupazionali recenti 
+Con riferimento ai dati più recenti, le informazioni disponibili per il 2024 sul flusso delle nuove attivazioni 
+contrattuali quantificano un volume complessivo di circa 31.600 assunzioni, pressoché in linea con i livelli 
+registrati nel biennio precedente, ma nettamente al di sotto dei picchi registrati nel 2020 e nel 2021. La 
+conformazione della domanda di lavoro per quanto riguarda le caratteristiche dei lavoratori coinvolti (tab. 
+3), conferma sostanzialmente i tratti distintivi del bacino di lavoratori già descritto nel paragrafo precedente. 
+Nel 2024, il 92% delle assunzioni con contratto di lavoro domestico ha riguardato le donne (pari a circa 29.000 
+unità), mentre il 75% (circa 23.900) ha interessato la componente straniera; la presenza degli italiani, anche 
+se relativa a meno di un terzo dei rapporti di lavoro (7.800), è decisamente più significativa rispetto al passato 
+(5.000 nel 2008, pari al 18%). Sebbene le nuove assunzioni riguardino soprattutto cittadini non comunitari 
+(il 63% delle assunzioni riferite agli stranieri), il principale paese di provenienza continua ad essere la 
+Romania (con circa 8.000 nuove attivazioni contrattuali). Particolarmente significative sono le dinamiche 
+occupazionali che riguardano i lavoratori più maturi. Nel 2024, i nuovi rapporti di lavoro domestico attivati 
+a favore di persone con più di 54 anni sono stati circa 14.400, in crescita costante tra il 2019 e il 2024 – in 
+controtendenza rispetto alle altre fasce d’età – e superiore anche ai livelli registrati nel 2020, anno della 
+pandemia.  
+ 
+Tab. 3 – Veneto. Lavoro domestico. Assunzioni e saldi per principali caratteristiche (2019 – 2024) 
+  Assunzioni   Saldi 
+  2019 2020 2021 2022 2023 2024   2019 2020 2021 2022 2023 2024               
+Totale 30.690 44.649 37.237 32.216 31.155 31.611   1.823 12.598 -865 -5.801 -1.538 -230                             
+Donne 27.721 35.655 31.674 29.533 28.917 29.028   1.605 6.406 -1.385 -2.546 -673 -421 
+Uomini 2.969 8.994 5.563 2.683 2.238 2.583   218 6.192 520 -3.255 -865 191                             
+Italiani 7.848 10.787 9.326 7.970 7.707 7.751   680 2.078 -153 -1.192 -549 -438 
+Stranieri 22.842 33.862 27.911 24.246 23.448 23.860   1.143 10.520 -712 -4.609 -989 208 
+  - comunitari 9.506 10.097 9.229 8.727 8.467 8.647   349 375 -1.129 -643 -80 -149 
+  - non comunitari 13.336 23.765 18.682 15.519 14.981 15.213   794 10.145 417 -3.966 -909 357                             
+Giovani < 30 anni 2.440 5.718 3.688 1.914 1.535 1.765   438 3.570 301 -1.140 -250 363 
+Adulti 30-54 anni 17.782 26.105 21.230 17.431 15.837 15.406   1.607 8.502 667 -3.063 -310 611 
+Senior >54 anni 10.468 12.826 12.319 12.871 13.783 14.440   -222 526 -1.833 -1.598 -978 -1.204                             
+Principali paesi di provenienza             
+Romania 8.653 9.239 8.437 8.050 7.749 7.955   376 348 -1.020 -558 -81 -90 
+Ucraina 3.082 4.317 3.611 3.806 3.951 3.788   67 1.061 -180 -63 -1 -41 
+Moldova 3.092 4.162 3.319 3.035 2.983 2.712   -127 804 -542 -455 -125 -264 
+Sri Lanka 1.429 1.701 1.623 1.764 1.768 1.913   236 372 97 44 147 238 
+Marocco 1.240 2.911 1.903 1.609 1.592 1.711   115 1.690 -104 -565 -129 166 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+A partire dal 2021, il bilancio occupazionale è negativo mostrando un progressivo arretramento delle 
+posizioni di lavoro in essere dopo l’incremento osservato nel 2020. Tale contrazione raggiunge livelli 
+massimi nel 2022 e interessa in particolar modo la componente straniera non comunitaria e, per quanto 
+riguarda il genere, gli uomini. Tra i comunitari – dove più spesso si riscontrano forme di pendolarismo 
+dai paesi di origine – il maggior decremento si registra nel 2021, immediatamente a ridosso della 
+pandemia. Solo nel 2024, per alcune componenti tornano a registrarsi segnali di crescita dei livelli 
+occupazionali9; nell’insieme il saldo continua ad essere leggermente negativo, ma migliore rispetto a 
+quello del biennio precedente.  
+                                                 
+9 Nel 2024 si registra un lieve aumento delle assunzioni a tempo indeterminato, soprattutto nel periodo compreso tra aprile e novembre. Al contrario, 
+le assunzioni a tempo determinato mostrano una contrazione rispetto al 2023. È ragionevole ipotizzare che l'incremento delle assunzioni a tempo 
+indeterminato sia stato in parte favorito dal “Bonus Badanti e Colf”, attivo dal 1° aprile al 31 dicembre 2024, che offre incentivi per le nuove assunzioni 
+a tempo indeterminato e per le trasformazioni dei contratti da tempo determinato a tempo indeterminato. 
+
+ 
+ 
+ 
+12/21 
+ 
+Focalizzando l’analisi a quanto successo nel periodo pandemico, vale la pena portare l’attenzione alla 
+peculiare dinamica di crescita della domanda di lavoro: nel 2020 si registrano 44.600 nuove assunzioni (+45% 
+rispetto al 2019) e nel 2021 circa 37.200; il bilancio occupazionale nel 2020 è particolarmente positivo e fa 
+registrare una crescita di oltre 12mila nuove posizioni di lavoro. Sulle ragioni che hanno determinato un vero 
+e proprio picco di contratti di lavoro domestico si è già detto in precedenza, riconducendolo sia all’accresciuto 
+fabbisogno delle famiglie, sia agli effetti di un duplice processo di regolarizzazione (emersione volta a 
+superare le restrizioni negli spostamenti durante il lockdown e sanatoria ex d.lgs. 34/202010) che di fatto ha 
+portato alla luce un numero considerevole di posizioni di lavoro in precedenza irregolari.  
+È utile, comunque, sottolineare come la crescita delle assunzioni e delle posizioni di lavoro registrata nel 2020 
+non abbia interessato in modo uniforme tutte le componenti della domanda. L’aumento più consistente 
+riguarda i lavoratori stranieri non comunitari (+78%, a fronte del +6% dei comunitari). Anche i lavoratori 
+italiani sono interessati da un incremento delle assunzioni (+37%), seppur meno marcato rispetto a quello 
+complessivamente osservato per la componente straniera (+48%).  
+Questa caratterizzazione emerge anche dall’andamento cumulato dei saldi occupazionali nel periodo 2019-
+2024 (graff. 1/2). L’aumento più consistente delle posizioni di lavoro in essere riguarda i lavoratori non 
+comunitari che, soprattutto in relazione ai processi di regolarizzazione attivati nel settore, raggiungono il 
+picco nel secondo trimestre del 2021, con un aumento di 12.000 posizioni aperte rispetto al 2019.11 Negli 
+anni successivi la crescita rallenta, stabilizzandosi poco sopra delle 6.000 unità nel 2023 e nel 2024. Diversa 
+è, invece, la situazione per i lavoratori comunitari: nel biennio 2020-2021 si osserva solo un piccolo 
+incremento che porta la dinamica occupazionale in territorio leggermente positivo, per poi contrarsi nel 
+triennio seguente in modo costante. Nel complesso, tra il 2019 e il 2024, si rileva una perdita di circa 1.400 
+posizioni di lavoro domestico tra i cittadini comunitari.  
+Per quanto riguarda i lavoratori italiani, il picco delle posizioni lavorative viene raggiunto nel primo trimestre 
+del 2021, con un incremento di 3.400 posizioni dal 2019 e l’attenuarsi della crescita negli anni successivi. 
+Complessivamente, tra il 2019 e il 2024, il saldo cumulato per questa categoria di lavoratori resta comunque 
+positivo (+160). 
+ 
+Graff. 1/2 – Veneto. Posizioni di lavoro domestico per cittadinanza.  
+Variazione cumulata trimestrale (1° trim. 2019=0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+                                                 
+10 Per una disamina dettagliata sulle dinamiche osservate in ambito domestico durante il periodo pandemico e sugli effetti della sanatoria ex d.lgs. 
+34/2020 si rimanda agli approfondimenti condotti per l’Osservatorio regionale immigrazione dall’Osservatorio regionale Mercato del Lavoro, in 
+particolare: FRECCE | 17_2020, “Il processo di emersione dei rapporti di lavoro ai tempi del Covid-19”, dicembre, e FRECCE | 24_2021, “La crescita 
+del lavoro domestico”, giugno, disponibili in www.venetoimmigrazione.it/frecce 
+11 Sulle dinamiche del lavoro domestico incidono anche le previsioni normative riferite alla programmazione annuale dei flussi di ingresso in territorio 
+nazionale. Il lavoro domestico (nello specifico con riferimento a colf e badanti) è stato oggetto di specifiche quote di ingresso in diversi anni, con 
+procedure dedicate.  
++160+5.20002.0004.0006.0008.00010.00012.00014.0001 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 42019 2020 2021 2022 2023 2024Totale italianiTotale stranieri-1.400+6.600-4.000-2.00002.0004.0006.0008.00010.00012.00014.0001 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 42019 2020 2021 2022 2023 2024Totale stranieriComunitariNon comunitari
+
+ 
+ 
+ 
+13/21 
+ 
+3.2  Gli effetti “temporanei” dei processi di regolarizzazione 
+L’analisi di lungo periodo (2008-2024) conferma come l’andamento occupazionale nel lavoro domestico sia 
+storicamente influenzato, in modo ricorrente, dagli interventi straordinari di emersione e regolarizzazione 
+delle posizioni lavorative. In particolare, in corrispondenza delle due principali sanatorie che hanno 
+interessato specificatamente il comparto domestico – quella del 2009 (L. 102/2009) e, più di recente, quella 
+del 2020 (D. lgs. 34/2020, “Decreto Rilancio) – si sono registrati picchi di assunzioni e di posizioni di lavoro in 
+essere, seguiti tuttavia da altrettanto rapide contrazioni (tab.4).  
+Questa dinamica, particolarmente evidente in corrispondenza di quanto avvenuto nel periodo pandemico 
+rivela una forte volatilità della domanda di lavoro domestico e mette in luce i limiti strutturali dei processi di 
+regolarizzazione. Le evidenze disponibili suggeriscono infatti che le sanatorie agiscono come impulsi 
+temporanei: favoriscono per un periodo limitato l’emersione di una quota di lavoro sommerso, ma non 
+determinano un consolidamento stabile della componente regolare. Il fatto che il settore rappresenti, per 
+molti lavoratori, un ambito di ingresso relativamente accessibile al mercato del lavoro – e, più in generale, 
+un’opportunità occupazionale cui ricorrere nei momenti di difficoltà di ricollocazione – contribuisce a 
+generare elevata mobilità e a rendere instabili le posizioni contrattuali (comunque sempre soggette a 
+possibili transizioni verso l’irregolarità).  
+ 
+Tab. 4 – Veneto. Lavoro domestico. Assunzioni, cessazioni e saldi per cittadinanza (2008 – 2024) 
+   Totale  Italiani  Stranieri 
+  Assunzioni Cessazioni Saldo Assunzioni Cessazioni Saldo Assunzioni Cessazioni Saldo           2008 28.968 23.265 5.703 5.024 4.497 527 23.944 18.768 5.176 
+2009 45.890 20.016 25.874 5.555 3.102 2.453 40.335 16.914 23.421 
+2010 27.259 26.128 1.131 4.696 3.359 1.337 22.563 22.769 -206 
+2011 28.123 27.593 530 4.943 4.172 771 23.180 23.421 -241 
+2012 29.734 27.789 1.945 5.588 4.515 1.073 24.146 23.274 872 
+2013 31.601 28.830 2.771 5.457 4.758 699 26.144 24.072 2.072 
+2014 27.070 27.850 -780 5.454 4.965 489 21.616 22.885 -1.269 
+2015 25.449 25.954 -505 5.450 5.325 125 19.999 20.629 -630 
+2016 24.960 25.067 -107 5.849 5.496 353 19.111 19.571 -460 
+2017 26.710 26.677 33 6.986 6.400 586 19.724 20.277 -553 
+2018 27.945 27.076 869 7.161 6.660 501 20.784 20.416 368 
+2019 30.690 28.867 1.823 7.848 7.168 680 22.842 21.699 1.143 
+2020 44.649 32.051 12.598 10.787 8.709 2.078 33.862 23.342 10.520 
+2021 37.237 38.102 -865 9.326 9.479 -153 27.911 28.623 -712 
+2022 32.216 38.017 -5.801 7.970 9.162 -1.192 24.246 28.855 -4.609 
+2023 31.155 32.693 -1.538 7.707 8.256 -549 23.448 24.437 -989 
+2024 31.611 31.841 -230 7.751 8.189 -438 23.860 23.652 208 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Nel caso specifico dei lavoratori non comunitari – ovvero i principali destinatari dei processi di 
+regolarizzazione in ambito domestico12 – l’emersione delle posizioni di lavoro conseguenti alle sanatorie, più 
+che rappresentare una misura dei rapporti di lavoro irregolari o delle fluttuazioni della domanda delle 
+famiglie, rappresenta un valido indicatore della necessità di ingresso o permanenza regolare nel territorio 
+nazionale da parte di chi cerca o ha bisogno di rinnovare un permesso di soggiorno.  
+Come dimostrano le dinamiche occupazionali registrate in corrispondenza delle diverse sanatorie (graff. 
+3/4/5), i rapporti di lavoro attivati in questa fase tendono spesso a concludersi nel breve periodo, con possibili 
+ritorni all’informalità, transizioni verso altri ambiti occupazionali o, in alcuni casi, spostamenti fuori regione 
+o all’estero, in ragione dell’elevata mobilità che caratterizza una parte della forza lavoro straniera 
+regolarizzata. 
+                                                 
+12 Le due sanatorie in esame erano rivolte sia ad italiani che stranieri. In realtà hanno interessato soprattutto lavoratori non comunitari per i quali il 
+contratto di lavoro rappresenta non solo un mezzo per l’inserimento occupazionale, ma anche uno strumento per ottenere o mantenere una 
+condizione di regolarità sul territorio. 
+
+ 
+ 
+ 
+14/21 
+ 
+Graf. 3 – Veneto. Lavoro domestico. Saldo annualizzato delle posizioni di lavoro per cittadinanza (2009-2013) 
+  
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Graf. 4 – Veneto. Lavoro domestico. Saldo annualizzato delle posizioni di lavoro per cittadinanza (2014-2018) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Graf. 5 – Veneto. Lavoro domestico. Saldo annualizzato delle posizioni di lavoro per cittadinanza (2019-2024) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+-6.000-4.000-2.00002.0004.0006.0008.00010.00012.00014.00016.00018.00020.000GenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNov2009 2010 2011 2012 2013ItalianiComunitariNon comunitari
+-6.000-4.000-2.00002.0004.0006.0008.00010.00012.00014.00016.00018.00020.000GenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNov2014 2015 2016 2017 2018ItalianiComunitariNon comunitari
+-6.000-4.000-2.00002.0004.0006.0008.00010.00012.00014.00016.00018.00020.000GenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNov2019 2020 2021 2022 2023 2024ItalianiComunitariNon comunitari
+
+ 
+ 
+ 
+15/21 
+ 
+Nel caso particolare del periodo post-pandemia, tra i fattori che possono aver contribuito alla significativa 
+perdita occupazionale vi è certamente anche la congiuntura del mercato del lavoro, caratterizzata – a partire 
+dalla seconda metà del 2021 – da una fase di intensa ripresa occupazionale. Tale dinamica potrebbe aver 
+ampliato le opportunità di impiego in altri ambiti, favorendo quindi l’uscita dei lavoratori dal domestico. Al 
+contrario, nel 2009 il contesto congiunturale appariva decisamente più debole a causa della crisi economica: 
+in quell’occasione, in assenza di valide alternative, è plausibile ritenere che molti lavoratori dopo la sanatoria 
+siano rimasti impiegati nel domestico o vi abbiano comunque fatto ingresso in modo più stabile. 
+ 
+Graf. 6 – Veneto. Posizioni di lavoro domestico di cittadini non comunitari, uomini. Saldo annualizzato (2019-2024) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+L’utilizzo strumentale del contratto di lavoro domestico, che alimenta la temporaneità dei processi di 
+regolarizzazione specie tra i lavoratori non comunitari, è maggiormente evidente se si osservano più nel 
+dettaglio le caratteristiche dei lavoratori interessati. Durante l’emergenza sanitaria, una parte importante 
+della crescita occupazionale legata alla sanatoria ha interessato gli uomini (graf. 6), da sempre una presenza 
+molto marginale nell’ambito del lavoro domestico. A dicembre 2020 si è registrato il picco delle posizioni di 
+lavoro, con una crescita su base annua di circa 6.200 unità (+10.100 se si considerano anche le donne). 
+ 
+Graff. 7/8 – Veneto. Assunzioni nel lavoro domestico per genere e principali paesi di cittadinanza. Stranieri (2019-2021) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
++6.200-3.100-6.000-4.000-2.00002.0004.0006.0008.000GenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNovGenMarMagLugSetNov2019 2020 2021 2022 2023 2024
+02.0004.0006.0008.00010.000Donne straniere20192020202105001.0001.5002.000Uomini stranieri201920202021
+
+ 
+ 
+ 
+16/21 
+ 
+Graff. 9/10 – Veneto. Saldi delle posizioni di lavoro domestico per genere e principali paesi di cittadinanza. Stranieri (2019-2021) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Osservando più nel dettaglio le caratteristiche dei lavoratori stranieri (graff. 7/8 e 9/10) è evidente che, nel caso degli 
+uomini, sia le assunzioni che i saldi occupazionali registrano variazioni particolarmente marcate in corrispondenza di 
+cittadinanze tradizionalmente poco presenti nel lavoro domestico. In particolare, alcuni gruppi nazionali più 
+rappresentati, come Marocco, Bangladesh, Pakistan, Sri Lanka e Cina, mostrano incrementi significativi nei rapporti 
+di lavoro attivati nel 2020. Considerando le prime dieci cittadinanze per numero di assunzioni in quell’anno, la 
+sanatoria ha ampliato sensibilmente la platea dei lavoratori maschi impiegati nel settore: il numero di nuove 
+attivazioni è infatti più che quadruplicato rispetto al 2019, passando da circa 1.600 a oltre 6.600 rapporti di lavoro.  
+ 
+ 
+Box 3 – Le prestazioni di lavoro domestico nell’ambito della somministrazione 
+ 
+Soprattutto nell’ambito dell’assistenza familiare, alcune attività domestiche possono essere oggetto di specifiche prestazioni fornite 
+tramite somministrazione, intercettando la domanda delle famiglie che preferiscono non gestire direttamente il rapporto di lavoro. Come 
+in ogni rapporto di somministrazione, l’agenzia per il lavoro assume il lavoratore (a tempo determinato o indeterminato) e attiva una 
+missione presso l’utilizzatore finale, assumendo la responsabilità della gestione amministrativa e contrattuale. Questa modalità può 
+garantire maggiore sicurezza giuridica e una semplificazione nella gestione del servizio di assistenza, ma comporta, al contempo, costi 
+generalmente più elevati per la famiglia rispetto all’assunzione diretta. In generale, si tratta di profili professionali più qualificati, reclutati 
+in base a processi di selezione più articolati e basati su requisiti più specifici. 
+Un’indicazione dell’entità della domanda di lavoro da parte delle famiglie nell’ambito della somministrazione è rintracciabile nei 
+dati Silv, con riferimento alle missioni attivate nel settore domestico. Nell’ultimo decennio (2013-2024), è evidente un progressivo 
+aumento del ricorso a questa modalità di impiego (tab. B1). Anche in questo caso, un peculiare addensamento nel volume delle 
+nuove attivazioni si registra in corrispondenza del periodo pandemico, specie tra i lavoratori italiani. 
+ 
+Tab. B1 – Veneto. Missioni in somministrazione in ambito domestico. Attivazioni e saldi (2013 – 2024) 
+  Totale   Italiani   Stranieri   Attivazioni % donne Saldo   Attivazioni % donne Saldo   Attivazioni % donne Saldo 
+2013 1.115 91% 247   426 93% 68   689 90% 179 2014 1.377 92% 161   438 99% 32   939 88% 129 2015 2.080 95% 267   609 94% -3   1.471 95% 270 2016 1.778 94% -117   692 93% -25   1.086 95% -92 2017 2.426 96% 179   658 95% 44   1.768 96% 135 2018 2.170 96% 77   518 95% 29   1.652 96% 48 2019 2.397 95% 59   534 94% -8   1.863 95% 67 2020 2.651 95% 253   782 94% 113   1.869 96% 140 2021 3.477 94% 133   1.099 90% 105   2.378 96% 28 2022 3.405 95% 9   984 90% -22   2.421 97% 31 2023 3.052 93% 45   894 82% 32   2.158 98% 13 2024 2.756 93% -14   851 83% -36   1.905 97% 22 
+Fonte: elab. Veneto Lavoro su dati Silv (estrazione 25 luglio 2025) 
+Più in generale, le attività svolte in ambito domestico tramite somministrazione coinvolgono in misura prevalente lavoratori con 
+cittadinanza straniera e, in larga maggioranza, donne. Tra i lavoratori italiani, la quota femminile mostra negli ultimi anni una 
+leggera tendenza alla contrazione. Considerando il carattere prevalentemente temporaneo delle missioni, il saldo annuale dei 
+rapporti attivi incide solo marginalmente sulla consistenza complessiva della base occupazionale del settore. 
+-1.000-800-600-400-20002004006008001.0001.200Donne straniere201920202021-20002004006008001.0001.2001.4001.600Uomini stranieri201920202021
+
+ 
+ 
+ 
+17/21 
+ 
+4.  I percorsi occupazionali dei lavoratori domestici 
+L’analisi dei percorsi occupazionali permette di individuare le principali tendenze nelle traiettorie lavorative 
+di coloro che hanno fatto ingresso nel lavoro domestico, evidenziando in particolare gli effetti dei processi di 
+regolarizzazione sulla permanenza o sull’uscita dal settore.  
+Per approfondire tali dinamiche, questa sezione propone innanzitutto un’analisi degli esordi nel lavoro 
+domestico negli ultimi sei anni. Successivamente, viene esaminata la situazione occupazionale, in diversi 
+momenti nel tempo posteriori all’ingresso, delle persone che hanno iniziato a lavorare nel settore tra il 2019 
+e il 202313, al fine di valutare la loro permanenza o uscita dal comparto, nonché eventuali transizioni verso 
+altri ambiti lavorativi. 
+L’analisi dell’andamento degli esordi nel lavoro domestico (tab. 5) evidenzia un picco di 20.700 nuovi ingressi 
+registrato nel 2020, riconducibile in particolare agli effetti della regolarizzazione avvenuta durante la 
+pandemia. Negli anni successivi, il numero di persone che hanno avviato per la prima volta un rapporto di 
+lavoro nel settore ha mostrato una progressiva riduzione, attestandosi nel triennio più recente intorno alle 
+8.000 nuove entrate annue, un valore inferiore rispetto al livello pre-pandemico (10.200). 
+Con riferimento alle caratteristiche dei soggetti che hanno esordito nel lavoro domestico nel periodo 
+considerato, si conferma quanto emerso nel paragrafo precedente per l’insieme delle assunzioni del settore; 
+i nuovi ingressi riguardano prevalentemente donne, lavoratori stranieri e persone con un’età compresa tra i 
+30 e i 54 anni. Anche in questo caso, pur registrandosi in tutti gli anni analizzati una maggiore presenza di 
+lavoratori provenienti da paesi extra-UE rispetto a quelli comunitari, il paese che presenta il maggior numero 
+di nuovi ingressi annui è la Romania. 
+ 
+Tab. 5 – Veneto. Esordienti nel lavoro domestico per caratteristiche socio-demografiche,  
+tipologia contrattuale e anno di esordio (2019-2024) 
+  2019 2020 2021 2022 2023 2024        Totale 10.218 20.672 13.247 8.876 7.878 8.132        Donne 8.507 13.295 9.423 7.547 6.836 6.730 
+Uomini 1.711 7.377 3.824 1.329 1.042 1.402        Italiani 3.939 5.595 4.302 3.415 3.061 3.031 
+Stranieri 6.279 15.077 8.945 5.461 4.817 5.101 
+ - non comunitari 3.506 12.478 6.910 3.795 3.199 3.589 
+ - comunitari 2.773 2.599 2.035 1.666 1.618 1.512        Principali provenienze       
+Romania 2.529 2.323 1.828 1.490 1.430 1.359 
+Marocco 452 1.949 837 486 401 511 
+Ucraina 388 1.390 701 765 736 574 
+Moldova 290 1.032 534 316 240 216 
+Sri Lanka 393 519 380 362 366 483        Giovani <30 anni 1.628 4.713 2.563 1.160 906 1.144 
+Adulti 30-54 anni 6.274 12.341 8.011 5.238 4.544 4.568 
+Senior >54 anni 2.316 3.618 2.673 2.478 2.428 2.420        Esordienti assoluti 5.045 12.579 7.316 4.511 3.874 3.932 
+Non esordienti assoluti 5.173 8.093 5.931 4.365 4.004 4.200        Domestico-indet. 8.096 17.296 10.642 6.960 6.085 6.295 
+Domestico-determ. 2.122 3.376 2.605 1.916 1.793 1.837 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+L’aumento del numero di esordienti osservato nel biennio della pandemia è attribuibile in particolare alla 
+componente maschile, ai lavoratori non comunitari – divenuti nel 2020 la maggioranza – ai giovani e a coloro 
+che sono entrati per la prima volta nel mercato del lavoro regionale. 
+                                                 
+13 Per i lavoratori che hanno esordito nel settore domestico nel 2023 si possono osservare solo i 18 mesi successivi all’esordio. 
+
+ 
+ 
+ 
+18/21 
+ 
+Dinamiche di particolare interesse si osservano anche con riferimento al 2024, anno per il quale, tuttavia, 
+non è ancora possibile analizzare i percorsi occupazionali successivi. A fronte di un aumento complessivamente 
+contenuto degli esordienti (+3% rispetto all’anno precedente), emergono variazioni significative per genere 
+e cittadinanza: per la componente maschile si rileva un incremento degli ingressi (+35%), a fronte di una 
+riduzione di quelli relativi alle donne (-2%); aumentano inoltre i lavoratori stranieri provenienti da Paesi extra-
+UE (+12%). In particolare, l’aumento degli esordienti uomini non comunitari appare in parte riconducibile agli 
+effetti del decreto flussi 2023-2025, che ha introdotto quote specifiche per il lavoro domestico. Tuttavia, va 
+sottolineato che l'incremento rilevato riguarda principalmente assunzioni avviate da datori di lavoro stranieri 
+a favore di lavoratori uomini provenienti da Paesi extra-UE tradizionalmente poco rappresentati nel settore 
+domestico, suggerendo, anche in questo caso, la persistenza di meccanismi strumentali simili a quelli 
+osservati durante le sanatorie, finalizzati alla regolarizzazione della posizione sul territorio nazionale. 
+ 
+Tab. 6 – Veneto. Esordienti nel lavoro domestico. Situazione occupazionale a 6, 12, 18 e 24 mesi dall'ingresso  
+per anno di esordio (2019-2023). Valori assoluti e % 
+   Val. assoluti  Comp. % 
+ a 6 mesi a 12 mesi a 18 mesi a 24 mesi a 6 mesi a 12 mesi a 18 mesi a 24 mesi          2019 10.218 10.218 10.218 10.218 100% 100% 100% 100% 
+Non occupato 3.021 3.997 4.450 4.786 30% 39% 44% 47% 
+Occupato nel settore domestico 6.617 5.389 4.741 4.178 65% 53% 46% 41% 
+Occupato in altro settore 580 832 1.027 1.254 6% 8% 10% 12% 
+2020 20.672 20.672 20.672 20.672 100% 100% 100% 100% 
+Non occupato 3.790 5.543 7.097 8.194 18% 27% 34% 40% 
+Occupato nel settore domestico 16.146 13.653 11.216 9.185 78% 66% 54% 44% 
+Occupato in altro settore 736 1.476 2.359 3.293 4% 7% 11% 16% 
+2021 13.247 13.247 13.247 13.247 100% 100% 100% 100% 
+Non occupato 3.283 4.335 5.056 5.287 25% 33% 38% 40% 
+Occupato nel settore domestico 8.999 7.071 5.944 5.385 68% 53% 45% 41% 
+Occupato in altro settore 965 1.841 2.247 2.575 7% 14% 17% 19% 
+2022 8.876 8.876 8.876 8.876 100% 100% 100% 100% 
+Non occupato 2.645 3.389 3.737 3.976 30% 38% 42% 45% 
+Occupato nel settore domestico 5.620 4.477 3.839 3.456 63% 50% 43% 39% 
+Occupato in altro settore 611 1.010 1.300 1.444 7% 11% 15% 16% 
+2023 7.878 7.878 7.878 7.878 100% 100% 100% 100% 
+Non occupato 2.541 3.112 3.487  - 32% 40% 44%  - 
+Occupato nel settore domestico 4.821 3.960 3.418  - 61% 50% 43%  - 
+Occupato in altro settore 516 806 973  - 7% 10% 12%  - 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+La tab. 6 riporta la distribuzione degli esordienti nei vari anni in base alla loro situazione occupazionale rilevata in 
+diversi momenti successivi14. Dai dati emerge la ridotta permanenza nel settore domestico, già evidenziata nei 
+paragrafi precedenti, a conferma della natura transitoria delle esperienze lavorative regolari in quest’ambito.  
+In generale, la quota di lavoratori che rimane nel settore si riduce progressivamente all’aumentare del tempo 
+trascorso dall’esordio, mentre aumentano sia la percentuale di coloro che non risultano più occupati in 
+regione, sia quella di chi transita verso altri comparti. Prendendo come riferimento la coorte del 2022, l’ultima 
+per la quale si dispone dell’osservazione dei 24 mesi successivi, la percentuale di coloro che rimangono 
+occupati con un lavoro domestico passa dal 63% a sei mesi al 39% a due anni; invece, la quota di lavoratori 
+che non risultano più occupati aumenta dal 30% al 45% e quella di chi si ricolloca in altri settori dal 7% al 16%. 
+Le medesime dinamiche si riscontrano anche per gli esordienti del 2020, per i quali si osservano, tuttavia, 
+tassi di permanenza a 6, 12 e 18 mesi più elevati – pari rispettivamente al 78%, 66% e 54% – rispetto a chi ha 
+iniziato a lavorare nel domestico negli altri anni (graf. 11). Tale differenza tende tuttavia a ridursi nel tempo: 
+a due anni dall’esordio, il tasso di permanenza si attesta al 44%, in linea con le altre coorti, confermando 
+come il contratto domestico anche in questo caso abbia rappresentato principalmente una condizione 
+temporanea, più che un inserimento stabile nel settore.  
+                                                 
+14 La situazione occupazionale dei lavoratori è osservata a intervalli di 6, 12, 18 e 24 mesi dall’inizio dell’attività nel settore domestico. Si tratta di una 
+fotografia puntuale in ciascuna di queste scadenze; nel periodo intermedio potrebbero essersi verificate transizioni o variazioni non rilevate. 
+
+ 
+ 
+ 
+19/21 
+ 
+Graf. 11 – Veneto. Esordienti nel lavoro domestico.  
+Tassi di permanenza nel settore per anno di esordio (2019-2023) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Concentrandosi sulla permanenza nel lavoro domestico e considerando la cittadinanza dei lavoratori (graf. 
+12/13), emergono tempi medi di persistenza più elevati tra i cittadini non comunitari, per i quali risulta inoltre 
+evidente l’impatto della pandemia. Infatti, nel 2020, mentre per i lavoratori esordienti italiani e comunitari i 
+tassi di permanenza si mantengono sostanzialmente in linea con quelli registrati per le altre annualità, tra i 
+non comunitari si osserva una quota più elevata di lavoratori che rimangono occupati nel settore domestico 
+nei 18 mesi successivi all’ingresso15.  
+Con riferimento al genere (graf. 14/15), gli uomini tendono a rimanere nel settore per un periodo inferiore rispetto 
+alle donne. Fanno eccezione i lavoratori che hanno esordito nel biennio 2020-2021, per i quali si registrano tassi 
+di permanenza più elevati, in particolare nei primi dodici mesi, rispetto alla componente femminile. 
+ 
+Graf. 12/13 – Veneto. Esordienti nel lavoro domestico.  
+Tassi di permanenza nel settore per cittadinanza e anno di esordio (2019-2023)  
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+                                                 
+15 Rispetto a questa dinamica la sanatoria non ha imposto limiti sulla durata minima dei rapporti di lavoro stipulati a seguito della procedura di 
+regolarizzazione. Tuttavia, essa ha previsto in alcune situazioni specifiche, dove il cittadino straniero era in possesso di un permesso di soggiorno scaduto, 
+la possibilità di ottenere un permesso temporaneo di 6 mesi convertibile in permesso di soggiorno per motivi di lavoro qualora la persona avesse trovato 
+un’occupazione. Questo meccanismo potrebbe aver in parte condizionato la permanenza dei lavoratori stranieri non comunitari nel domestico. 
+0%10%20%30%40%50%60%70%80%6 mesi 12 mesi 18 mesi 24 mesi20192020202120222023
+0%10%20%30%40%50%60%70%80%90%6 mesi 12 mesi 18 mesi 24 mesiItaliani e comunitari201920202021202220230%10%20%30%40%50%60%70%80%90%6 mesi 12 mesi 18 mesi 24 mesiNon comunitari20192020202120222023
+
+ 
+ 
+ 
+20/21 
+ 
+ Graf. 14/15 – Veneto. Esordienti nel lavoro domestico.  
+Tassi di permanenza nel settore per genere e anno di esordio (2019-2023)  
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Considerando le transizioni verso altri settori, si rileva un’incidenza maggiore tra le donne italiane e tra gli 
+uomini italiani e non comunitari. Dai grafici 16 e 17 si osserva come, in generale, la maggior parte di chi a 12 
+e 24 mesi dall’esordio ha trovato occupazione al di fuori del settore domestico, sia impiegata nel terziario, in 
+particolare nel commercio e tempo libero e nei servizi alla persona; una quota compresa tra il 20% e il 30% è 
+occupata invece nell’industria, mentre solo una parte minoritaria, inferiore all’8%, transita verso l’agricoltura.  
+ 
+Graf. 16/17 – Veneto. Esordienti nel lavoro domestico. Transitati verso altri settori a 12 e 24 mesi,  
+per settore di destinazione e anno di esordio (2019-2023)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+0%10%20%30%40%50%60%70%80%90%6 mesi 12 mesi 18 mesi 24 mesiDonne201920202021202220230%10%20%30%40%50%60%70%80%90%6 mesi 12 mesi 18 mesi 24 mesiUomini201920202021202220237%4%4%4%5%19%24%27%18%16%20%22%27%27%25%25%23%16%23%29%30%27%25%28%26%0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%20192020202120222023A 12 mesiAgricolturaIndustriaComm.-tempo liberoServizi alla personaAltri servizi5%5%4%4%22%31%30%18%18%25%27%28%24%15%16%22%31%24%24%28%0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%2019202020212022A 24 mesiAgricolturaIndustriaComm.-tempo liberoServizi alla personaAltri servizi
+
+ 
+ 
+ 
+21/21 
+ 
+I lavoratori che hanno avviato per la prima volta un rapporto di lavoro nel domestico durante il biennio 
+segnato dall’emergenza sanitaria, in particolare nel 2021, presentano a distanza di un anno una quota più 
+elevata di ricollocazione nell’industria, con una concentrazione nei comparti del made in Italy e del 
+metalmeccanico, a fronte di una riduzione delle transizioni verso i servizi alla persona. Tale tendenza – legata 
+al miglioramento del contesto occupazionale generale nel periodo post-pandemico e all’ampliarsi delle 
+opportunità in altri settori – risulta ancora più marcata se si considerano le transizioni a due anni dall’esordio. 
+Tra gli esordienti del triennio 2021-2023 si registra un aumento della quota di coloro che, nei 12 mesi 
+successivi all’ingresso, transitano verso il commercio e tempo libero – circa un quarto del totale – con una 
+prevalenza nei servizi turistici. Tale quota si mantiene sostanzialmente stabile anche a due anni di distanza 
+dall’esordio nel mercato del lavoro domestico.

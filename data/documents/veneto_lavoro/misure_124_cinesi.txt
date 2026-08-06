@@ -1,0 +1,498 @@
+2/14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Misure/124 – Cinesi e mercato del lavoro: le recenti dinamiche delle aziende cinesi nel manifatturiero  
+a cura di Letizia Bertazzon e Ilaria Rocco 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+ 
+ 
+ 
+3/14 
+ 
+ 
+Nell’ultimo ventennio, la presenza cinese in Veneto ha acquisito un peso rilevante nella popolazione 
+residente straniera e all’interno del mercato del lavoro, soprattutto in specifici ambiti del manifatturiero e 
+dei servizi, caratterizzandosi per forme insediative e organizzative peculiari. A partire dai dati SILV, questo 
+contributo analizza le più recenti dinamiche del lavoro dipendente nel tessile-abbigliamento, nell’occhialeria 
+e nelle calzature, confrontando l’andamento generale di tali comparti con quello specifico delle imprese a 
+titolarità cinese. L’analisi evidenzia una significativa e veloce riduzione della base occupazionale in queste 
+realtà, sollevando interrogativi sulle cause e sulle prospettive future. 
+Le difficoltà – strutturali e congiunturali – che attraversano tali comparti potrebbero avere un’influenza 
+sulle scelte di posizionamento della comunità cinese, storicamente mobile e reattiva. I segnali provenienti 
+dal mercato del lavoro richiedono, quindi, un presidio attento per comprendere da un lato i cambiamenti in 
+atto in alcuni ambiti del manifatturiero locale, dall’altro le nuove modalità di insediamento della comunità 
+nel tessuto economico regionale. 
+ 
+  
+Abstract 
+
+ 
+ 
+ 
+4/14 
+ 
+Premessa 
+Nel corso degli anni, la presenza cinese in regione è divenuta sempre più significativa, non solo in termini 
+assoluti ma anche in rapporto al fenomeno migratorio complessivo. In Veneto, l’incidenza dei lavoratori e 
+delle realtà produttive a titolarità cinese ha assunto una certa rilevanza, caratterizzandosi per specifiche 
+modalità insediative.  
+Le peculiarità dell’inserimento lavorativo e delle forme di imprenditorialità in regione sono state analizzate 
+in modo approfondito da M. Rasera e D. Sacchetto, nell’ambito del percorso di ricerca che ha portato 
+alla pubblicazione “Cinèṡi tra le maglie del lavoro”1. Nell’analisi condotta è stata data evidenza alle 
+interconnessioni tra il sistema produttivo locale e la comunità cinese, mostrando come quest’ultima si 
+presenti come un “mondo autosufficiente”, una sorta di sistema sociale ed economico separato e parallelo 
+rispetto al resto dell’economia. 
+Favorita da una forte propensione all’imprenditorialità e da una specializzazione settoriale rimasta pressoché 
+invariata, la presenza cinese ha mantenuto il presidio di alcuni specifici settori sia nel terziario (ristorazione, 
+commercio e servizi alla persona), sia nel manifatturiero (subfornitura nei comparti dell’abbigliamento, delle 
+calzature e dell’occhialeria). Proprio in quest’ambito, dove le realtà cinesi hanno un peso rilevante, risulta 
+essere più marcata la chiusura del mercato del lavoro di riferimento – dal momento che datori di lavoro e 
+dipendenti sono cinesi –; la mobilità delle aziende e dei lavoratori è molto elevata; l’organizzazione 
+dell’attività lavorativa – spesso contraddistinta da ampie sacche di irregolarità – si avvale in prevalenza di 
+lavoratori (formalmente) impiegati ad orario ridotto. 
+Considerato che, in passato, una delle caratteristiche più distintive delle migrazioni cinesi è stata la loro 
+spiccata reattività alle congiunture economiche – con andamenti talvolta in controtendenza rispetto a quelli 
+degli italiani e degli altri stranieri –, i più recenti movimenti osservati in alcuni ambiti del manifatturiero nelle 
+imprese a titolarità cinese risultano particolarmente interessanti e meritevoli della dovuta attenzione. 
+In questo breve approfondimento si analizzano le dinamiche registrate nel lavoro dipendente nei comparti 
+del tessile-abbigliamento, dell’occhialeria e dell’industria calzaturiera in Veneto, mettendo in relazione gli 
+andamenti generali con quelli rilevati per le imprese a titolarità cinese. Si darà conto di come la recente e 
+rapida flessione occupazionale nelle aziende cinesi abbia contribuito al rallentamento complessivamente 
+osservato nel manifatturiero locale. 
+Per descrivere la presenza cinese nel territorio, la ricognizione apre con una verifica delle principali 
+informazioni disponibili sui residenti ed i permessi di soggiorno rilasciati a cittadini cinesi. Poiché l’ultimo 
+aggiornamento delle fonti dalle quali sono desumibili tali informazioni è al 1° gennaio 2024, non è ad oggi 
+possibile verificare se nell’ultimo anno e mezzo è intervenuta una variazione della presenza cinese nel 
+territorio che possa aver influenzato gli andamenti occupazionali di cui si darà conto nel presente contributo; 
+occorrerà pertanto attendere i successivi rilasci per indicazioni precise su questo aspetto. 
+Si prosegue illustrando i dati di fonte Inps e Silv (Sistema informativo lavoro del Veneto) relativi alla 
+partecipazione al mercato del lavoro dei cittadini cinesi e, nello specifico, alle dinamiche occupazionali degli 
+ultimi anni nel lavoro dipendente.  
+L’approfondimento continua analizzando la caratterizzazione delle aziende a titolarità cinese con un focus 
+sui trend registrati più di recente in alcuni ambiti del manifatturiero locale, specie nella prima parte del 2025. 
+In conclusione, si presentano le prime evidenze di un’analisi condotta sulle aziende a titolarità cinese attive 
+nei comparti indagati, con l’obiettivo di esplorare la permanenza dei lavoratori nel mercato del lavoro locale 
+e le loro possibili transizioni settoriali entro un mese dalla cessazione contrattuale.  
+                                                 
+1 Rasera M., Sacchetto D. (2018), “Cinèṡi tra le maglie del lavoro”, FrancoAngeli, Milano. 
+
+ 
+ 
+ 
+5/14 
+ 
+1.  La presenza cinese in Veneto e nel mercato del lavoro regionale 
+La presenza cinese nel contesto regionale è andata progressivamente rafforzandosi nell’ultimo ventennio 
+arrivando oggi a rappresentare una quota significativa della popolazione (graf. 1). Il numero dei residenti, 
+che ha conosciuto ritmi di crescita elevati soprattutto nella prima parte del decennio scorso, negli ultimi anni 
+si è di stabilizzato poco al di sopra delle 35mila unità. Secondo l’ultimo aggiornamento dei dati (1° gennaio 
+2024) la presenza regolare di questa comunità nel territorio regionale, che conta 36.500 cittadini cinesi, 
+costituisce il 7,3% della popolazione straniera. 
+ 
+Graf. 1 – Veneto. Cittadini cinesi residenti al 1° gennaio di ogni anno.  
+Val. ass. ed incid. % su totale degli stranieri residenti in regione 
+ * break nella serie 
+Fonte: ns. elab. su dati Istat 
+ 
+Pur a fronte di una stabilità dei residenti – arrivati direttamente in Veneto oppure trasferitisi da altre regioni 
+– è evidente un trend di progressiva contrazione dei permessi di soggiorno in essere condizionato dalle 
+effettive possibilità di accesso regolare al territorio nazionale (graf. 2). Infatti anche la dinamica dei nuovi 
+ingressi (ovvero i nuovi rilasci di permessi di soggiorno) risulta in graduale rallentamento sia per il 
+complessivo contesto nazionale che per quello regionale. 
+ 
+Graf. 2 – Veneto. Permessi di soggiorno di cittadini cinesi al 1° gennaio di ogni anno.  
+Permessi di soggiorno in essere e nuovi rilasci nell’anno 
+ Fonte: ns. elab. su dati Istat 
+0%1%2%3%4%5%6%7%8%9%05.00010.00015.00020.00025.00030.00035.00040.00045.00020042005200620072008200920102011*20122013201420152016201720182019*2020*2021*202220232024Cinesi residenti% su totale residenti (scala a dx)
+01.0002.0003.0004.0005.0006.0007.0008.0009.00010.00005.00010.00015.00020.00025.00030.00035.00040.00045.00050.00020082009201020112012201320142015201620172018201920202021202220232024Permessi di soggiornoIngressi nell'anno (scala a dx)
+
+ 
+ 
+ 
+6/14 
+ 
+In Veneto, nel corso dell’ultimo decennio, i permessi di soggiorno rilasciati ai cittadini cinesi sono stati 
+mediamente circa un migliaio l’anno e la maggior parte è stata concessa per motivi familiari. L’ultimo dato 
+disponibile è quello relativo al 2023 e conta 754 nuovi ingressi regolari, dei quali 351 per motivi familiari, 255 
+per studio e 118 per lavoro. 
+Guardando alla condizione lavorativa prevalente dei cittadini cinesi in Veneto, le informazioni disponibili, di 
+fonte Inps, confermano l’elevata presenza di lavoratori autonomi, nell’insieme mediamente circa un quarto 
+del totale degli occupati (tab. 1). All’interno di questo sottoinsieme, la quota maggioritaria continua ad essere 
+rappresentata dai commercianti, per lo più gestori di piccole attività al dettaglio e di ristorazione; gli artigiani 
+costituiscono invece circa un quarto dei lavoratori autonomi e, negli anni più recenti, risultano in calo dopo 
+il picco massimo raggiunto nel 2020. I lavoratori dipendenti, nella maggior parte dei casi inquadrati come 
+operai, risultano in crescita nel corso degli anni (fatta eccezione per l’anno della pandemia); nel 2023, 
+risultavano 19.600, in crescita del +8% rispetto al 2014 e del +2% rispetto al 2022. 
+ 
+Tab. 1 – Veneto. Cittadini cinesi per condizione prevalente. Numero lavoratori nell’anno 
+ 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023            
+Lavoratori autonomi 6.653  6.743 6.778 6.815 7.028 7.133 7.256 7.040 6.996 6.616 
+di cui:           
+Artigiani 1.912  1.895 1.831 1.793 1.839 1.891 1.923 1.914 1.848 1.530 
+Commercianti 4.736  4.843 4.941 5.016 5.181 5.234 5.322 5.115 5.137 5.076            
+Lavoratori dipendenti 18.121  18.303 18.208 18.271 18.328 18.715 17.657 18.523 19.248 19.616 
+di cui:           
+Operai 15.946  16.255 16.142 16.178 16.271 16.641 15.583 15.846 16.986 17.623            
+Lavoratori parasubordinati 158 157 141 160 178 186 219 252 292 337            
+Totale 24.932  25.203 25.127 25.246 25.534 26.034 25.132 25.815 26.536 26.569 
+Fonte: ns. elab. su dati Inps, Osservatorio sugli stranieri  
+ 
+Focalizzando l’attenzione sul mercato del lavoro dipendente, le caratteristiche occupazionali dei cittadini di 
+nazionalità cinese mantengono i tratti distintivi già ampiamente evidenziati in letteratura: essi infatti 
+risultano occupati soprattutto alle dipendenze di imprese di connazionali, in particolare nell’ambito 
+industriale, e vengono inquadrati prevalentemente con contratti di lavoro part-time2.  
+Come messo in luce dai dati Silv (tab. 2), le dinamiche osservate nel corso degli anni per i lavoratori cinesi in 
+riferimento alle tre principali tipologie contrattuali del lavoro dipendente (tempo indeterminato, 
+apprendistato e tempo determinato) hanno evidenziato stabilmente – con l’unica eccezione dell’anno della 
+pandemia – bilanci annuali positivi che hanno contribuito al progressivo rafforzamento del volume 
+complessivo delle posizioni di lavoro in essere.  
+Nell’ultimo biennio si sono registrate invece dinamiche opposte in riferimento alle aziende a titolarità cinese3, 
+per le quali si osserva una generale flessione delle posizioni di lavoro in essere interamente imputabile alle 
+dinamiche dell’industria. In relazione a tale macro-settore, tra le imprese a titolarità cinese le variazioni 
+cumulate registrate mostrano infatti una sostanziale stabilità dei livelli di crescita nel corso dell’ultimo 
+decennio (graf. 3); tuttavia a partire dalla seconda metà del 2024 ha preso avvio e si è andata via via 
+rafforzando la contrazione delle posizioni di lavoro in essere. 
+ 
+ 
+ 
+                                                 
+2 Osservatorio regionale Mercato del Lavoro (2025), “Part-time e mercato del lavoro in Veneto: scelte, necessità, strategie”, in Tartufi 61, aprile, 
+www.venetolavoro.it/tartufi 
+3 Imprese alle quali è associato un codice fiscale riconducibile ad un cittadino cinese. 
+
+ 
+ 
+ 
+7/14 
+ 
+Per contro, le dinamiche associate al macro-settore dei servizi – al netto della flessione nel periodo della 
+pandemia –, sono risultate orientate ad un progressivo rafforzamento dei livelli occupazionali. Nella seconda 
+parte del 2024 e nei primi mesi del 2025, tra le imprese a titolarità cinese si è intensificata la crescita delle 
+posizioni di lavoro. Questa dinamica ha contribuito a generare un’inedita divaricazione degli andamenti 
+osservati in corrispondenza dei due diversi macro-settori lavorativi. 
+ 
+Tab. 2 – Veneto. Posizioni di lavoro dipendente* di cittadini cinesi.  
+Assunzioni, cessazioni e saldi per anno (totale e industria) 
+ 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 
+TOTALE             
+Totale aziende            
+Assunzioni 14.706 14.441 12.979 12.690 12.822 13.685 8.831 11.068 12.109 11.894 13.039 
+ - part-time 11.625 11.560 10.628 10.234 10.309 11.291 7.184 8.844 9.807 9.690 10.131 
+Cessazioni 13.546 13.513 12.439 12.293 12.279 13.293 9.241 10.291 11.289 11.494 12.348 
+Saldo 1.160 928 540 397 543 392 -410 777 820 400 691 
+Aziende cinesi            
+Assunzioni 10.018 9.617 8.470 8.038 7.752 8.102 5.167 6.210 6.576 6.190 6.254 
+- part-time 8.385 8.325 7.406 7.045 6.831 7.187 4.673 5.418 5.781 5.401 5.432 
+Cessazioni 8.938 9.019 8.193 7.786 7.570 8.156 5.283 6.244 6.308 6.280 6.432 
+Saldo 1.080 598 277 252 182 -54 -116 -34 268 -90 -178 
+INDUSTRIA 
+           
+Totale aziende            
+Assunzioni 8.095 7.330 6.126 5.663 5.654 6.035 4.259 5.589 5.702 5.395 5.624 
+ - part-time 6.359 5.962 5.081 4.664 4.584 4.994 3.607 4.468 4.552 4.214 4.032 
+Cessazioni 7.506 7.233 6.182 5.562 5.473 6.196 4.033 5.499 5.267 5.337 5.678 
+Saldo 589 97 -56 101 181 -161 226 90 435 58 -54 
+Aziende cinesi            
+Assunzioni 7.269 6.517 5.492 4.998 4.805 5.161 3.579 4.453 4.332 3.926 3.784 
+- part-time 5.996 5.644 4.780 4.374 4.164 4.541 3.214 3.848 3.783 3.370 3.172 
+Cessazioni 6.515 6.425 5.482 4.995 4.694 5.378 3.368 4.706 4.134 4.123 4.147 
+Saldo 754  92 10 3 111 -217 211 -253 198 -197 -363 
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+ 
+Graf. 3 – Veneto, aziende cinesi. Posizioni di lavoro dipendente* nel settore privato.  
+Variazioni mensili cumulate (gennaio 2009=0) 
+ 
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025)  
+01.0002.0003.0004.0005.0006.0007.0008.0009.00020092010201120122013201420152016201720182019202020212022202320242025TotaleIndustriaServizi
+
+ 
+ 
+ 
+8/14 
+ 
+2.  Le recenti dinamiche occupazionali registrate dalle aziende a titolarità cinese in alcuni ambiti del manifatturiero 
+Come precedentemente evidenziato, la seconda parte del 2024 e, soprattutto, i primi mesi del 2025 risultano 
+contraddistinti da un accentuarsi della contrazione delle posizioni di lavoro riferite a cittadini cinesi impiegati 
+nelle imprese manifatturiere a titolarità cinese della regione. In questa sezione si intende quindi approfondire 
+le dinamiche occupazionali che caratterizzano le aziende a titolarità cinese nei comparti in cui sono 
+prevalentemente attive. 
+Nell’industria in senso stretto (tav. 1) – dove complessivamente si continua a registrare una crescita molto 
+contenuta delle posizioni di lavoro, con evidenti segnali di flessione o riduzione in alcuni comparti4 –, in 
+corrispondenza delle imprese a titolarità cinese si sta registrando una peculiare contrazione occupazionale, 
+in alcuni casi particolarmente amplificata e responsabile di buona parte della riduzione delle posizioni di 
+lavoro in essere nel settore.  
+ 
+Tav. 1 – Veneto, industria in senso stretto.  
+Posizioni di lavoro dipendente* nel settore privato per tipologia di azienda  
+(aziende a titolarità cinese, aziende non cinesi e totale aziende) 
+Variazioni mensili cumulate (gennaio 2019=0) 
+ 
+ 
+Variazioni mensili tendenziali annualizzate 
+ 
+ 
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+                                                 
+4 Sulle recenti dinamiche occupazionali del comparto industriale si rimanda alle ultime edizioni de La Bussola, www.venetolavoro.it/bussola. 
+05.00010.00015.00020.00025.00030.00035.00040.0002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-6.000-4.000-2.00002.0004.0006.0008.00010.00012.00014.00016.0002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-1.000-800-600-400-20002004002019 2020 2021 2022 2023 2024 25Aziende cinesi-1.200-1.000-800-600-400-20002004002019 2020 2021 2022 2023 2024 25Aziende cinesi
+
+ 
+ 
+ 
+9/14 
+ 
+Dall’inizio del 2019 al mese di maggio 2025, nelle imprese cinesi attive nell’industria in senso stretto si contano 
+circa 900 posizioni di lavoro in meno; dal livello massimo raggiunto ad inizio 2024, la contrazione osservata si 
+attesta a -1.200 unità, con una particolare accelerazione della diminuzione nella prima parte del 2025.  
+Questa contrazione risulta particolarmente evidente in alcuni ambiti del manifatturiero locale, specie in quelli 
+dove la presenza dell’imprenditoria cinese ha tradizionalmente rappresentato una componente strutturale 
+dell’assetto organizzativo del settore.  
+Una recente, marcata, riduzione delle posizioni di lavoro in essere è particolarmente evidente nelle aziende cinesi 
+attive nel tessile-abbigliamento (tav. 2). Qui si contano circa 800 posizioni di lavoro dipendente in meno da inizio 
+2019: tale perdita occupazionale rappresenta poco meno della metà di quella complessivamente registrata nel 
+comparto. Anche in questo caso la contrazione ha conosciuto una rilevante accelerazione nel corso dell’ultimo 
+biennio e si associa ad un diffuso calo delle assunzioni a fronte di una sostanziale stabilità delle cessazioni. 
+ 
+Tav. 2 – Veneto, tessile-abbigliamento.  
+Posizioni di lavoro dipendente* nel settore privato per tipologia di azienda  
+(aziende a titolarità cinese, aziende non cinesi e totale aziende) 
+Variazioni mensili cumulate (gennaio 2019=0) 
+  
+Variazioni mensili tendenziali annualizzate 
+  
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+ 
+-2.500
+-2.000
+-1.500
+-1.000
+-500
+0
+500
+2019 2020 2021 2022 2023 2024 25
+Totale aziende
+Aziende non cinesi
+-800
+-600
+-400
+-200
+0
+200
+400
+2019 2020 2021 2022 2023 2024 25
+Aziende cinesi
+-1.500
+-1.000
+-500
+0
+500
+1.000
+2019 2020 2021 2022 2023 2024 25
+Totale aziende
+Aziende non cinesi
+-800
+-600
+-400
+-200
+0
+200
+400
+2019 2020 2021 2022 2023 2024 25
+Aziende cinesi
+
+ 
+ 
+ 
+10/14 
+ 
+All’interno del made in Italy, segnali rilevanti di un rallentamento dell’incremento occupazionale si 
+registrano anche nell’ambito dell’occhialeria (tav. 3). Nei primi mesi del 2025, il comparto è stato 
+interessato da una contrazione del trend di crescita avviatosi nella seconda metà del 2021. Anche in 
+questo caso, il recente rallentamento è in larga parte imputabile alle dinamiche registrate presso le 
+imprese a titolarità cinese dove, contestualmente ad un calo delle assunzioni, si registra un incremento 
+delle cessazioni. 
+ 
+Tav. 3 – Veneto, occhialeria.  
+Posizioni di lavoro dipendente* nel settore privato per tipologia di azienda  
+(aziende a titolarità cinese, aziende non cinesi e totale aziende) 
+Variazioni mensili cumulate (gennaio 2019=0) 
+  
+Variazioni mensili tendenziali annualizzate 
+  
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+ 
+  
+05001.0001.5002.0002.5002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-100-500501001502002019 2020 2021 2022 2023 2024 25Aziende cinesi
+-800-600-400-20002004006008001.0001.2002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-150-100-500501001502019 2020 2021 2022 2023 2024 25Aziende cinesi
+
+ 
+ 
+ 
+11/14 
+ 
+Nell’ambito del calzaturiero (tav. 4), contraddistinto anch’esso da un rallentamento della domanda di lavoro 
+e da una riduzione delle posizioni di lavoro in essere a partire dalla seconda metà del 2024, anche per le 
+imprese cinesi si osserva un trend di marcata contrazione. Pur trattandosi di variazioni limitate a poche 
+centinaia di lavoratori, è evidente nella prima parte del 2025 un nuovo acuirsi della flessione già registrata 
+nel corso dell’anno precedente. In questo comparto, a trainare la diminuzione è soprattutto l’importante 
+incremento delle cessazioni, contestuale ad un forte calo della domanda di lavoro. 
+ 
+Tav. 4 – Veneto, calzature.  
+Posizioni di lavoro dipendente* nel settore privato per tipologia di azienda  
+(aziende a titolarità cinese, aziende non cinesi e totale aziende) 
+Variazioni mensili cumulate (gennaio 2019=0) 
+  
+Variazioni mensili tendenziali annualizzate 
+  
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+ 
+ 
+  
+-800-600-400-20002004006008002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-500501001502002503002019 2020 2021 2022 2023 2024 25Aziende cinesi
+-1.000-800-600-400-20002004006008001.0002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-250-200-150-100-500501001502002019 2020 2021 2022 2023 2024 25Aziende cinesi
+
+ 
+ 
+ 
+12/14 
+ 
+Nel settore metalmeccanico (tav. 5), dove la presenza dell’imprenditoria cinese è minore, si osservano 
+dinamiche leggermente diverse da quelle rilevate nell’ambito del made in Italy. Le variazioni osservate, 
+riferite comunque a numeri esigui, riflettono in buona parte il rallentamento generalizzato della domanda di 
+lavoro nel settore. Nello specifico, in corrispondenza delle aziende a titolarità cinese si registra una 
+contrazione delle posizioni di lavoro in essere nel biennio 2023-2024, che prosegue anche nel 2025, pur a un 
+ritmo meno intenso. 
+ 
+Tav. 5 – Veneto, metalmeccanico.  
+Posizioni di lavoro dipendente* nel settore privato per tipologia di azienda  
+(aziende a titolarità cinese, aziende non cinesi e totale aziende) 
+Variazioni mensili cumulate (gennaio 2019=0) 
+  
+Variazioni mensili tendenziali annualizzata 
+  
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 9 giugno 2025) 
+ 
+  
+05.00010.00015.00020.00025.00020192020202120222023202425Totale aziendeAziende non cinesi-60-40-2002040602019 2020 2021 2022 2023 2024 25Aziende cinesi
+-2.00002.0004.0006.0008.00010.0002019 2020 2021 2022 2023 2024 25Totale aziendeAziende non cinesi-80-60-40-200204060802019 2020 2021 2022 2023 2024 25Aziende cinesi
+
+ 
+ 
+ 
+13/14 
+ 
+3.  I percorsi successivi alle conclusioni contrattuali  
+A fronte di un evidente rallentamento della domanda di lavoro in alcuni ambiti del manifatturiero locale, le 
+peculiari dinamiche di contrazione osservate in corrispondenza delle aziende a titolarità cinese portano ad 
+interrogarsi sui percorsi dei lavoratori e sulle possibili traiettorie di mobilità verso altri ambiti occupazionali. 
+Occorre, in ogni caso, tener presente come la marcata mobilità territoriale e nel mercato del lavoro della 
+comunità cinese – incluso il possibile passaggio all’irregolarità di cui è statisticamente difficile dare conto – 
+possa indubbiamente condizionare possibili valutazioni sulle transizioni di questi lavoratori.  
+Osservando la ricollocazione dei lavoratori impiegati presso aziende a titolarità cinese nei comparti del 
+tessile-abbigliamento, dell’occhialeria e dell’industria calzaturiera entro un mese dalla cessazione del 
+rapporto di lavoro5, si possono intercettare alcune prime indicazioni sui percorsi di questi lavoratori 
+all’interno del contesto regionale. 
+ 
+Tab. 3 – Veneto. Cessazioni di rapporti di lavoro dipendente* e percorsi successivi.  
+Lavoratori cessati da imprese cinesi nei comparti tessile-abbigliamento, occhialeria e ind. calzature 
+ 2023 2024 gen.-mag. 2023 gen.-mag. 2024 gen.-mag. 2025**             
+Ind. tessile-abbigliamento 3.223 3.285 1.496 1.413 1.578 
+% ricollocati entro 1 mese 32% 34% 33% 32% 38% 
+  di cui:      % ricollocati nel terziario 3% 4% 3% 4% 4% 
+% ricollocati nel tessile-abb. 92% 92% 92% 93% 92%             
+Occhialeria 290 302 106 153 246 
+% ricollocati entro 1 mese 41% 35% 42% 39% 28% 
+  di cui:      
+% ricollocati nel terziario 9% 11% 11% 3% 7% 
+% ricollocati nell'occhialeria 79% 74% 71% 86% 84%       
+Ind. calzature 859 812 345 334 373 
+% ricollocati entro 1 mese 27% 28% 28% 35% 48% 
+  di cui:      
+% ricollocati nel terziario 6% 4% 10% 3% 2% 
+% ricollocati nell'ind. calzature 85% 82% 80% 73% 83%             
+*Tempo indeterminato, apprendistato, tempo determinato. 
+Fonte: ns. elab. su dati Silv (estrazione 8 luglio 2025) 
+ 
+Complessivamente, nei comparti analizzati si rileva che: 
+ solo ad una parte minoritaria (circa un terzo) dei rapporti di lavoro cessati nel 2023, 2024 e nei primi 
+cinque mesi del 2025 segue una nuova ricollocazione in regione nel mese successivo. Per la 
+maggioranza dei lavoratori non si registrano nuove assunzioni, anche se si estende il periodo di 
+osservazione6; 
+ le transizioni dei lavoratori al terziario sono molto limitate, quasi residuali. Pertanto, il rafforzamento 
+delle posizioni di lavoro in essere nel terziario rilevato in precedenza per aziende e lavoratori cinesi 
+sembra associato prevalentemente ai reclutamenti di nuovo personale e non basato sulle transizioni 
+da un comparto all’altro; 
+ la maggior parte delle ricollocazioni avviene nel medesimo ambito occupazionale del rapporto di 
+lavoro concluso7, soprattutto nel tessile-abbigliamento. 
+                                                 
+5 Cessazione avvenuta soprattutto in ragione delle dimissioni del lavoratore o di un licenziamento economico individuale contestuale alla cessazione 
+dell’attività aziendale. 
+6 A questa informazione sottende chiaramente il possibile transito verso altre realtà territoriali all’interno del contesto nazionale, lo spostamento 
+all’estero, ma potrebbe esserci anche qualche forma di passaggio (o re-immersione) nel lavoro irregolare. 
+7 Potrebbe incidere l’elevata nati-mortalità che contraddistingue le imprese cinesi, con la selezione ed il passaggio dei lavoratori da una realtà 
+aziendale all’altra. 
+
+ 
+ 
+ 
+14/14 
+ 
+Conclusioni 
+I trend più recenti nel lavoro dipendente osservati per le imprese a titolarità cinese in alcuni ambiti del 
+manifatturiero locale danno evidenza di una significativa e repentina riduzione della base occupazionale 
+ed aprono ad alcuni interrogativi sulle possibili motivazioni di quanto sta succedendo nel mercato del 
+lavoro regionale. 
+Si tratta di dinamiche che, almeno in parte, riflettono le difficoltà insieme strutturali e congiunturali che 
+stanno attraversando alcuni settori; forse tali ambiti stanno diventando meno attrattivi anche per le aziende 
+cinesi, ridefinendo le scelte di posizionamento di una comunità – che si contraddistingue per essere 
+particolarmente mobile – sia nel sistema economico e produttivo locale sia nel mercato del lavoro.  
+I segnali che arrivano dal mercato del lavoro suggeriscono la necessità di un presidio mirato delle dinamiche 
+in atto, non solo per quanto concerne i cambiamenti in alcuni ambiti del manifatturiero locale – per esempio 
+le trasformazioni dei tradizionali assetti delle catene di fornitura e sub-fornitura –, ma anche sulle modalità 
+di insediamento di questa comunità nel territorio regionale.

@@ -1,0 +1,101 @@
+name: Aggiornamento Documenti Istituzionali
+
+on:
+  # Permette di eseguire il workflow manualmente dalla UI di GitHub
+  workflow_dispatch: # Esegue il workflow in automatico ogni giorno alle 07:00 CET (06:00/07:00 UTC depending on DST)
+
+  # Impostato a 05:00 UTC per essere circa alle 07:00 CET (considerando ora legale)
+  schedule:
+    - cron: "0 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run-docs-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installazione dipendenze Python
+        run: pip install -r config/requirements.txt
+
+      - name: Raccolta documenti istituzionali (fail-safe)
+        # Veneto Lavoro (PDF bollettini) + Consiglio comunale di Padova
+        # (odg / delibere approvate / verbali). timeout-minutes è necessario:
+        # continue-on-error non protegge da un endpoint che non risponde mai.
+        run: python scripts/docs_scraper.py
+        timeout-minutes: 15
+        continue-on-error: true
+
+      - name: Arricchimento LLM documenti (opzionale)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY2: ${{ secrets.GEMINI_API_KEY2 }}
+          GEMINI_API_KEY3: ${{ secrets.GEMINI_API_KEY3 }}
+          GEMINI_API_KEY4: ${{ secrets.GEMINI_API_KEY4 }}
+          GEMINI_API_KEY5: ${{ secrets.GEMINI_API_KEY5 }}
+          GEMINI_API_KEY6: ${{ secrets.GEMINI_API_KEY6 }}
+          GEMINI_API_KEY7: ${{ secrets.GEMINI_API_KEY7 }}
+          GEMINI_API_KEY8: ${{ secrets.GEMINI_API_KEY8 }}
+          GEMINI_API_KEY9: ${{ secrets.GEMINI_API_KEY9 }}
+          GEMINI_API_KEY10: ${{ secrets.GEMINI_API_KEY10 }}
+        run: python scripts/enrich_docs.py --limit 10
+        timeout-minutes: 20
+        continue-on-error: true
+
+      - name: Setup Node.js per Dashboard-v2
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: "dashboard-v2/package-lock.json"
+
+      - name: Build Dashboard-v2
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/v2/
+        run: |
+          cd dashboard-v2
+          npm install
+          npm run build
+
+      - name: Sync Dashboard Build to v2 folder
+        run: |
+          echo "Cleaning up v2 directory..."
+          rm -rf v2
+          mkdir -p v2
+          echo "Copying build artifacts..."
+          cp -r dashboard-v2/dist/* v2/
+          echo "Creating .nojekyll flag..."
+          touch .nojekyll
+          echo "Verifying v2 contents:"
+          ls -R v2
+
+      - name: Commit e Push delle modifiche generate
+        run: |
+          CURRENT_DATE_DIR=$(date -u +%Y/%m/%d)
+
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage everything, explicitly including v2 and .nojekyll
+          git add .
+          git add v2/
+          git add .nojekyll
+
+          # Verifica se ci sono modifiche prima di committare
+          if ! git diff --staged --quiet; then
+            # FIX: Prima committiamo, POI facciamo pull --rebase, Infine push
+            # Questo evita l'errore "cannot pull with rebase: Your index contains uncommitted changes"
+            git commit -m "Aggiornamento documenti istituzionali ${CURRENT_DATE_DIR} [skip ci]"
+            git pull --rebase
+            git push
+          else
+            echo "Nessuna modifica da committare."
+          fi

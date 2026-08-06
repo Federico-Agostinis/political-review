@@ -1,0 +1,65 @@
+@import "tailwindcss";
+/* Force refresh for Tailwind v4 initialization */
+
+:root {
+  --font-inter: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* Premium Dashboard Palette */
+  --bg-main: #0f172a;
+  --bg-card: rgba(30, 41, 59, 0.7);
+  --bg-hover: rgba(51, 65, 85, 0.5);
+  --border: rgba(148, 163, 184, 0.1);
+  --accent: #3b82f6;
+  --accent-glow: rgba(59, 130, 246, 0.3);
+  --text-main: #f1f5f9;
+  --text-muted: #94a3b8;
+
+  /* Success/Warning/Danger */
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+}
+
+@theme {
+  --font-sans: var(--font-inter);
+
+  --color-bg-main: var(--bg-main);
+  --color-bg-card: var(--bg-card);
+  --color-bg-hover: var(--bg-hover);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-text-main: var(--text-main);
+  --color-text-muted: var(--text-muted);
+
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+}
+
+body {
+  @apply bg-bg-main text-text-main font-sans antialiased;
+  background-attachment: fixed;
+}
+
+/* Glassmorphism Utilities */
+.glass {
+  @apply bg-bg-card backdrop-blur-xl border border-border rounded-xl;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.glass-hover {
+  @apply transition-all duration-300 hover:bg-bg-hover hover:border-accent/30;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-bg-main;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-700 rounded-full hover:bg-slate-600;
+}

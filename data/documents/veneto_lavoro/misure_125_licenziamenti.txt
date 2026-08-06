@@ -1,0 +1,1267 @@
+Misure/125 – Licenziamenti e percorsi lavorativi in Veneto 
+a cura di Letizia Bertazzon e Ilaria Rocco 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+
+ 
+ 
+ 
+2/24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Misure/125 – Licenziamenti e percorsi lavorativi in Veneto 
+a cura di Letizia Bertazzon e Ilaria Rocco 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+ 
+ 
+ 
+3/24 
+ 
+ 
+L’analisi si propone di ricostruire le traiettorie occupazionali dei lavoratori licenziati in Veneto, considerando 
+la pluralità di motivazioni alla base della risoluzione dei rapporti di lavoro da parte dei datori. Dopo il picco 
+raggiunto durante la crisi economico-finanziaria del 2008, il fenomeno dei licenziamenti ha registrato un 
+progressivo ridimensionamento, sia in termini assoluti sia in rapporto al totale delle cessazioni, 
+parallelamente a una crescita delle nuove attivazioni contrattuali. La riduzione dei licenziamenti si 
+accompagna inoltre a un aumento delle dimissioni volontarie, segnalando un rafforzamento della mobilità 
+occupazionale trainata in misura crescente dalle scelte individuali dei lavoratori. 
+Come dimostrano il recente incremento dei licenziamenti disciplinari (in controtendenza rispetto al calo di 
+quelli economici), il loro utilizzo nei cambi di appalto e la particolare concentrazione in alcuni comparti 
+produttivi, i licenziamenti non possono essere ricondotti esclusivamente a esigenze organizzative o a 
+situazioni di crisi aziendale, ma in determinati contesti finiscono per configurarsi come veri e propri 
+strumenti di gestione del personale. La differenziazione nelle modalità di uscita si riflette anche sui percorsi 
+successivi. L’accesso alla NASpI sostiene fasi di transizione spesso più lunghe, con tassi di ricollocazione bassi 
+nel breve periodo ma in progressivo miglioramento nel medio termine. Il confronto con i lavoratori che hanno 
+rassegnato le dimissioni mette in luce un evidente divario iniziale, legato alla maggiore rapidità di 
+reinserimento di questi ultimi, ma mostra anche una tendenza alla convergenza dei livelli occupazionali su 
+orizzonti temporali più ampi.  
+ 
+  
+Abstract 
+
+ 
+ 
+ 
+4/24 
+ 
+Premessa 
+Tra le varie modalità di cessazione del rapporto di lavoro1, il licenziamento, ovvero la risoluzione unilaterale 
+del contratto da parte del datore di lavoro, è spesso – tuttavia non solo – riconducibile a situazioni di criticità 
+o difficoltà dell’azienda, con implicazioni economiche e sociali rilevanti e che destano preoccupazione. Pur 
+trattandosi di una quota minoritaria di tutte le conclusioni contrattuali registrate nel lavoro subordinato, 
+l’attenzione a questa tipologia di eventi è molto elevata, in primis da parte del legislatore e della 
+contrattazione collettiva, che prevedono l’adozione di norme stringenti volte a tutelare i lavoratori e, laddove 
+possibile, la continuità occupazionale; da parte degli analisti e dei commentatori perché le dinamiche 
+associate ai licenziamenti rappresentano un importante indicatore della fase congiunturale. 
+Per non incorrere in interpretazioni e giudizi sbagliati, occorre però non cedere alla tentazione di 
+generalizzare in modo eccessivo, senza distinguere adeguatamente situazioni tra loro tanto diversificate. 
+Infatti, a seconda della motivazione che ha determinato la risoluzione del contratto da parte del datore di 
+lavoro, ma anche in riferimento allo specifico contesto in cui si colloca il licenziamento, le fattispecie che si 
+concretizzano – pur sempre riguardanti la perdita involontaria del posto di lavoro2 – sono molto differenziate. 
+Nella prassi, le casistiche cui sono riconducibili le ragioni della risoluzione unilaterale del rapporto di lavoro 
+sono molteplici3, con ricadute non trascurabili anche nella definizione dei successivi percorsi occupazionali 
+dei lavoratori coinvolti. 
+In questa breve analisi, il cui obiettivo principale è quello di ricostruire le traiettorie lavorative dei licenziati 
+nel contesto regionale4, si è palesata innanzitutto la necessità di provare a differenziare le diverse ragioni alla 
+base del recesso da parte del datore di lavoro. Si tratta di un’operazione propedeutica a definire 
+correttamente tempi e modalità di ricollocazione dei lavoratori licenziati in Veneto. 
+L’analisi proposta, dopo una prima quantificazione e qualificazione dei licenziamenti avvenuti in regione nel 
+corso degli ultimi anni, con le informazioni ricavabili dalle Comunicazioni Obbligatorie, proverà dapprima a 
+restituire un quadro dettagliato sulla tipologia dei licenziamenti; successivamente, darà conto dei differenti 
+esiti occupazionali, così come restituiti dall’analisi longitudinale dei dati del Sistema informativo lavoro del 
+Veneto (Silv). Verranno presentati i risultati di alcune esplorazioni sui percorsi di rioccupazione conseguenti 
+le diverse tipologie di licenziamento, provando ad isolare e confrontare (laddove possibile) alcuni indicatori 
+dei livelli di rioccupazione nel tempo.   
+  
+                                                 
+1 La risoluzione del rapporto di lavoro può avvenire per dimissioni (un lavoratore dipendente recede unilateralmente dal contratto di lavoro), per 
+scadenza dei termini nel contratto a tempo determinato, per mutuo consenso tra le parti e per licenziamento del lavoratore (recesso del datore di 
+lavoro da contratto di lavoro subordinato).  
+2 Le ragioni alla base dell’estinzione del rapporto possono essere ricondotte alla perdita volontaria o involontaria del posto di lavoro; alla scadenza 
+“naturale” dei rapporti a termine; all’uscita dal mercato del lavoro per ragioni di carattere demografico (pensionamento, morte, ecc.). 
+3 Si tratta di una disciplina articolata, caratterizzata da un elevato livello di contenzioso. 
+4 Fermo restando il quadro normativo a tutela dei dipendenti in caso di licenziamento illegittimo, che non costituisce oggetto della presente analisi. 
+
+ 
+ 
+ 
+5/24 
+ 
+1.  I licenziamenti in Veneto 
+1.1  Consistenza e dinamiche recenti 
+Considerando l’insieme del lavoro dipendente in senso stretto5, il complessivo numero dei licenziamenti in 
+Veneto si è attestato, nel corso del 2024, attorno alle 36mila unità. La quota maggioritaria dei licenziamenti, 
+come logico attendersi, fa riferimento alle risoluzioni unilaterali da parte del datore di lavoro di contratti a 
+tempo indeterminato6. Oltre ad essi, vi sono i licenziamenti per giusta causa e per le diverse motivazioni 
+possibili nel caso delle altre tipologie contrattuali, più tutti quegli eventi che, configurandosi come una 
+perdita involontaria del rapporto di lavoro, in deroga alla disciplina generale, sono equiparabili ai 
+licenziamenti e garantiscono l’accesso alla NASpI. 7   
+Nell’insieme, a fronte di un incremento dei rapporti di lavoro nel corso dell’ultimo decennio, il volume 
+complessivo dei licenziamenti ha indubbiamente registrato una significativa riduzione rispetto ai livelli 
+particolarmente elevati raggiunti durante la crisi economico-finanziaria del 2008 (graf. 1). Il picco massimo si 
+è registrato nel 2012, anno nel quale i licenziamenti in regione sono stati poco meno di 60mila. Più di recente, 
+dopo il parziale divieto di licenziamento introdotto durante l’emergenza sanitaria da Covid-198, il numero dei 
+licenziamenti è leggermente risalito (senza tuttavia raggiungere nuovamente i livelli del periodo pre-
+pandemico), attestandosi su una media di circa 35mila l’anno nell’ultimo triennio. 
+Nel condizionare le dinamiche del flusso dei licenziamenti nel corso degli anni, oltre all’andamento 
+congiunturale, hanno avuto un ruolo importante anche alcune modifiche normative che ne hanno riformato 
+la disciplina, con effetti più o meno evidenti sulle scelte delle aziende. Tra tutti, i più importanti interventi del 
+legislatore sono riconducibili a due provvedimenti in particolare: 
+ la L. n. 92/2012 (cd. Legge Fornero) con la quale è stata modificata la disciplina dei licenziamenti 
+illegittimi. Sono stati ridotti i casi di reintegra e, soprattutto, è stato introdotto, come regola generale, 
+il versamento da parte dell’azienda di un indennizzo economico (o ticket di licenziamento) per i 
+lavoratori licenziati che hanno diritto alla NASpI. L’introduzione di questo obbligo contributivo, il cui 
+ammontare varia a seconda dell’anzianità aziendale del lavoratore, oltre a rendere più costoso il 
+recesso, spostando alcune responsabilità economiche sui datori di lavoro, potrebbe aver di fatto creato 
+dei presupposti sfavorevoli al licenziamento; 
+ la L. 183/2014 (cd. Jobs Act) in attuazione della quale è stato emanato il dlg n. 23/2015 che ha 
+introdotto, con l’obiettivo di semplificare le procedure in caso di cessazione del rapporto di lavoro, per 
+i nuovi assunti dal 7 marzo 2015, il contratto a tutele crescenti. Esso prevede, in caso di licenziamento 
+illegittimo, l’applicazione di un’indennità risarcitoria commisurata all’anzianità di servizio riducendo, 
+contestualmente, i casi di reintegra.9  
+ 
+ 
+                                                 
+5 Oltre al tempo indeterminato, anche l’apprendistato e il tempo determinato. 
+6 Il licenziamento, in via generale, mette fine a un contratto che, in origine, non ha una scadenza. 
+7 Nello specifico si fa riferimento ai recessi per fine formazione nel caso dell’apprendistato e ai recessi unilaterali per ragioni diverse dalla giusta causa 
+nel caso del tempo determinato. Va in ogni caso segnalato che, nel sistema delle Comunicazioni Obbligatorie, possono esserci eventi erroneamente 
+interpretati come licenziamenti pur trattandosi di recessi consensuali o altre modalità di cessazione del rapporto di lavoro. 
+8 Dal 17 marzo 2020 è stato disposto un divieto generalizzato di licenziamento per giustificato motivo oggettivo (art. 46 D.L. 18/2020 e successive 
+proroghe) rimasto in vigore fino al 30 giugno 2021. Dal 1° luglio al 30 ottobre 2021 il divieto è rimasto solo per i settori particolarmente in crisi (tessile, 
+moda, calzature, pelletteria). Durante questo periodo, rimanevano comunque possibili – oltre a quelli disciplinari – i licenziamenti nel caso di 
+cessazione definitiva dell’attività o fallimento dell’azienda, oppure definiti nell’ambito di accordi di incentivo all’esodo. 
+9 In realtà, nel corso degli anni e, da ultimo, Corte Cost. sent. 21/07/2025 n. 118, la giurisprudenza è intervenuta erodendo alcune fondamenta 
+operative del Jobs Act in tema di licenziamenti, garantendo maggiore spazio alla tutela individuale e conservando una effettiva personalizzazione, 
+nonché maggior adeguatezza e congruità del risarcimento del danno sofferto dal lavoratore illegittimamente licenziato. 
+
+ 
+ 
+ 
+6/24 
+ 
+Graf. 1 – Veneto. Cessazioni di rapporti di lavoro dipendente*. 
+ Totale licenziamenti per anno (2008-2024) 
+ 
+*Tempo indeterminato, apprendistato, tempo determinato 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Considerando i soli rapporti di lavoro subordinato a tempo indeterminato (graf. 2) è confermato, se non 
+addirittura più accentuato, il trend di progressiva contrazione del flusso dei licenziamenti. A diminuire, dopo 
+i livelli massimi raggiunti nel periodo 2009-2014, è stato sia il numero dei licenziamenti, sia l’incidenza sul 
+totale delle cessazioni contrattuali. Nell’ultimo triennio, il peso dei licenziamenti10 è risultato particolarmente 
+contenuto, attorno al 15%, più che dimezzato rispetto alla quota particolarmente elevata registrata nel 
+triennio 2012-2014. 
+ 
+Graf. 2 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti per anno (asse sin.),  
+incid. % licenziamenti e dimissioni su totale cessazioni dal tempo indeterminato(asse dx) (2008-2024) 
+  
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+                                                 
+10 Per una corretta valutazione del peso dei licenziamenti sul totale delle cessazioni occorre restringere il campo di osservazione ai soli rapporti di 
+lavoro a tempo indeterminato, in modo da rendere omogenea la base per il confronto. Per le altre tipologie contrattuali, il licenziamento rappresenta 
+infatti un’eccezione rispetto alle ordinarie modalità di cessazione del rapporto di lavoro ed è limitato a situazioni particolari. 
+010.00020.00030.00040.00050.00060.00070.00020082009201020112012201320142015201620172018201920202021202220232024
+0%
+15%
+30%
+45%
+60%
+75%
+90%
+0
+10.000
+20.000
+30.000
+40.000
+50.000
+60.000
+20082009201020112012201320142015201620172018201920202021202220232024
+Totale licenziamenti t. indet. (sin.)
+Inc. % licenziamenti su totale cessazioni t. indet. (dx)
+Inc. % dimissioni su totale cessazioni t. indet. (dx)
+Legge Fornero (L. 92/2012): 
+introduce il Ticket licenziamento, 
+ridimensiona reintegra art. 18 
+Jobs Act (d.lgs. 23/2015): tutele 
+crescenti, indennità predeterminate, 
+reintegra quasi abolita 
+Blocco dei licenziamenti economici, 
+introdotto con D.L. 18/2020 (“Cura 
+Italia”) e prorogato fino all’estate 2021 
+con vari decreti 
+
+ 
+ 
+ 
+7/24 
+ 
+Questa diminuzione ha un rilievo ancora maggiore se rapportata al contesto di progressivo aumento dei 
+rapporti di lavoro a tempo indeterminato che ha contraddistinto le dinamiche occupazionali a partire dal 
+2015.11 Essa si contrappone anche al significativo incremento delle dimissioni, risultato peraltro 
+particolarmente intenso nel periodo post-pandemico.  
+Nel 2024, ultimo anno di osservazione, i licenziamenti dal tempo indeterminato sono stati nel complesso 
+circa 28mila, il 15% del totale delle cessazioni. Il peso delle dimissioni (131mila), in leggera flessione rispetto 
+al biennio precedente, si è invece attestato al 71%. La quota rimanente fa riferimento all’insieme delle altre 
+modalità di recesso dal tempo indeterminato (risoluzioni consensuali, pensionamenti, ecc.) e anch’essa 
+risulta in contrazione nell’intero periodo considerato.   
+ 
+Risoluzioni consensuali dal tempo indeterminato con accesso alla NASpI 
+Tra le risoluzioni volontarie alternative al licenziamento, spesso riferite a situazioni nelle quali viene agevolato l’esodo dei 
+lavoratori più anziani con forme di accompagnamento verso la pensione, si differenziano i casi in cui, nell’ambito di processi di 
+riduzione dell’organico aziendale e in virtù di un preciso accordo aziendale, i lavoratori sono incentivati alla risoluzione 
+consensuale del rapporto di lavoro, conservando il diritto alla NASpI per un massimo di 24 mesi (oltre ad un eventuale incentivo 
+economico). Tale ipotesi può interessare più categorie di lavoratori e non è vincolata al possesso di un requisito pensionistico. In 
+questi casi, il lavoratore decide di risolvere consensualmente il rapporto di lavoro con un accordo bilaterale e per il tramite di una 
+specifica procedura che gli permette di accedere alla NASpI in ragione del fatto che il recesso è motivato da esigenze aziendali e 
+pertanto equiparato ad una perdita involontaria del lavoro. Tra le risoluzioni consensuali che permettono il riconoscimento della 
+NASpI, vi sono inoltre le risoluzioni dei rapporti di lavoro definite nell’ambito di una procedura di conciliazione presso l’Ispettorato 
+Territoriale del Lavoro.12 
+Tab. B1 – Veneto. Risoluzioni consensuali di rapporti di lavoro a tempo indeterminato per genere e principali settori (20019-2024) 
+ 2019 2020 2021 2022 2023 2024 
+       
+Totale risoluzioni consensuali t. indet. 3.757 3.791 6.333 3.929 3.983 3.604 
+Donne 1.380 1.594 2.783 1.566 1.498 1.325 
+Under 30 91 131 190 91 106 116 
+30-44  458 462 753 348 374 322 
+45-54 307 363 691 332 323 316 
+55 e più 524 638 1.149 795 695 571 
+- principali settori       
+Credito 149 149 215 400 196 191 
+Trasporti e magazz. 206 159 259 154 192 138 
+Commercio dett. 115 137 308 168 185 130 
+Servizi turistici 103 73 271 146 137 145 
+Uomini 2.377 2.197 3.550 2.363 2.485 2.279 
+Under 30 162 125 210 187 235 259 
+30-44  574 460 839 462 569 571 
+45-54 418 474 726 472 434 501 
+55 e più 1.223 1.138 1.775 1.242 1.247 948 
+- principali settori       
+Trasporti e magazz. 545 329 616 445 530 479 
+Credito 309 286 329 435 292 239 
+Servizi turistici 101 98 226 166 167 154 
+Costruzioni 136 119 165 95 126 195 
+       
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+Nell’insieme, sia tra gli uomini che tra le donne, questi eventi interessano comunque soprattutto i lavoratori più anziani. I comparti 
+maggiormente coinvolti sono quelli del credito e del trasporto magazzinaggio nei quali sono stati implementati, da parte di grandi 
+realtà nazionali (es. Poste, Istituti bancari ed assicurativi), importanti programmi di esodo dei lavoratori nell’ambito di processi di 
+ristrutturazione o riorganizzazione. 
+  
+                                                 
+11 Come ampiamente documentato nei report di monitoraggio delle dinamiche occupazionali in Veneto a cura dell’Osservatorio regionale Mercato 
+del Lavoro delle collane La Bussola (www. Venetolavoro.it/bussola) e Sestante (www.venetolavoro.it/sestante). 
+12 Le risoluzioni consensuali dei rapporti di lavoro definite nell’ambito di una procedura di conciliazione presso l’Ispettorato Territoriale del Lavoro 
+possono interessare anche i rapporti di lavoro a tempo determinato (qui non inclusi) quando la conclusione involontaria avviene prima del termine 
+previsto contrattualmente. Rientrano invece nelle casistiche considerate i recessi conseguenti il trasferimento del lavoratore ad altra sede distante 
+oltre 50 km o comunque raggiungibile in 80 minuti o più con i mezzi pubblici.   
+
+ 
+ 
+ 
+8/24 
+ 
+1.2  Le motivazioni del licenziamento 
+In ragione della motivazione che ha legittimato il recesso unilaterale da parte del datore di lavoro, i 
+licenziamenti possono essere raggruppati e differenzianti in tre grandi categorie: i licenziamenti disciplinari 
+(giusta causa e giustificato motivo soggettivo), i licenziamenti economici individuali (giustificato motivo 
+oggettivo e cessazione attività) e i licenziamenti collettivi.  
+Come evidenziato dalle dinamiche associate a queste tre macro-categorie (graf. 3), è chiaro che il complessivo 
+flusso dei licenziamenti riguarda prevalentemente i recessi per volontà del datore di lavoro riferiti a 
+procedure individuali (anche plurime) nel caso di oggettive difficoltà o necessità aziendali. Questi eventi, 
+risultati particolarmente numerosi nel 2012, hanno poi conosciuto – probabilmente anche per effetto dei 
+cambiamenti normativi introdotti con la L. n. 92/2012 – una graduale riduzione nel corso degli anni. Essi 
+continuano comunque a rappresentare la principale tipologia di licenziamento e nell’ultimo triennio, dopo la 
+sospensione del periodo pandemico, hanno interessato in media poco meno di 20mila rapporti di lavoro su 
+base annuale.   
+Le procedure di licenziamento collettivo, ammesse per le aziende con più di 15 dipendenti che superano 
+determinate soglie di esuberi, rappresentano una parte minoritaria del complessivo numero delle conclusioni 
+contrattuali dal tempo indeterminato. Anche in questo caso, il flusso annuo è in progressiva diminuzione 
+dopo il picco particolarmente elevato del 2014 (anno nel quale, nonostante i primi segnali di miglioramento 
+della condizione economica, persistono, anche dal punto di vista occupazionale, gli effetti delle coda lunga 
+della crisi del debito sovrano in Europa) quando i rapporti di lavoro conclusisi nell’ambito di una procedura 
+di crisi sono stati circa 16mila. Nel 2024 i licenziamenti collettivi in Veneto sono stati poco più di 1.400, appena 
+il 5% del totale. 
+Differentemente dai licenziamenti legati a ragioni economiche, i licenziamenti disciplinari nel loro insieme 
+hanno mostrato un peculiare incremento a partire dal 2015, contestualmente all’applicazione delle 
+modifiche normative introdotte dal Jobs act. Nel 2024 i licenziamenti disciplinari sono stati circa 7.400, 
+pressoché il doppio di quelli registrati nel 2015. 
+ 
+Graf. 3 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti per tipologia e anno (2008-2024) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+05.00010.00015.00020.00025.00030.00035.00040.00045.00020082009201020112012201320142015201620172018201920202021202220232024Lic. disciplinariLic. economici individualiLic. collettivi
+
+ 
+ 
+ 
+9/24 
+ 
+Il dettaglio informativo sulle dinamiche e le caratteristiche osservate per le tre categorie di licenziamento 
+permette di cogliere e dare evidenza alle specificità che contraddistinguono i diversi eventi. 
+ 
+Le dinamiche recenti dei licenziamenti in Veneto 
+Nei primi 7 mesi del 2025, pur rimanendo su livelli contenuti rispetto ai valori massimi registrati in passato, il complessivo flusso 
+dei licenziamenti dal tempo indeterminato mostra una sostanziale stabilità sui valori del medesimo periodo dell’anno precedente 
+e leggermente al di sopra di quelli registrati nel 2023. La dinamica complessivamente osservata è tuttavia l’esito di andamenti 
+differenziati a seconda della tipologia di risoluzione del rapporto di lavoro. Nel dettaglio, raffrontando l’andamento dei primi sette 
+mesi del 2025 con quelli registrati nel medesimo periodo del biennio precedente, a fronte di una stabilità sui livelli del 2024 dei 
+licenziamenti economici individuali, è evidente, da un lato, una significativa flessione di quelli disciplinari (soprattutto quelli per 
+giusta causa), dall’altro, il rafforzamento di quelli collettivi. 
+Sulla flessione registrata nel caso dei licenziamenti disciplinari possono avere influito le recenti innovazioni normative in materia 
+di “dimissioni per fatti concludenti”13 che, definendo la procedura per il ricorso a questa fattispecie, possono in parte aver inciso 
+sulle scelte dei datori di lavoro. Per quanto, invece, riguarda l’incremento dei licenziamenti collettivi – che comunque rimangono 
+ancora lontani dai volumi massimi raggiunti nel periodo della Grande Crisi – vi è una stretta connessione con le difficoltà crescenti 
+attraversate da alcuni settori del manifatturiero locale14 e la progressiva definizione delle procedure di crisi avviate nel 2024. 
+ 
+Fig. B1 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti per tipologia: valori cumulati per mese (2023-2025) 
+Lic. disciplinari 
+ 
+Lic. econ. individuali 
+ 
+Lic. collettivi 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 7 agosto 2025) 
+ 
+ 
+1.2.1 I licenziamenti disciplinari 
+I licenziamenti disciplinari fanno riferimento alla perdita involontaria del rapporto di lavoro imputabile 
+all’inadempimento degli obblighi contrattuali da parte del lavoratore: rientrano in questa categoria i 
+licenziamenti per giusta causa (immediati e senza preavviso) – laddove per “giusta causa” si intende un 
+qualunque fatto di oggettiva gravità (riferibile tanto alla sfera contrattuale quanto a quella extracontrattuale) 
+che non consente la prosecuzione, anche provvisoria, del rapporto di lavoro – e quelli per giustificato motivo 
+soggettivo (con preavviso) – con riferimento a tutti quei fatti o comportamenti del lavoratore (strettamente 
+attinenti al rapporto di lavoro) che, sebbene meno gravi rispetto all’ipotesi di “giusta causa”, sono tali da far 
+venir meno nel datore di lavoro la fiducia posta a fondamento del rapporto di lavoro e da fargli fondatamente 
+dubitare dell’attitudine del lavoratore medesimo all’espletamento delle sue mansioni.15  
+                                                 
+13 Con l’art. 9 della L. n. 203/2024 (Collegato Lavoro) è stata introdotta una specifica procedura che prevede in caso di assenza ingiustificata del 
+lavoratore protratta oltre al termine previsto dal Ccnl o, in mancanza di previsione contrattuale, superiore a 15 giorni, il rapporto di lavoro si intende 
+risolto per volontà del lavoratore senza obbligo di procedura telematica. 
+14 Cfr. i report mensili di monitoraggio delle dinamiche occupazionali in Veneto nella collana La Bussola, www.venetolavoro.it/bussola. 
+15 Ricordiamo che i licenziamenti per giusta causa, oltre al tempo indeterminato, possono riguardare anche altre tipologie contrattuali. 
+01.0002.0003.0004.0005.0006.0007.0008.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20232024202502.0004.0006.0008.00010.00012.00014.00016.00018.00020.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic20232024202502004006008001.0001.2001.4001.6001.8002.000Gen Feb Mar Apr Mag Giu Lug Ago Set Ott Nov Dic202320242025
+
+ 
+ 
+ 
+10/24 
+ 
+Come già anticipato, a differenza dei licenziamenti economici, quelli disciplinari hanno registrato un 
+significativo incremento a partire dal 2015. Il dettaglio informativo riferito alle dinamiche osservate nel 
+periodo dal 2012 al 2024 per le due differenti tipologie di licenziamento imputabili alla condotta del 
+lavoratore (graf. 4) permette di associare questo aumento soprattutto ai licenziamenti per giusta causa. 
+Quelli per giustificato motivo soggettivo, dal 2016 ad oggi, si sono invece attestati stabilmente attorno alla 
+soglia dei 2mila eventi ogni anno. 
+I licenziamenti per giusta causa sono rapidamente cresciuti dal 2015, raggiungendo il livello massimo nel 
+2021 (6.600) per poi tornare a scendere nel corso dell’ultimo triennio. Al veloce rafforzamento registrato a 
+partire dal 2015, in un contesto di generale contrazione dei licenziamenti, possono aver contribuito diversi 
+fattori che, agendo simultaneamente, risultano aver favorito il ricorso a questa tipologia di recesso.  
+ 
+Graf. 4 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti disciplinari per tipologia e anno (2012-2024)  
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+In primis, può aver sicuramente inciso la limitazione dei casi di reintegra nel licenziamento illegittimo 
+introdotta nell’ambito del d.lgs. n. 23/2015, unitamente all’applicazione del regime a tutele crescenti per i 
+nuovi assunti dal 7 marzo 2015.16 Un regime di reintegra residuale17 potrebbe infatti aver favorito i recessi 
+da parte del datore di lavoro rendendoli meno rischiosi e prevedibili. A questo deve aggiungersi il fatto che, 
+dopo la riforma del 2015, la giurisprudenza ha via via consolidato orientamenti volti a legittimare il 
+licenziamento anche per condotte di modesta gravità (spostando l’attenzione dal danno materiale alla 
+compromissione del rapporto fiduciario), ampliando di fatto la gamma dei comportamenti idonei a giustificare 
+un licenziamento disciplinare. 
+Da un altro punto di vista, occorre inoltre considerare, come suggerito in particolare dalle dinamiche 
+osservate durante l’emergenza sanitaria, la tendenza ad utilizzare il licenziamento disciplinare come “canale 
+flessibile”, in presenza di limiti ai licenziamenti economici che spingono a usare, in particolar modo la giusta 
+causa, come via più rapida e meno onerosa alla risoluzione del rapporto di lavoro.  
+                                                 
+16 Gli esiti di un recete studio dell’Osservatorio Statistico dei Consulenti del Lavoro, hanno evidenziato che, in un orizzonte temporale più lungo, i 
+nuovi contratti a tutele crescenti non hanno di per sé determinato un maggiore rischio di licenziamento. Al contrario, sembrerebbe che questi contratti 
+garantiscano una migliore tenuta nel tempo rispetto alla disciplina precedente. Cfr. Osservatorio Statistico dei Consulenti del Lavoro (2020), I contratti 
+a tempo indeterminato prima e dopo il Jobs Act, www.consulentidellavoro.it. 
+17 Ricordiamo, come già sottolineato in precedenza, che di recente la giurisprudenza è intervenuta erodendo alcune fondamenta operative del Jobs 
+Act in tema di licenziamenti, garantendo maggiore spazio alla tutela individuale e al giudizio personalizzato nei casi specifici. 
+01.0002.0003.0004.0005.0006.0007.0002012201320142015201620172018201920202021202220232024Lic. giusta causaLic. motivo sog.
+
+ 
+ 
+ 
+11/24 
+ 
+A questo proposito vale anche la pena ricordare l’esistenza (e il rafforzarsi18) di comportamenti elusivi volti a 
+simulare situazioni di disoccupazione involontaria, generando in modo fittizio (ad esempio con un’assenza 
+ingiustificata prolungata) le condizioni per il diritto alla NASpI. Questo si verifica nei casi in cui, dopo una 
+cessazione volontaria del rapporto di lavoro vi è il reimpiego strumentale del lavoratore. Di qui i recenti 
+provvedimenti normativi destinati proprio a contrastare queste strategie elusive, che sono intervenuti da un 
+lato, definendo la fattispecie delle “dimissioni per fatti concludenti” (art. 19, L. n. 203/2024); dall’altro 
+modificando le condizioni di accesso alla NASpI per i lavoratori disoccupati involontariamente, se nell’anno 
+precedente c’è stata una cessazione volontaria di un altro rapporto di lavoro a tempo indeterminato (art. 1, co. 
+171, L. n. 207/2024). 
+ 
+Tab. 1 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti disciplinari per caratteristiche dei lavoratori, principali settori e anno (2019-2024) 
+ 2019 2020 2021 2022 2023 2024 
+       
+Totale licenziamenti disciplinari 6.718 7.224 8.562 8.460 7.776 7.372 
+- per giusta causa 4.831 5.385 6.621 6.454 6.011 5.536 
+- per giustificato motivo sogg. 1.887 1.839 1.941 2.006 1.765 1.836 
+       
+Donne 2.147 2.462 3.070 2.987 2.444 2.063 
+Uomini 4.571 4.762 5.492 5.473 5.332 5.309 
+% uomini 68% 66% 64% 65% 69% 72% 
+       
+Italiani 3.851 4.749 5.841 5.522 4.580 4.313 
+Stranieri 2.867 2.475 2.721 2.938 3.196 3.059 
+% stranieri 43% 34% 32% 35% 41% 41% 
+       
+<30 anni 978 993 1.070 1.185 1.194 1.285 
+30-44 anni 2.968 2.886 3.351 3.159 2.935 2.688 
+45-54 1.789 1.999 2.343 2.314 2.113 1.930 
+55 e più 983 1.346 1.798 1.802 1.534 1.469 
+       
+Principali settori       
+ - servizi turistici 943 855 994 1.030 823 779 
+ - costruzioni 659 756 857 860 955 1.064 
+ - trasporti e magazz. 711 709 832 919 900 808 
+ - prod. metallo 477 571 663 610 585 584 
+ - commercio dett. 488 608 608 620 506 398 
+ - ind. tessile-abb. 605 395 429 456 463 419 
+       
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Nell’insieme, i lavoratori interessati dai licenziamenti disciplinari dal tempo indeterminato (tab. 1) risultano 
+essere in netta maggioranza uomini (72% nel 2024), con una quota di stranieri particolarmente importante 
+(41% nel 2024), nettamente superiore a quella registrata per le altre tipologie di licenziamento. I 
+licenziamenti disciplinari interessano diffusamente i lavoratori nelle diverse classi di età, anche se in misura 
+maggiore la fascia degli adulti tra i 30 e i 44 anni.  
+Con riferimento al periodo 2019-2024, i licenziamenti disciplinari hanno interessato soprattutto i servizi 
+turistici, il trasporto e magazzinaggio e il commercio al dettaglio nell’ambito del terziario; le costruzioni, le 
+attività della fabbricazione di prodotti in metallo e il tessile-abbigliamento nell’ambito industriale. In 
+quest’ultimo caso i licenziamenti disciplinari sono in buona parte riconducibili alle aziende cinesi che operano 
+nel settore.19 
+                                                 
+18 In Veneto, alcune verifiche sui dati Silv, hanno permesso di quantificare queste potenziali situazioni elusive in poche decine di casi, risultando 
+comunque in leggero aumento nel corso del decennio scorso. 
+19 Sulle modalità di gestione dei rapporti di lavoro da parte dei datori di lavoro cinesi si rimanda a Rasera M., Sacchetto D. (2018), “Cinèṡi tra le maglie 
+del lavoro”, FrancoAngeli, Milano; sulle dinamiche occupazionali recenti e sulla peculiare contrazione dei rapporti di lavoro in essere nel 2025 si 
+rimanda a Veneto Lavoro (2025); “Cinesi e mercato del lavoro: le recenti dinamiche delle aziende cinesi nel manifatturiero”, in Misure/124, 
+www.venetolavoro.it/misure. 
+
+ 
+ 
+ 
+12/24 
+ 
+1.2.2 I licenziamenti economici individuali  
+I licenziamenti economici individuali riguardano l’interruzione del rapporto di lavoro imputabile “all’attività 
+produttiva, all’organizzazione del lavoro e al regolare funzionamento di essa” (art. 3, L. n. 604/1966). Rientrano 
+in questa categoria i licenziamenti per giustificato motivo oggettivo, ovvero legati a ristrutturazioni, crisi 
+economiche o processi di riorganizzazione che comportano una riduzione del personale. Una fattispecie 
+particolare di giustificato motivo oggettivo riguarda la cessazione totale (o parziale) dell’impresa, identificata 
+separatamente tra i motivi di cessazione.  
+La procedura di licenziamento individuale può interessare singolarmente il lavoratore, oppure riferirsi 
+contemporaneamente a più lavoratori (licenziamenti economici plurimi individuali) senza che si applichi la 
+disciplina del licenziamento collettivo. Rientrano tra i licenziamenti economici individuali anche le cessazioni 
+unilaterali del rapporto di lavoro legate al cambio di appalto e che, come si vedrà meglio di seguito, 
+comportano la successiva (totale o parziale) riassunzione immediata del lavoratore presso l’azienda 
+subentrante. Naturalmente, le dinamiche registrate nel caso dei licenziamenti per giustificato motivo 
+oggettivo risultano in parte rilevante condizionate dalle risoluzioni contrattuali che comportano il passaggio 
+del lavoratore da un appaltatore all’altro, qualora intervenga la clausola di salvaguardia della forza di lavoro. 
+Tali situazioni, contraddistinte dall’immediata riassunzione dei lavoratori licenziati (spesso nell’ambito di 
+procedure plurime), rappresentano – secondo le informazioni disponibili per gli ultimi anni e che meglio 
+verranno analizzate in seguito – mediamente circa il 20% del complessivo flusso dei licenziamenti avvenuti 
+per ragioni economiche. L’incidenza è indubbiamente più elevata nei settori occupazionali maggiormente 
+interessati dalle procedure di appalto (servizi di pulizia, servizi alle imprese, trasporti e magazzinaggio, ecc.). 
+ 
+Licenziamenti e cambi appalto  
+Il cambio appalto (che differisce dal subentro nell’appalto, “in continuità” nell’esecuzione del servizio) identifica la situazione in 
+cui termina un contratto di appalto (per scadenza, revoca o recesso) e il committente affida lo stesso servizio a una nuova impresa 
+appaltatrice, che opera in totale autonomia imprenditoriale e in oggettiva discontinuità rispetto alla precedente.  
+In questi casi, dove non si applicano automaticamente le previsioni dall’art. 2112 c.c. che impongono il mantenimento dei diritti 
+dei lavoratori in caso di trasferimento d’azienda20, i lavoratori sono in genere tutelati da apposita clausola di protezione (detta 
+anche “clausola sociale”, “di salvaguardia sociale” o “di riassunzione” e “di assorbimento”) definita da norme di legge o contratti 
+collettivi. Questa forma di tutela, oggi presente in molti Ccnl di settore (ma che può essere definita anche dallo stesso contratto 
+di appalto) obbliga l’appaltatore subentrante a rilevare il personale occupato dall’appaltatore uscente, perseguendo in tal modo 
+la conservazione dei livelli occupazionali esistenti al termine dell’esecuzione del contratto stipulato tra il precedente appaltatore 
+e il soggetto appaltante (sia esso pubblico o privato). 
+Il “trasferimento del lavoratore” da un’azienda all’altra è, nella prassi, di norma subordinato alla risoluzione del rapporto di lavoro 
+con l’appaltatore uscente e alla stipula di un nuovo contratto (che manterrà o meno le condizioni contrattuali a seconda delle tutele 
+applicate) con l’appaltatore subentrante. Nel sistema delle Comunicazioni Obbligatorie, tale cessazione può avere la forma del 
+licenziamento o confluire tra gli “altri motivi” con la specifica indicazione dell’applicazione della clausola sociale nel cambio appalto. 
+L’eventuale prosecuzione del rapporto di lavoro sarà quindi subordinata ad una nuova assunzione da parte dell’azienda appaltatrice.  
+In assenza di clausola sociale, come pure laddove non vi sia l’interesse o la possibilità di far proseguire il rapporto di lavoro, con il 
+cambio appalto si concretizza anche l’interruzione dei contratti in essere tramite il licenziamento dei lavoratori (per giustificato 
+motivo oggettivo). Questo avviene anche nei casi in cui, pur in presenza di una clausola sociale, non tutti i lavoratori possono 
+essere riassorbiti dall’azienda subentrante (posizioni in esubero o senza le necessarie attitudini professionali). 
+ 
+                                                 
+20 L’art. 2112 del Codice Civile prevede che, in caso di trasferimento d’azienda o di un suo ramo, il rapporto di lavoro prosegue automaticamente con 
+il nuovo datore, mantenendo anzianità, diritti e condizioni. In queste situazioni, il licenziamento del lavoratore non è quindi necessario e, in costanza 
+di rapporto, vi è il passaggio del lavoratore da un’azienda all’altra. Quando, invece, si esce dall’ambito del vero trasferimento d’azienda (ad es. nel caso 
+della cessione senza continuità giuridica diretta o delle fusioni o acquisizioni parziali tramite nuova società, oppure per crisi, fallimento, ristrutturazione 
+profonda) è possibile procedere al licenziamento del lavoratore e, nel caso, procedere all’instaurazione di un rapporto di lavoro ex novo.   
+
+ 
+ 
+ 
+13/24 
+ 
+La fattispecie dei licenziamenti economici individuali per giustificato motivo oggettivo è quella che ha 
+maggiormente risentito del temporaneo blocco imposto durante la pandemia e che ne ha notevolmente 
+ridimensionato il volume complessivo (graf. 5). Nel corso dell’ultimo triennio, dopo un parziale recupero, i 
+licenziamenti per giustificato motivo oggettivo sono stati mediamente circa 16mila l’anno. Di questi, quelli 
+legati alla cessazione dell’attività aziendale, in progressiva diminuzione, sono circa 1.500. 
+In questo caso, differentemente dai licenziamenti disciplinari, le risoluzioni contrattuali hanno riguardato in 
+modo più omogeneo uomini e donne21, mentre hanno interessato in misura più contenuta, anche se 
+comunque rilevante, i lavoratori stranieri (tab. 2). Per quanto riguarda le classi di età, è evidente – specie 
+negli ultimi anni – una percentuale elevata di licenziamenti individuali anche tra i lavoratori più anziani 
+(compatibile con fuoriuscite legate a forme di accompagnamento o transizioni verso la pensione). 
+ 
+Graf. 5 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti economici individuali per tipologia e anno (2012-2024)  
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Tab. 2 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti economici individuali per caratteristiche dei lavoratori, principali settori e anno (2019-2024) 
+ 2019 2020 2021 2022 2023 2024 
+       
+Totale licenziamenti econ. individ. 26.272 14.008 12.907 19.199 17.116 19.304 
+- lic.individ./motivo ogg. 22.637 10.963 9.529 16.459 14.583 17.128 
+- cess. attività 3.635 3.045 3.378 2.740 2.533 2.176 
+       
+Donne 11.599 7.084 6.185 9.969 8.228 9.325 
+Uomini 14.673 6.924 6.722 9.230 8.888 9.979 
+% uomini 56% 49% 52% 48% 52% 52% 
+       
+Italiani 18.372 10.260 8.826 14.121 12.417 14.069 Stranieri 7.900 3.748 4.081 5.078 4.699 5.235 % stranieri 30% 27% 32% 26% 27% 27% 
+       
+<30 anni 2.999 1.465 1.224 1.852 1.916 2.048 
+30-44 anni 10.204 4.961 4.479 6.237 5.535 6.136 
+45-54 7.901 4.430 4.097 6.045 5.147 5.701 
+55 e più 5.168 3.152 3.107 5.065 4.518 5.419 
+       
+Principali settori       
+ - servizi turistici 2.794 2.030 1.353 2.588 1.856 2.029 
+ - costruzioni 4.216 1.482 1.336 1.664 1.859 2.046 
+ - trasporti e magazz. 2.027 1.133 1.254 1.613 1.441 2.061 
+ - ind. tessile-abb. 2.234 1.031 1.618 1.468 1.204 1.414 
+ - servizi di pulizia 1.902 1.248 988 1.249 1.021 1.705 
+ - commercio dett. 1.722 884 698 1.361 1.143 1.126 
+ - comm. ingrosso 1.411 797 653 1.227 990 1.109 
+       
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+                                                 
+21 Anche se bisogna tener presente che, coerentemente con le caratteristiche occupazionali degli ambiti di maggiore inserimento lavorativo, il peso 
+del tempo indeterminato è maggior tra gli uomini, mentre tra le donne hanno un’incidenza maggiore i rapporti di lavoro a termine. 
+05.00010.00015.00020.00025.00030.00035.0002012201320142015201620172018201920202021202220232024Lic. Individ./motivo ogg.Cess. attività
+
+ 
+ 
+ 
+14/24 
+ 
+Dal punto di vista settoriale, anche per via delle dinamiche associate ai cambi appalto, i licenziamenti 
+economici individuali risultano essere particolarmente numerosi nei servizi turistici, nelle costruzioni22, 
+nell’ambito dei trasporti e magazzinaggio e nei servizi di pulizia. Anche in questo caso, nell’industria del 
+tessile-abbigliamento buona parte dei licenziamenti sono riconducibili ad imprese a titolarità cinese, cui si 
+associano peculiari ricorrenze nelle modalità di gestione dei rapporti di lavoro. 
+ 
+1.2.3 I licenziamenti collettivi  
+Per le aziende con più di 15 dipendenti e nel caso di esuberi che superano un determinato numero di 
+lavoratori (almeno 5 nell’arco di 120 giorni) nell’ambito delle procedure di crisi, la normativa prevede la 
+possibilità di accedere allo strumento del licenziamento collettivo. Secondo la disciplina prevista dalla L. n. 
+223/1991, i licenziamenti devono avvenire per motivi economici/organizzativi, ovvero per riduzione, 
+trasformazione o cessazione dell’attività. 
+Essi hanno raggiunto numerosità significative soprattutto nella prima metà del decennio scorso, con un picco 
+importante nel 2014 che ha interessato in particolar modo l’industria (graf. 6). Dopo il livello minimo del 
+2021, il numero dei licenziamenti è tornato leggermente a cresce nel corso dell’ultimo triennio interessando 
+sia il comparto industriale che il terziario (commercio al dettaglio e all’ingrosso). 
+ 
+Graf. 6 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti collettivi per settore e anno (2012-2024) 
+ 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Poiché il coinvolgimento del settore industriale è maggioritario, la distribuzione dei licenziamenti rispetto al 
+genere risulta leggermente sbilanciata verso la componente maschile (tab. 3). Il peso degli stranieri è 
+piuttosto limitato, mentre per quanto riguarda l’età dei lavoratori coinvolti, si registra un evidente maggiore 
+incidenza delle classi più elevate, anche in questo caso giustificabile con una probabile maggior presenza di 
+esuberi tra i lavoratori senior che possono accedere a forme di accompagnamento alla pensione. 
+Il dettaglio settoriale mostra il rilievo assunto dai licenziamenti nei diversi comparti del metalmeccanico e, 
+anche in questo caso, nel tessile-abbigliamento (ma non con riferimento alle imprese a titolarità cinese). 
+ 
+                                                 
+22 Nell’ambito dell’edilizia il datore di lavoro può recedere da un rapporto a tempo indeterminato per “fine lavori” se prova l’impossibilità di ricollocare 
+il dipendente. Alcuni CCNL Edilizia disciplinano, infatti, l’ipotesi di “licenziamento per fine lavori” come forma di recesso per giustificato motivo 
+oggettivo, a condizione che non vi siano altre opere o cantieri disponibili in cui occupare il lavoratore. 
+02.0004.0006.0008.00010.00012.0002012201320142015201620172018201920202021202220232024Industria s.s.CostruzioniServizi
+
+ 
+ 
+ 
+15/24 
+ 
+Tab. 3 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti collettivi per tipologia e anno (2019-2024) 
+ 2019 2020 2021 2022 2023 2024 
+       
+Totale licenziamenti collettivi 2.014 1.233 944 1.338 1.713 1.431 
+       
+Donne 919 491 386 684 694 602 
+Uomini 1.095 742 558 654 1.019 829 
+% uomini 54% 60% 59% 49% 59% 58% 
+       
+Italiani 1.885 1.089 855 1.225 1.472 1.267 
+Stranieri 129 144 89 113 241 164 
+% stranieri 6% 12% 9% 8% 14% 11% 
+       
+<30 anni 64 38 31 47 86 75 
+30-44 anni 563 303 223 318 344 279 
+45-54 640 435 363 460 557 381 
+55 e più 747 457 327 513 726 696 
+       
+Principali settori       
+ - commercio dett. 270 194 171 217 128 39 
+ - prod. metallo 201 155 34 122 204 182 
+ - ind. tessile-abb. 162 70 43 84 165 211 
+ - apparecchi meccanici 133 123 65 80 99 159 
+ - macchine elettriche 135 100 13 45 149 99 
+ - comm. ingrosso 67 89 5 133 116 93 
+       
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+ 
+2.  I percorsi dei lavoratori dei licenziati  
+Il licenziamento si configura come una perdita involontaria dell’occupazione e può rappresentare per il 
+lavoratore un’interruzione del percorso lavorativo che talvolta ha conseguenze rilevanti, con ricadute sulla 
+sicurezza economica e personale. Per questo motivo, i lavoratori licenziati hanno diritto alla NASpI, 
+l’indennità di disoccupazione, che garantisce un reddito sostitutivo temporaneo 23 in caso di disoccupazione 
+involontaria, accompagnando le persone nella ricerca di nuovo lavoro. L’osservazione dei percorsi successivi 
+al licenziamento permette di avere alcune importanti indicazioni sulle tempistiche di ricollocazione, ovvero 
+sui tempi di permanenza nella condizione di disoccupazione involontaria.  
+Poiché, come documentato in precedenza, le motivazioni che hanno portato alla risoluzione del rapporto di 
+lavoro sono molto diverse tra loro, anche l’esplorazione dei percorsi lavorativi deve necessariamente tener 
+conto, almeno per macro-raggruppamenti, delle differenze associate alle diverse tipologie di licenziamento.  
+L’analisi proposta, riferita alle informazioni disponibili al 30 giugno 2025, focalizza l’attenzione sulla distanza 
+tra il licenziamento e il primo rapporto di lavoro attivato nel periodo successivo. Il perimetro di esplorazione 
+è limitato al solo contesto regionale, considerando i rapporti di lavoro attivati in Veneto nell’ambito del lavoro 
+dipendente e nel parasubordinato.24 Il risultato dell’analisi è, pertanto, la definizione di tassi di ricollocazione 
+specifici, sia per le diverse tipologie di licenziamento che per le categorie dei lavoratori interessati, in grado 
+di isolare le situazioni contraddistinte da una ricollocazione pressoché immediata o avvenuta nel breve 
+periodo, da quelle riferite a distanze maggiori. 
+                                                 
+23 La NASpI corrisponde al 75% della retribuzione media mensile fino a una soglia (circa 1.425 € nel 2024), più il 25% dell’eventuale eccedenza, con un 
+tetto massimo di circa 1.550 € lordi al mese. Dura al massimo 24 mesi e dal 4° mese l’importo si riduce del 3% ogni mese. 
+24 Sono esclusi dall’osservazione sia eventuali nuovi rapporti di lavoro attivati al di fuori della regione (solo parzialmente registrati in Silv), sia le 
+esperienze di lavoro autonomo. 
+
+ 
+ 
+ 
+16/24 
+ 
+Ovviamente, considerate le limitazioni connesse al perimetro di osservazione, i tassi di ricollocazione vanno 
+considerati – stimando per difetto le transizioni ad una nuova posizione lavorativa25 – alla stregua di indicatori 
+minimi dei livelli di ricollocazione dei lavoratori licenziati.  
+Per “rimuovere” quanto possibile le storture che potrebbero derivare dalle strategie di accompagnamento 
+alla pensione per i lavoratori più anziani (non definite come risoluzioni consensuali nell’ambito di accordi 
+aziendali), le analisi – riferite ai soli licenziamenti dal tempo indeterminato26 – fanno riferimento ai lavoratori 
+licenziati con meno di 60 anni.27 
+Nell’esplorazione proposta, focalizzata sui licenziamenti avvenuti nel corso degli ultimi anni, vengono 
+considerati i percorsi successivi ai licenziamenti avvenuti nel corso del 2019 (anno pre-pandemico) e nel 
+triennio 2022-2024. Il periodo di osservazione è di almeno un anno dalla cessazione involontaria del rapporto 
+di lavoro (6 mesi nel caso del 2024); il confronto tra le annualità deve tener conto di lassi temporali omogenei.  
+ 
+2.1  Tempi di ricollocazione per tipologia di licenziamento 
+Così osservati, gli esiti occupazionali riferiti ai licenziamenti avvenuti nel corso degli ultimi anni, mostrano 
+dinamiche sostanzialmente stabili nel tempo, con tassi di ricollocazione per i diversi intervalli di tempo 
+considerati che si mantengono molto vicini. Osservando il complesso dei licenziamenti (graf.7), possono 
+essere fatte alcune considerazioni trasversali: 
+ mediamente, poco più del 40% dei lavoratori under 60 licenziati in regione trova una nuova 
+collocazione lavorativa28 entro 6 mesi dal licenziamento, con un leggero miglioramento nel corso del 
+2024; questa quota arriva a superare (pur di poco) il 50% se si allunga il periodo di osservazione a un 
+anno dalla risoluzione del rapporto di lavoro; 
+ per circa il 15% dei lavoratori licenziati la ricollocazione è pressoché immediata e riferibile in buona 
+parte alle conclusioni contrattuali avvenute nell’ambito dei cambi appalto; 
+ l’allungamento del periodo di osservazione oltre l’anno, spinge verso l’alto i tassi di ricollocazione nel 
+contesto regionale portandoli attorno al 70%. Questo significa che, anche per periodi che eccedono il 
+limite massimo di beneficio della NASpI (pari a 24 mesi), una quota stabile attorno al 30% dei lavoratori 
+licenzianti non risulta ricollocarsi, nell’ambito del lavoro dipendente o parasubordinato, in regione. 
+Queste situazioni, oltre ad essere riferite a possibili ricollocazioni al di fuori del contesto regionale o nel lavoro 
+autonomo, possono riguardare soggetti che fuoriescono dal mercato del lavoro, anche per raggiunti limiti di 
+età nella fascia under 60 anni29. Le evidenze sulle caratteristiche di questi lavoratori e dei settori 
+occupazionali di riferimento, suggeriscono anche l’elevata presenza, in questo insieme, di lavoratori stranieri 
+(particolarmente mobili nel territorio) e di lavoratori impiegati nell’ambito delle costruzioni. 
+ 
+ 
+                                                 
+25 Includendo lavoro autonomo e rioccupazione al di fuori della regione i tassi di ricollocazione non possono che essere superiori a quelli qui calcolati, 
+tuttavia utili per definire i percorsi dei lavoratori licenziati e l’individuazione delle principali differenze. 
+26 Come già osservato, in alcune condizioni, il licenziamento può riguardare anche altre tipologie contrattuali. 
+27 Scelta adottata anche nell’analisi proposta da Inps nell’ultimo rapporto annuale. In realtà, come evidenziato nella distribuzione dei licenziamenti in 
+base ai singoli anni di età, alcune concentrazioni di eventi anche tra i 58-59enni fa presupporre che eventuali percorsi di accompagnamento alla 
+pensione interessino, ad oggi, lavoratori anche al di sotto dei 60 anni (comunque in procinto di maturare i requisiti per l’accesso alla pensione 
+anticipata). 
+28 Senza entrare nel merito delle specifiche tipologie contrattuali, vale la pena segnalare che la quasi totalità delle nuove assunzioni avviene a 
+nell’ambito del lavoro dipendente in senso stretto (soprattutto tempo indeterminato e determinato). 
+29 Alcuni addensamenti dei licenziamenti nella fascia d’età tra i 55 e i 59 anni fanno presuppore, come già osservato, la presenza di soggetti 
+accompagnati alla pensione anche al di sotto dei 60 anni. 
+
+ 
+ 
+ 
+17/24 
+ 
+Graf. 7 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Totale licenziamenti (under 60 anni) per classe di distanza dalla riassunzione e anno (2019, 2022-2024) 
+ 
+* ricollocati entro il 30 giugno 2025. Il periodo di osservazione varia in base alla data del licenziamento. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Per quanto riguarda invece le specifiche tipologie di licenziamento (fig. 1), i principali indicatori permettono 
+di osservare: 
+ la particolare presenza di ricollocazioni pressoché immediate – riconducibili ai cambi appalto, come 
+suggeriscono le specifiche concentrazioni settoriali – a seguito di licenziamenti economici individuali, 
+che nel caso specifico si attesta poco al di sotto del 20%, spostando verso l’alto i tassi di ricollocazione 
+complessivi; 
+ in questi casi (i più numerosi e contraddistinti dalle performance “migliori”), il tasso di rioccupazione a 
+6 mesi è di circa il 50%, sfiora il 60% ad un anno e supera il 70% a distanze maggiori; 
+ mediamente, i tassi di ricollocazione osservati per i licenziamenti disciplinari (dove, lo ricordiamo, 
+maggiore è la quota di stranieri) si mantengono, invece, su livelli più bassi rispetto alle altre categorie. 
+Solo per il 10% dei recessi, la ricollocazione avviene a un mese dalla cessazione del rapporto di lavoro, 
+entro i 6 mesi la quota è del 30% e ad un anno non raggiunge il 50%. I livelli di incremento maggiori 
+osservati in corrispondenza delle rioccupazioni a più lunga distanza suggerisce sia periodi medi di 
+permanenza nella disoccupazione più elevati, sia la possibile presenza di esperienze transitorie al di 
+fuori del contesto regionale; 
+ nel caso di licenziamenti collettivi si osservano le maggiori (pur limitate) variazioni tra gli anni osservati, 
+con un evidente progressivo miglioramento dei tempi di ricollocazione. Anche in questo caso, i tassi di 
+rioccupazione nel breve periodo sono molto contenuti, tuttavia essi si innalzano velocemente in 
+corrispondenza dei periodi superiori ai 6 mesi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%10%20%30%40%50%60%70%80%entro 1 giorno entro 7 giorni entro 1 mese entro 6 mesi entro 1 anno oltre 1 anno*2019202220232024
+
+ 
+ 
+ 
+18/24 
+ 
+Fig 1 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti (under 60 anni) per tipologia, classe di distanza dalla riassunzione e anno (2019, 2022-2024) 
+Licenziamenti disciplinari 
+ 
+Licenziamenti economici individuali 
+ 
+Licenziamenti collettivi 
+ 
+ 
+* ricollocati entro il 30 giugno 2025. Il periodo di osservazione varia in base alla data del licenziamento. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+0%10%20%30%40%50%60%70%80%entro 1 giorno entro 7 giorni entro 1 mese entro 6 mesi entro 1 anno oltre 1 anno*20192022202320240%10%20%30%40%50%60%70%80%entro 1 giorno entro 7 giorni entro 1 mese entro 6 mesi entro 1 anno oltre 1 anno*20192022202320240%10%20%30%40%50%60%70%80%entro 1 giorno entro 7 giorni entro 1 mese entro 6 mesi entro 1 anno oltre 1 anno*2019202220232024
+
+ 
+ 
+ 
+19/24 
+ 
+Volendo provare sintetizzare le evidenze emerse, sulla base degli esiti occupazionali registrati per i licenziati 
+nel 2019 e nel 2023 (anni per i quali il dettaglio per le principali caratteristiche dei lavoratori interessati e il 
+riferimento ai settori di provenienza è disponibile nelle tabelle in appendice), è possibile ipotizzare: 
+ un tasso medio di ricollocazione, senza distinzione tra le varie situazioni, poco al di sopra del 20% per 
+le ricollocazioni entro il primo mese, oltre il 40% entro i sei mesi e superiore al 50% entro l’anno. 
+Provando a depurare questi dati dalle situazioni che possono essere ricondotte ai cambi appalto, i tassi 
+di ricollocazione diventano molto più omogenei tra le diverse tipologie di licenziamento. I tassi medi 
+di ricollocazione si attestano quindi poco al di sopra del 10% entro il primo mese e attorno al 35% entro 
+i 6 mesi. La percentuale di ricollocazione ad un anno è passata dal 44% dei licenziati del 2019 al 48% di 
+quelli del 2023; 
+ i livelli di reimpiego si confermano leggermente più bassi per i licenziamenti disciplinari, con un tasso 
+di ricollocazione ad un anno, pur in crescita, sempre al di sotto del 50%. In questo caso i valori più 
+contenuti si registrano per le donne e i lavoratori di cittadinanza italiana, mentre per quanto riguarda 
+l’età – come peraltro succede per le altre tipologie di licenziamento – i tassi di ricollocazione 
+diminuiscono al crescere dell’anzianità del lavoratore. Vale inoltre la pena evidenziare che, per il 2023, 
+il risultato osservato per i licenziamenti disciplinari non risulta molto distante da quello registrato per 
+i licenziamenti economici individuali considerati al netto delle rioccupazioni immediate. Per quanto 
+riguarda i licenziamenti collettivi, nel riferimento ad un confronto più omogeneo di situazioni, i livelli 
+di rioccupazione nel caso delle cessazioni avvenute nel 2023, risultano sempre al di sopra di quelli 
+registrati per le altre tipologie; 
+ il raffronto con le dinamiche registrate per le dimissioni, evidenzia come logico attendersi, un 
+significativo divario tra i tassi di ricollocazione soprattutto nelle classi di distanza più brevi. Mediamente 
+per i lavoratori dimessi, per i quali la cessazione del rapporto di lavoro è una scelta volontaria (e non vi 
+è l’accesso alla NASpI), si osservano tassi di ricollocazione all’interno del contesto regionale 
+particolarmente elevati30. Entro un anno dalla cessazione del rapporto di lavoro, per circa il 70% dei 
+dimessi (attorno al 50% nel caso dei licenziati) si registra una nuova assunzione in Veneto. L’incidenza è 
+elevata nel breve termine (sempre oltre il 50% a distanza di un mese), confermando in molti casi il 
+passaggio più o meno immediato da un’occupazione all’altra. Il divario con gli esiti registrati in caso di 
+licenziamento si riduce in particolar modo tra i ricollocati entro un anno e nei periodi successivi. 
+ 
+Tab. 4 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti e dimissioni (under 60 anni) per classe di distanza dalla riassunzione e anno (2019 e 2023) 
+ 
+2019  2023 
+Ricollocati 
+entro 1 
+mese dalla 
+cessazione 
+Ricollocati 
+entro 6 
+mesi dalla 
+cessazione 
+Ricollocati 
+entro 1 
+anno dalla 
+cessazione 
+Totale  Ricollocati 
+entro 1 
+mese dalla 
+cessazione 
+Ricollocati 
+entro 6 
+mesi dalla 
+cessazione 
+Ricollocati 
+entro 1 
+anno dalla 
+cessazione 
+Totale  
+         
+Totale licenziamenti 22% 42% 51% 32.261 21% 43% 53% 23.654 
+  (ipotesi al netto dei cambi appalto*) 12% 34% 44% 28.415 11% 35% 48% 21.050 
+- lic. disciplinari 11% 30% 40% 6.325 11% 34% 47% 7.097 
+- lic. econ. individuali 26% 45% 54% 24.215 26% 47% 57% 15.121 
+  (ipotesi al netto dei cambi appalto*) 12% 36% 46% 20.580 12% 36% 48% 12.679 
+- lic. collettivi 13% 35% 43% 1.721 18% 41% 50% 1.436 
+Dimissioni 53% 64% 68% 93.147 56% 68% 72% 123.763 
+         
+         
+* esclusi i licenziamenti con ricollocazione entro 3 giorni dalla cessazione. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+                                                 
+30 L’analisi condotta da Inps e presentata XXVI Rapporto Annuale sui tassi mensili di ricollocazione a tre mesi dei lavoratori licenziati e dimessi dal 2019 
+conferma come il tasso di ricollocazione dei licenziati per ragioni economiche che accedono alla Naspi (esclusi agricoli e domestici) è sempre inferiore 
+a quello dei dimessi con un divario risultato minimo in alcuni mesi del 2020 e massimo tra la fine del 2021 e l’inizio del 2022 (36-37 punti). Cfr. Inps 
+(2025), XXIV Rapporto Annuale, luglio 2025, www.inps.it 
+
+ 
+ 
+ 
+20/24 
+ 
+La ricollocazione dei lavoratori dimessi dal tempo indeterminato 
+Considerando le cessazioni dal tempo indeterminato, vale la pena richiamare – a confronto con gli esiti occupazionali riferiti ai 
+lavoratori licenziati – gli analoghi tassi di ricollocazione riferiti ai percorsi dei lavoratori che si sono dimessi, scegliendo quindi 
+volontariamente di chiudere il rapporto di lavoro.31  
+Utilizzando i medesimi criteri di analisi adottati per i licenziamenti, anche in questo caso si registra una certa uniformità delle 
+curve di ricollocazione nel tempo (graf. B1). Rispetto alle dimissioni del 2019, quelle riferite al triennio 2023-2024 si attestano su 
+valori leggermente superiori nelle classi di distanza maggiori. 
+Nell’insieme, le evidenze emerse permettono di affermare che in circa il 40% dei casi, dopo la dimissione, si registra un nuovo 
+rapporto di lavoro entro 7 giorni. Ad un mese, il tasso di ricollocazione sale ad oltre il 50% (tra il 56% e il 57% nel triennio 2021-
+2023), mentre se si estende il periodo di osservazione a 6 mesi, la quota dei ricollocati in regione risulta di poco inferiore al 70%. 
+ 
+Graf. B1 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Dimissioni (under 60 anni) per classe di distanza dalla riassunzione e anno (2019, 2022-2024) 
+ 
+* ricollocati entro il 30 giugno 2025. Il periodo di osservazione varia in base alla data del licenziamento. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Allungando ulteriormente i periodi di osservazione, il livello di ricollocazione tende a stabilizzarsi attorno all’80%. Anche in questo 
+caso, pur in misura minore rispetto ai licenziamenti, rimane una quota di lavoratori dimessi per la quale dopo la cessazione 
+volontaria del rapporto di lavoro non si registra una nuova assunzione in regione. Le caratteristiche di questo insieme non 
+differiscono di molto da quelle osservate per i licenziamenti: si tratta di lavoratori rioccupatisi nel lavoro autonomo o in un altro 
+contesto territoriale, oppure usciti dal mercato del lavoro (anche in questo caso possono esserci transizioni alla pensione).  
+ 
+2.2  Permanenza e transizioni settoriali  
+In conclusione, pur senza pretese di esaustività, è utile provare a restituire qualche evidenza in merito ai 
+settori di ricollocazione dei lavoratori licenziati. Considerando i recessi dal tempo indeterminato avvenuti nel 
+2019 e nel 2023, verranno calcolati i tassi di permanenza all’interno del medesimo settore e, in modo 
+complementare, quelli riferiti alle transizioni verso altri ambiti occupazionali. L’osservazione terrà conto dei 
+percorsi di ricollocazione a 6 mesi e ad un anno dalla cessazione del rapporto di lavoro. 
+Anche in questo caso, verranno presi in considerazione i licenziamenti che interessano lavoratori con meno 
+di 60 anni di età e, per evitare una possibile sovrarappresentazione delle ricollocazioni all’interno del 
+medesimo settore dovuta ai cambi appalto, non verranno conteggiate le ricollocazioni immediate (entro 3 
+giorni dalla cessazione).  
+                                                 
+31 Sul tema si vedano anche i monitoraggi periodici inseriti ne il Sestante 1/2023 in www.venetolavoro.it/sestante 
+0%10%20%30%40%50%60%70%80%entro 1 giorno entro 7 giorni entro 1 mese entro 6 mesi entro 1 anno oltre 1 anno*2019202220232024
+
+ 
+ 
+ 
+21/24 
+ 
+In considerazione dei principali macro-settori in cui è avvenuto il licenziamento (tabb. 5 e 6), l’analisi condotta 
+evidenzia la trasversale prevalenza delle situazioni in cui l’ambito di reimpiego rimane lo stesso del rapporto 
+di lavoro concluso. I tassi di permanenza nello stesso macro-settore tendono tuttavia a ridursi leggermente 
+con l’allungamento del periodo di osservazione. Essi si confermano particolarmente elevati nell’ambito dei 
+servizi, dove raggiungono l’85%-86%. Nel comparto industriale, dove la permanenza intra-settoriale è 
+leggermente più contenuta, si registra (escludendo l’ambito agricolo dove le numerosità di riferimento sono 
+piuttosto contenute) una maggiore numerosità delle transizioni verso altri ambiti occupazionali.32 
+ 
+Tab. 5 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato.  
+Licenziamenti (under 60 anni) per settore di licenziamento e tassi di ricollocazione a 6 mesi*, per anno (2019 e 2023) 
+ 
+2019  2023 
+% ricollocati 
+nello stesso 
+settore 
+% ricollocati in 
+altro settore 
+Totale 
+licenziamenti 
+% ricollocati 
+nello stesso 
+settore 
+% ricollocati in 
+altro settore 
+Totale 
+licenziamenti 
+       
+Macro-settore licenziamento       
+Agricoltura 56% 44% 131 42% 58% 95 
+Industria s.s. 70% 30% 3.433 68% 32% 2.848 
+Costruzioni 77% 23% 1.437 65% 35% 864 
+Servizi 86% 14% 4.654 86% 14% 3.657 
+       
+Principali comparti       
+Servizi turistici 69% 31% 1.260 70% 30% 1.059 
+Ind. tessile-abb. 80% 20% 1.115 78% 22% 712 
+Commercio dett. 41% 59% 639 39% 61% 535 
+Trasporti e magazz. 51% 49% 618 53% 47% 508 
+Comm. ingrosso 26% 74% 556 19% 81% 359 
+Prod.metallo 31% 69% 495 15% 85% 452 
+Apparecchi meccanici 27% 73% 288 25% 75% 282 
+Supporto alle imprese 30% 70% 250 16% 84% 134 
+       
+       
+* esclusi i licenziamenti con ricollocazione entro 3 giorni dalla cessazione. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Tab. 6 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti (under 60 anni) per settore di 
+licenziamento e tassi di ricollocazione a 1 anno* (2019 e 2023) 
+ 
+2019  2023 
+% ricollocati 
+nello stesso 
+settore 
+% ricollocati in 
+altro settore 
+Totale 
+licenziamenti 
+% ricollocati 
+nello stesso 
+settore 
+% ricollocati in 
+altro settore 
+Totale 
+licenziamenti 
+       
+Macro-settore licenziamento       
+Agricoltura 52% 48% 167 39% 61% 122 
+Industria s.s. 68% 32% 4.284 64% 36% 3.705 
+Costruzioni 76% 24% 1.815 64% 36% 1.120 
+Servizi 85% 15% 6.198 86% 14% 5.053 
+       
+Principali comparti       
+Servizi turistici 66% 34% 1.648 67% 33% 1.386 
+Ind. tessile-abb. 78% 22% 1.350 76% 24% 874 
+Commercio dett. 40% 60% 899 37% 63% 729 
+Trasporti e magazz. 48% 52% 841 48% 52% 742 
+Comm. ingrosso 25% 75% 697 20% 80% 525 
+Prod.metallo 30% 70% 659 29% 71% 620 
+Apparecchi meccanici 25% 75% 363 22% 78% 370 
+Supporto alle imprese 28% 72% 338 16% 84% 179 
+       
+       
+* esclusi i licenziamenti con ricollocazione entro 3 giorni dalla cessazione. 
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+                                                 
+32 Nell’analisi vengono considerati i contratti di somministrazione attivati dalle agenzie, quindi imputati all’ambito dei servizi, indipendentemente dal 
+settore della missione.  
+
+ 
+ 
+ 
+22/24 
+ 
+Con riferimento ai comparti contraddistinti dal maggior numero di licenziamenti, i tassi di permanenza 
+all’interno del medesimo ambito occupazionale risultano particolarmente elevati nel caso dell’industria del 
+tessile-abbigliamento33, nei servizi turistici e nel trasporti-magazzinaggio. Le transizioni verso altri settori 
+sono invece particolarmente numerose, oltre che nei comparti dell’industria, nelle attività di supporto alle 
+imprese e nel commercio. Al netto dei passaggi alla somministrazione, in tutti questi ambiti i cambiamenti 
+settoriali riguardano spesso settori molto vicini a quello del licenziamento (ad esempio, dai servizi a supporto 
+delle imprese si passa al trasporto-magazzinaggio o al commercio all’ingrosso; dal commercio all’ingrosso si 
+passa al commercio al dettaglio o al trasporto-magazzinaggio; dalla fabbricazione di prodotti in metallo si 
+passa a quella degli apparecchi meccanici; ecc.); ciò conferma quindi, di fatto, una permanenza dei lavoratori 
+all’interno della medesima area occupazionale. Il settore, invece, che più spesso rappresenta un ambito di 
+cambiamento sostanziale del contesto occupazionale è quello dei servizi turistici.  
+ 
+Conclusioni 
+Negli ultimi anni, dopo i picchi raggiunti durante la crisi economico-finanziaria del 2008, si osserva un 
+progressivo calo dei licenziamenti, in particolare quelli dal tempo indeterminato. A fronte di una significativa 
+crescita delle nuove attivazioni contrattuali, la generale riduzione dei licenziamenti si accompagna a un 
+aumento delle dimissioni volontarie, suggerendo un rafforzamento della mobilità occupazionale guidata 
+soprattutto dalle scelte dei lavoratori. 
+I licenziamenti, che rappresentano una quota minoritaria delle cessazioni complessive, non sono tuttavia 
+riconducibili soltanto a esigenze organizzative aziendali e riferiti a situazioni di crisi o difficoltà dell’azienda. 
+Il recente incremento dei licenziamenti disciplinari, l’utilizzo di questa modalità di recesso nei cambi di 
+appalto, la peculiare incidenza in determinati comparti occupazionali possono rappresentare degli indicatori 
+di come essi, in situazioni particolari, siano soprattutto un vero e proprio strumento di gestione del personale. 
+Anche considerando le diverse condizioni cui è ascrivibile la perdita involontaria dell’occupazione, i percorsi 
+lavorativi dei licenziati – sostenuti dalla NASpI – tendono generalmente ad allungarsi, con bassi tassi di 
+ricollocazione nel breve periodo, che però migliorano progressivamente nel medio termine. Il confronto con 
+i lavoratori dimessi, per i quali la cessazione del lavoro si accompagna ad una rapida ricollocazione, evidenzia 
+infatti un netto divario iniziale. Per i licenziati la rioccupazione richiede tempi leggermente più lunghi, tuttavia 
+su orizzonti temporali più ampi, i livelli di rioccupazione tendono pressoché a convergere. 
+  
+                                                 
+33 A condizionare questo risultato vi è, anche in questo caso, l’elevata presenza di licenziamenti da imprese a titolarità cinese nelle quali la cessazione 
+del rapporto di lavoro è di fatto legata alle cessazioni aziendali con il passaggio dei lavoratori da un’azienda all’altra. 
+
+ 
+ 
+ 
+23/24 
+ 
+Appendice 
+Tab. A1 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti disciplinari (under 60 anni) per 
+classe di distanza dalla riassunzione, principali caratteristiche dei lavoratori e settore 
+ 
+2019  2023 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+         
+Totale lic. disciplinari 11% 30% 40% 6.325 11% 34% 47% 7.097 
+         
+Donne 13% 29% 39% 1.994 10% 31% 44% 2.173 
+Uomini 11% 31% 41% 4.331 11% 36% 48% 4.924 
+         
+Italiani 10% 28% 38% 3.520 9% 31% 44% 4.024 
+Stranieri 13% 33% 43% 2.805 13% 38% 51% 3.073 
+         
+Under 30 12% 34% 47% 977 11% 37% 51% 1.194 
+30-39 11% 32% 41% 1.847 10% 36% 49% 1.965 
+40-49 13% 31% 41% 2.117 13% 37% 50% 2.076 
+50-59 9% 24% 32% 1.384 9% 26% 37% 1.862 
+         
+Principali settori         
+Industria 11% 30% 40% 2.881 12% 36% 48% 3.546 
+ - ind. tessile-abb. 24% 44% 51% 599 26% 52% 64% 444 
+ - prod. metallo 7% 24% 35% 454 8% 32% 47% 538 
+ - costruzioni 10% 29% 39% 635 9% 31% 43% 903 
+Servizi 11% 30% 40% 3.338 9% 32% 45% 3.493 
+ - servizi turistici 13% 36% 46% 879 11% 43% 56% 751 
+ - commercio dett. 8% 26% 36% 456 8% 30% 44% 449 
+ - trasporti e magazz. 11% 29% 40% 671 8% 28% 42% 827 
+         
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+Tab. A2 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti economici individuali (under 
+60 anni) per classe di distanza dalla riassunzione, principali caratteristiche dei lavoratori e settore 
+ 
+2019  2023 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+         
+Totale lic. econ. individuali 26% 45% 54% 24.215 26% 47% 57% 15.121 
+         
+Donne 28% 47% 56% 10.737 28% 48% 58% 7.288 
+Uomini 24% 44% 52% 13.478 24% 45% 55% 7.833 
+         
+Italiani 22% 43% 52% 16.509 24% 45% 56% 10.666 
+Stranieri 33% 50% 58% 7.706 32% 50% 59% 4.455 
+         
+Under 30 25% 48% 57% 2.997 28% 51% 61% 1.915 
+30-39 27% 47% 56% 6.254 27% 49% 60% 3.365 
+40-49 27% 48% 56% 8.009 28% 49% 59% 4.700 
+50-59 24% 40% 48% 6.954 23% 41% 50% 5.141 
+         
+Principali settori         
+Industria 21% 42% 50% 10.724 22% 45% 54% 6.195 
+ - ind. tessile-abb. 38% 58% 67% 2.144 35% 59% 68% 1.126 
+ - costruzioni 15% 35% 43% 3.950 22% 43% 51% 1.656 
+Servizi 30% 48% 56% 13.256 29% 48% 58% 8.778 
+ - servizi turistici 22% 46% 58% 2.608 18% 47% 60% 1.705 
+ - commercio dett. 14% 34% 46% 1.603 19% 43% 55% 1.022 
+ - comm. ingrosso 15% 40% 48% 1.282 10% 34% 47% 853 
+ - trasporti e magazz. 39% 54% 61% 1.873 47% 59% 67% 1.299 
+ - servizi di pulizia 66% 72% 75% 1.679 47% 55% 61% 838 
+         
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025) 
+ 
+ 
+
+ 
+ 
+ 
+24/24 
+ 
+Tab. A3 – Veneto. Cessazioni di rapporti di lavoro a tempo indeterminato. Licenziamenti collettivi (under 60 anni) per 
+classe di distanza dalla riassunzione, principali caratteristiche dei lavoratori e settore 
+ 
+2019  2023 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+Ricollocati 
+entro 1 
+mese dal 
+licenziam. 
+Ricollocati 
+entro 6 
+mesi dal 
+licenziam. 
+Ricollocati 
+entro 1 
+anno dal 
+licenziam. 
+Totale 
+licenziati 
+         
+Totale lic. collettivi 13% 35% 43% 1.721 18% 41% 50% 1.436 
+         
+Donne 12% 33% 41% 832 17% 39% 49% 609 
+Uomini 15% 37% 45% 889 18% 42% 52% 827 
+         
+Italiani 14% 35% 43% 1.606 18% 42% 51% 1.209 
+Stranieri 12% 36% 48% 115 14% 36% 44% 227 
+         
+Under 30 19% 45% 63% 64 24% 51% 60% 85 
+30-39 19% 50% 61% 258 26% 48% 59% 195 
+40-49 18% 42% 51% 600 21% 51% 63% 389 
+50-59 8% 24% 30% 799 13% 33% 40% 767 
+         
+Principali settori         
+Industria 14% 34% 41% 1.101 19% 40% 48% 839 
+ - prod.metallo 16% 33% 39% 178 20% 43% 50% 179 
+ - ind. tessile-abb. 9% 36% 41% 152 25% 46% 53% 156 
+ - apparecchi meccanici 18% 46% 52% 114 24% 46% 56% 84 
+ - macchine elettriche 12% 31% 36% 109 7% 30% 35% 109 
+Servizi 13% 36% 48% 620 16% 43% 53% 597 
+ - commercio dett. 9% 28% 41% 249 14% 38% 51% 106 
+ - comm. ingrosso 14% 46% 58% 57 4% 18% 30% 92 
+         
+Fonte: ns. elab. su dati Silv (estrazione 25 luglio 2025)

@@ -1,0 +1,245 @@
+MISURE/122 
+ 
+IL CCNL APPLICATO ALLE ASSUNZIONI:  
+UNA PRIMA ESPLORAZIONE DELLE 
+INFORMAZIONI PRESENTI NEL SILV 
+ 
+ 
+ 
+Osservatorio regionale Mercato del Lavoro 
+ 
+ 
+ 
+Gennaio 2025 
+
+
+ 
+ 
+ 
+2/13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Misure/123 – IL CCNL APPLICATO ALLE ASSUNZIONI: TIPOLOGIE E FIRMATARI 
+a cura di Andrea Mamprin 
+con la collaborazione di Letizia Bertazzon e Ilaria Rocco 
+ 
+ 
+ 
+VENETO LAVORO  
+Osservatorio regionale Mercato del Lavoro 
+Via Ca’ Marcello, 67b 
+30172 - Venezia Mestre 
+www.venetolavoro.it 
+osservatorio.mdl@venetolavoro.it 
+ 
+ 
+
+ 
+ 
+ 
+3/13 
+ 
+ 
+Prosegue in questo report l’esplorazione delle informazioni del Sistema Informativo Lavoro del Veneto (Silv) 
+in relazione all’applicazione dei CCNL ai rapporti di lavoro dipendente privato attivati dalle imprese della 
+regione nel corso del 2024. Oggetto di attenzione sono, nello specifico, i CCNL maggiormente utilizzati nei 
+differenti ambiti occupazionali e le informazioni riferite alla tipologia dei firmatari.  
+Dalle analisi emerge, innanzitutto, un significativo addensamento delle attivazioni contrattuali in corrispondenza 
+di un numero limitato di CCNL. Nello specifico, poco più di un terzo di tutte le assunzioni effettuate nel 2024 
+(molte delle quali riferite a rapporti di lavoro di breve e brevissima durata) risulta riconducibile a 3 specifici 
+contratti: CCNL per i dipendenti di aziende del settore Turismo; CCNL per i dipendenti di aziende del Terziario, 
+della Distribuzione e dei Servizi; CCNL per gli operai agricoli e florovivaisti. I primi 6 CCNL per numerosità di 
+attivazioni contrattuali raggruppano più della metà delle assunzioni.  
+Con riferimento alla tipologia dei firmatari, la quasi totalità delle assunzioni effettuate nel 2024 risulta 
+applicare CCNL sottoscritti dai sindacati confederali (92,9%). Le assunzioni relative a contratti sottoscritti dalle 
+sigle non confederali ma rappresentate al Cnel sono pari al 2%, mentre solo una piccola parte (0,3%) riguarda 
+CCNL siglati da firmatari non rappresentati al Cnel. Per queste ultime due tipologie si possono osservare delle 
+concentrazioni in corrispondenza di alcuni specifici ambiti occupazionali e tipologie di lavoratori. 
+ 
+  
+Abstract 
+
+ 
+ 
+ 
+4/13 
+ 
+Premessa 
+Nell’ambito del processo di ampliamento del potenziale conoscitivo associato al Silv (Sistema informativo lavoro del Veneto), questa pubblicazione prosegue lungo la strada tracciata nel report Misure/122 “Il Ccnl applicato alle assunzioni: una prima esplorazione delle informazioni presenti nel Silv”. L’informazione relativa al “Contratto collettivo applicato”, non scevra da lacune e incompletezze, ha comunque raggiunto un livello di maturità decisamente superiore a quello degli anni scorsi e la prima esplorazione ha quindi permesso di mettere le basi per alcuni approfondimenti successivi. Se la prima pubblicazione si era concentrata maggiormente sulle caratteristiche e la distribuzione delle assunzioni con CCNL assente o non dichiarato, questa successiva analisi, entrando nel dettaglio delle informazioni, si soffermerà in particolar modo sulla tipologia dei contratti applicati ai rapporti di lavoro. Per porre nella corretta luce le evidenze emerse è tuttavia opportuno richiamare alcune delle limitazioni connesse alla possibilità di utilizzo delle informazioni riferite ai CCNL presenti in Silv, così come documentati nella pubblicazione Misure/122. In primis, va ricordato che la lista dei CCNL utilizzata dal sistema delle Comunicazioni Obbligatorie (CO) è quella del Ministero del Lavoro e delle Politiche Sociali (Mpls), differente dalla codifica univoca definita dal Cnel e alla quale sono associate le principali informazioni riferite ai diversi contratti, in particolare, durata, firmatari, condizioni economiche e sindacali. Per effettuare la conversione dei codici Mpls a quelli del Cnel, non essendo disponibile una codifica diretta, è necessario adottare una procedura di transcodifica che prevede un doppio passaggio: i codici identificativi Mpls vanno dapprima ricondotti alla codifica definita da Inps e, successivamente, ai codici Inps possono essere associati i codici univoci definiti dal Cnel. Oltre alla necessità di questo duplice passaggio, indispensabile alla lettura delle informazioni presenti in Silv, un’ulteriore questione da tener presente è legata al fatto che nell’elenco dei CCNL in uso nel sistema delle CO mancano alcuni CCNL vigenti mentre perdurano codifiche riferite a CCNL non più vigenti. Si tratta di un limite che rappresenta un potenziale disallineamento tra la situazione reale dei contratti e quella riportata nelle CO e che complica l’analisi delle informazioni. Ciò nonostante, come già evidenziato dalle analisi presentate in Misure/122, è possibile assumere che queste distorsioni siano di tollerabile entità e non inficino le possibilità di analisi. In questo approfondimento viene proposta in prima battuta un’esplorazione sui CCNL più utilizzati in corrispondenza dei nuovi rapporti di lavoro dipendente attivati in regione, dopodiché verranno analizzate le informazioni relative alle tipologie contrattuali applicate, identificate in prima approssimazione in base ai firmatari dei vari CCNL individuati. Con un aggiornamento rispetto all’analisi precedente, la disamina proposta fa riferimento alle assunzioni effettuate nel 2024 presso le imprese private localizzate in Veneto con contratto a tempo indeterminato, determinato e apprendistato.  
+1.  I CCNL maggiormente applicati ai rapporti di lavoro 
+Mentre si dispone di dettagliate informazioni sulla distribuzione delle assunzioni per settore economico, le conoscenze in merito alla diffusione dei CCNL applicati ai rapporti di lavoro attivati in regione sono decisamente più limitate. Quali sono, ad esempio, i CCNL che hanno interessato il maggior numero di assunzioni nel 2024? Qual è il loro peso sul totale e come si distribuiscono?  Considerando le informazioni riferite alle attivazioni di nuovi rapporti di lavoro superiori a una giornata effettuate nel 2024, il contratto in corrispondenza del quale si regista il maggior numero di assunzioni è rappresentato dal CCNL per i dipendenti di aziende del settore Turismo: ha interessato più di 93mila assunzioni, ovvero il 15% del totale, riferite a quasi 73mila lavoratori (tab. 1). Il secondo CCNL più applicato è quello per i dipendenti di aziende del Terziario, della Distribuzione e dei Servizi, con 69mila assunzioni circa, pari all’11% di tutti i rapporti di lavoro attivati nel 2024. In questo caso, i lavoratori coinvolti sono quasi 64mila. Il terzo CCNL più applicato è quello per gli operai agricoli e florovivaisti, che interessa il 9,2% delle assunzioni per un totale di circa 42mila lavoratori. 
+
+ 
+ 
+ 
+5/13 
+ 
+In termini di concentrazione, i primi tre contratti collettivi coprono il 35,2% delle assunzioni regionali, ovvero una su tre. Estendendo l’osservazione ai primi sei contratti per numerosità delle assunzioni, ovvero comprendendo anche il CCNL per i dipendenti dalle aziende metalmeccaniche e della installazione di impianti, il CCNL per i dipendenti da aziende dei settori Pubblici Esercizi, Ristorazione Collettiva e Commerciale e Turismo e il CCNL per il personale dipendente di imprese esercenti servizi di pulizia e servizi integrati/multiservizi, si raggiunge il 50,6% dei rapporti di lavoro attivati. Un’assunzione su due in Veneto nel 2024 risulta dunque associata ad uno di questi sei CCNL. Gli otto CCNL seguenti contano tutti tra le 10 e le 20mila assunzioni e il loro apporto in termini percentuali è via via meno importante.  Tab. 1 – Veneto. I 20 CCNL più applicati ai rapporti di lavoro attivati nel 2024: assunzioni*, rapporti di lavoro superiori a una giornata e lavoratori coinvolti, numero medio di assunzioni per lavoratore (valori assoluti e %) Cod. Cnel  CCNL applicato Assunzioni 2024  Rapp.lav. >1 giorno  Lavoratori N. medio assunzioni per lavoratore Val. ass. Comp. %  Val. ass. Comp. % Val. ass. Comp. %H052 CCNL per i dipendenti da aziende del settore Turismo 93.495 15,0  87.407 14,6  72.732 15,2 1,29 H011 CCNL per i dipendenti da aziende del Terziario della Distribuzione e dei Servizi 68.638 11,0  68.406 11,4  63.911 13,4 1,07 A011 CCNL per gli operai agricoli e florovivaisti 57.581 9,2  57.484 9,6  42.097 8,8 1,37 C011 CCNL per i dipendenti dalle aziende metalmeccaniche e della installazione di impianti 36.520 5,8  36.429 6,1  34.762 7,3 1,05 H05Y CCNL per i dipendenti da aziende dei settori Pubblici Esercizi, Ristorazione Collettiva e Commerciale e Turismo 34.256 5,5  31.796 5,3  27.601 5,8 1,24 K511 CCNL per il personale dipendente da imprese esercenti servizi di pulizia e servizi integrati/multiservizi 25.912 4,1  25.662 4,3  22.472 4,7 1,15 C030 CCNL Area Meccanica 18.416 2,9  18.368 3,1  17.365 3,6 1,06 F012 CCNL per i lavoratori dipendenti delle imprese edili ed affini e delle Cooperative 17.006 2,7  16.947 2,8  15.377 3,2 1,11 T151 CCNL Cooperative Sociali 16.661 2,7  16.484 2,8  14.798 3,1 1,13 H05B CCNL per i dipendenti dell'Industria Turistica 14.610 2,3  7.449 1,2  6.267 1,3 2,33 I100 CCNL logistica, trasporto merci e spedizione (personale non dirigente) 13.095 2,1  13.042 2,2  12.168 2,5 1,08 F015 CCNL per i lavoratori dip delle imprese artigiane e delle piccole e medie imprese industriali dell'edilizia e affini 12.915 2,1  12.869 2,2  11.507 2,4 1,12 I810 CCNL dell’industria del trasporto aereo 12.044 1,9  11.972 2,0  10.976 2,3 1,10 E012 CCNL per l'industria alimentare 11.322 1,8  11.297 1,9  8.517 1,8 1,33 E015 CCNL Area Alimentazione-Panificazione 9.814 1,6  9.783 1,6  9.294 1,9 1,06 H442 CCNL per i dipendenti degli studi e delle attività professionali 7.390 1,2  7.379 1,2  6.905 1,4 1,07 H008 CCNL della Distribuzione Moderna Organizzata (DMO) 7.187 1,2  7.168 1,2  6.981 1,5 1,03 V751 CCNL Area Tessile-Moda e Chimica-Ceramica 7.150 1,1  7.134 1,2  6.523 1,4 1,10 C018  CCNL per i lavoratori addetti alla piccola e media industria metalmeccanica ed alla installazione di impianti 6.328 1,0  6.303 1,1  6.051 1,3 1,05 H515 CCNL Area Acconciatura ed Estetica 5.572 0,9  5.557 0,9  4.906 1,0 1,14 
+           
+ Subtotale primi 20 contratti nazionali per numero di assunzioni** 475.912 76,2  458.936 76,7  373.216 78,1 1,28 
+           
+CD Contratto mancante nella lista delle CO 18.766 3,0  18.562 3,1  16.381 3,4 1,15 ND Non si applica contratto 9.552 1,5  9.067 1,5  8.131 1,7 1,17 
+           
+ Totale 624.851 100,0  598.541 100,0  478.120 100,0 1,31 
+ 
+      
+ 
+    
+ 
+  
+  
+*Tempo indeterminato, apprendistato, tempo determinato. ** Il subtotale dei lavoratori dei primi 20 contratti non coincide con la somma dei lavoratori dei primi 5 contratti, in quanto un lavoratore può essere assunto più volte in un anno con contratti diversi. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  
+
+ 
+ 
+ 
+6/13 
+ 
+93.49568.63857.58136.52034.25625.91218.41617.00616.66114.61013.09512.91512.04411.3229.8147.3907.1877.1506.3285.572
+Il rapporto tra lavoratori assunti e numero delle assunzioni calcolato in corrispondenza di ogni CCNL rappresentata un indicatore della concentrazione di rapporti di lavoro di breve/brevissima durata. Considerando ad esempio i primi tre CCNL per peso sul totale delle assunzioni, è abbastanza evidente che, proprio per la natura in gran parte stagionale degli ambiti settoriali interessati, il CCNL del turismo e quello degli operai agricoli e florovivaisti si caratterizzano per un rapporto assunzioni su lavoratori più elevato rispetto a quello del terziario. Tra i primi venti CCNL sono comunque pochi quelli caratterizzati da un elevato numero di assunzioni in rapporto ai lavoratori coinvolti: oltre ai già menzionati CCNL del turismo e dell’agricoltura, va segnalato quello dell’industria alimentare. Un discorso a parte andrebbe invece fatto per il CCNL per i dipendenti dell’Industria turistica, il cui utilizzo è però quasi totalmente riconducibile ad un’unica azienda. L’analisi delle durate dei rapporti di lavoro attivati nel 20241  fornisce un dettaglio maggiore su questo aspetto (tab. 2).2 Fra i primi venti CCNL individuati, in corrispondenza di alcuni si registrano percentuali elevate di rapporti di lavoro di una sola giornata: questi sono il CCNL per i dipendenti di aziende del settore Turismo (dove le assunzioni giornaliere sono il 6,5% del totale), il CCNL per i dipendenti dei Pubblici Esercizi, Ristorazione collettiva e Commerciali e Turismo (7,2%) e il CCNL per i dipendenti dell’industria Turistica. In quest’ultimo caso, il peso dei rapporti di lavoro giornalieri è particolarmente elevato (49%), tuttavia riconducibile alle prassi di reclutamento di una specifica grande azienda operante nel settore.  Tab. 2 – Veneto. Assunzioni* nel 2024 con i 20 CCNL più applicati per durata del rapporto di lavoro  (Comp. % per contratto)  1 g. 2-30 gg 1-3 mesi 4-6 mesi > 6 mesi Senza data cess. Assunzioni (val. ass.) CCNL per i dipendenti da aziende del settore Turismo 6,5 16,3 17,5 26,9 24,9 7,8   CCNL per i dipendenti da aziende del Terziario della Distrib. e Servizi 0,3 8,9 14,4 16,1 33,9 26,5   CCNL per gli operai agricoli e florovivaisti 0,2 13,8 26,2 27,1 30,9 1,8   CCNL per i dipendenti dalle aziende metalm. e installazione di impianti 0,2 6,7 10,6 9,8 27,4 45,2   CCNL per i dip. az. di Pubblici Esercizi, Rist. Collettiva e Comm. e Turismo 7,2 17,1 19,0 22,7 23,8 10,2   CCNL per il pers. dip. imprese es. serv. pulizia e serv. integrati/multiservizi 1,0 20,9 20,2 16,8 20,3 20,9   CCNL Area Meccanica 0,3 10,0 15,7 12,3 33,6 28,1   CCNL per i lav. dipendenti delle imprese edili ed affini e delle Coop. 0,3 14,0 19,8 16,9 20,5 28,4   CCNL Cooperative Sociali 1,1 12,2 16,5 17,4 30,7 22,1   CCNL per i dipendenti dell'Industria Turistica 49,0 11,1 10,1 10,4 16,0 3,4   CCNL logistica, trasporto merci e spedizione (personale non dirigente) 0,4 12,2 13,5 14,1 21,7 38,1   CCNL per i lav. dip. imprese artigiane e delle pmi ind. edilizia e affini 0,4 14,9 22,9 16,8 22,4 22,6   CCNL dell’industria del trasporto aereo 0,6 12,9 16,6 16,6 26,1 27,2   CCNL per l'industria alimentare 0,2 9,0 20,0 19,7 31,2 20,0   CCNL Area Alimentazione-Panificazione 0,3 11,9 17,4 21,1 32,6 16,7   CCNL per i dipendenti degli studi e delle attività professionali 0,1 6,5 9,4 10,1 39,4 34,5   CCNL della Distribuzione Moderna Organizzata (DMO) 0,3 8,1 14,8 25,1 33,6 18,2   CCNL Area Tessile-Moda e Chimica-Ceramica 0,2 9,4 14,1 15,4 23,0 37,9   CCNL per i lav. addetti alla pmi metalmeccanica ed install. di impianti 0,4 11,8 16,3 13,2 26,0 32,4   CCNL Area Acconciatura ed Estetica 0,3 9,8 15,7 14,5 39,4 20,3            Subtotale primi 20 CCNL 3,6 12,9 17,4 19,5 27,6 19,1   475.912  Totale CCNL 4,2 13,6 16,9 18,3 27,3 19,6   624.851   *Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  
+                                                 
+1 Il numero di giornate è quello che intercorre tra la data di assunzione e quella di cessazione. Nel caso in cui non ci sia stato un evento di cessazione del rapporto di lavoro, viene considerata, nel caso di contratti a termine, la data di cessazione prevista. 
+2 La particolare concentrazione di contratti che durano una sola giornata potrebbe rappresentare un indicatore di fragilità dei rapporti di lavoro in alcuni ambiti occupazionali. Questa diffusione potrebbe essere ricondotta sia alle caratteristiche di un settore, ma anche ad un uso improprio del contratto stesso. 
+
+ 
+ 
+ 
+7/13 
+ 
+Il CCNL del settore Turismo e quello degli operai agricoli, oltre ad essere caratterizzati da un elevato numero di rapporti di lavoro giornalieri, mostrano percentuali elevate anche di rapporti di lavoro che durano al massimo un mese (22,8% e 24,3% rispettivamente). A questi si aggiunge il CCNL per il personale dipendente da imprese esercenti servizi di pulizia e servizi integrati/multiservizi il quale, sebbene non si segnali per un elevato numero di assunzioni giornaliere, conta un elevato numero di rapporti di lavoro inferiori ai 30 giorni (21,9%). Uno sguardo ai contratti più rappresentativi nei tre macrosettori (agricoltura, industria e servizi) offre altri spunti di analisi. In agricoltura (tab. 3), il già citato CCNL degli operai agricoli e florovivaisti copre il 67,2% delle assunzioni del 2024, ciò significa che in questo settore due assunzioni su tre risultano applicare questo contratto. Il secondo CCNL è quello del contoterzismo in agricoltura che interessa circa 4.700 assunzioni, il 5,9% del totale. Come già emerso dall’analisi presentata in Misure/123, l’agricoltura rappresenta un settore caratterizzato da un numero significativo di rapporti di lavoro per i quali non si rileva alcun contratto, sia perché esso non viene applicato, sia perché non presente nella lista proposta nelle delle CO3. Insieme, queste due fattispecie interessano, nel 2024, il 19,7% delle assunzioni, comunque in calo rispetto all’anno precedente (23,8%).  Tab. 3 – Veneto. Assunzioni* con i CCNL dell’agricoltura. Inc. % all’interno del macrosettore Codice Cnel CCNL Numero di assunzioni  Comp. % 2023 2024  2023 2024 A011 CCNL per gli operai agricoli e florovivaisti 45.165 53.748  63,6 67,2 A051 CCNL per i lavoratori dip. delle imprese che esercitano attività agromeccaniche (contoterzismo in agricoltura) 3.449 4.683  4,9 5,9 E016 CCNL per i lavoratori dip. da aziende coop di trasformazione di prodotti agricoli e zootecnici e lavorazione prodotti alimentari 1.777 1.818  2,5 2,3 A016 CCNL per i dipendenti di cooperative e consorzi agricoli 1.663 1.731  2,3 2,2 A021 CCNL per i Quadri e impiegati agricoli 448 473  0,6 0,6  Subtotale primi 5 CCNL agricoltura 52.502 62.453  74,0 78,1 CD Contratto mancante nella lista delle CO 9.261 8.513  13,1 10,6 ND Non si applica contratto 7.614 7.242  10,7 9,1  Totale Agricoltura 70.962 80.003  100,0 100,0 
+       
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  Nell’industria (tab. 4), il 21,9% delle assunzioni effettuate nel 2024 (circa 32mila) è riconducibile al CCNL per i dipendenti dalle aziende metalmeccaniche e dell’installazione di impianti. Il secondo CCNL è quello per i lavoratori dipendenti delle imprese edili a cui fanno riferimento circa 16 mila assunzioni. In generale, i quattro contratti più utilizzati sono tutti relativi al comparto della meccanica e all’edilizia e coprono più della metà (il 51,5%) delle attivazioni contrattuali registrate nel corso dell’anno. Per quanto riguarda invece il terziario (tab. 5), il CCNL per i dipendenti del settore Turismo raggiunge il 23,4% delle assunzioni, ovvero quasi un rapporto di lavoro su quattro. Essendo questo il macrosettore con il numero complessivo più elevato di assunzioni è anche quello che concentra il numero più elevato di CCNL nel complesso maggiormente applicati. I primi quattro contratti superano tutti le 20mila assunzioni, mentre per gli altri due macrosettori (agricoltura ed industria), solo il primo CCNL oltrepassava tale cifra.  
+                                                 
+3 Alcuni approfondimenti condotti rispetto all’elevata presenza di codici CD e ND in agricoltura hanno evidenziato l’esistenza di un certo scollamento tra i CCNL proposti nelle CO e quelli attuali dal Cnel. Nella classificazione in uso nel sistema delle CO non è infatti presente il CCNL per gli operai agricoli e florovivaisti che è il contratto maggiormente applicato. Molte aziende, in assenza del campo corretto, indicano comunque l’opzione disponibile più simile, ovvero quella riferita al CCNL per gli operai florovivaisti (che nella trasposizione in codici Cnel confluisce nel CCNL per gli operai agricoli e florovivaisti). Altre aziende, non riconoscendo l’identificazione corretta del CCNL applicato, optano invece per le più generiche sigle CD o ND.  
+
+ 
+ 
+ 
+8/13 
+ 
+Tab. 4 – Veneto. Assunzioni* nel 2024 con i CCNL dell’industria. Inc. % all’interno del macrosettore Codice Cnel CCNL Numero di assunzioni  Comp. % 2023 2024  2023 2024 C011 CCNL per i dipendenti dalle aziende metalmeccaniche e della installazione di impianti 37.369 32.344  23,6 21,9 F012 CCNL per i lavoratori dipendenti delle imprese edili ed affini e delle Cooperative 14.682 16.478  9,3 11,2 C030 CCNL Area Meccanica 16.092 14.512  10,2 9,8 F015 CCNL per i lavoratori dip. delle imprese artigiane e delle piccole e medie imprese industriali dell'edilizia e affini 12.342 12.680  7,8 8,6 E012 CCNL per l'industria alimentare 11.645 10.744  7,4 7,3 V751 CCNL Area Tessile-Moda e Chimica-Ceramica 7.589 6.421  4,8 4,3 C018 CCNL per i lavoratori addetti alla piccola e media industria metalmeccanica ed alla installazione di impianti 6.382 5.548  4,0 3,8 E015 CCNL Area Alimentazione-Panificazione 4.053 3.755  2,6 2,5 D014 CCNL per le imprese ed i lavoratori del settore Tessile-Abbigliamento-Moda 4.267 3.547  2,7 2,4 F051 CCNL Legno, Sughero, Mobile, Arredamento e Boschivi e Forestali 3.710 3.332  2,3 2,3  Subtotale primi 10 CCNL industria 118.131 109.361  74,6 74,0 CD Contratto mancante nella lista delle CO 917 850  0,6 0,6 ND Non si applica contratto 230 232  0,1 0,2  Totale industria 158.263 147.713  100,0 100,0 
+       
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  Tab. 5 – Veneto. Assunzioni* con i CCNL dei servizi. Inc. % all’interno del macrosettore Codice Cnel CCNL Numero di assunzioni  Comp. % 2023 2024  2023 2024 H052 CCNL per i dipendenti da aziende del settore Turismo 93.755 93.025  23,5 23,4 H011 CCNL per i dipendenti da aziende del Terziario della Distribuzione e dei Servizi 66.486 66.181  16,6 16,7 H05Y CCNL per i dipendenti da aziende dei settori Pubblici Esercizi, Ristorazione Collettiva e Commerciale e Turismo 33.816 34.137  8,5 8,6 K511 CCNL per il personale dipendente da imprese esercenti servizi di pulizia e servizi integrati/multiservizi 24.224 25.039  6,1 6,3 T151 CCNL Cooperative Sociali 17.039 16.148  4,3 4,1 H05B CCNL per i dipendenti dell'Industria Turistica 14.687 14.569  3,7 3,7 I100 CCNL logistica, trasporto merci e spedizione (personale non dirigente) 12.885 12.823  3,2 3,2 I810 CCNL dell’industria del trasporto aereo 10.607 11.930  2,7 3,0 H442 CCNL per i dipendenti degli studi e delle attività professionali 7.880 7.365  2,0 1,9 H008 CCNL della Distribuzione Moderna Organizzata (DMO) 6.927 7.177  1,7 1,8  Subtotale primi 10 CCNL servizi 288.306 288.394  72,2 72,6 CD Contratto mancante nella lista delle CO 9.281 9.403  2,3 2,4 ND Non si applica contratto 2.555 2.078  0,6 0,5  Totale servizi 399.569 397.135  100,0 100,0 
+       
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  
+2.  I firmatari dei contratti 
+Nell’esplorazione presentata in Misure/122 era stata proposta una prima disamina delle modalità di applicazione dei CCNL ai rapporti di lavoro nei diversi settori soffermando l’attenzione, in particolare, alle situazioni prive di una specifica identificazione. Con questo approfondimento, si prova invece ad intercettare, attraverso la proxy rappresentata dai firmatari dei CCNL, il tema delle tutele sindacali. Lo schema delle tutele salariali e sindacali è infatti decisamente complesso a causa della estrema variabilità e conseguente scarsa scalabilità delle informazioni contenute nei contratti collettivi. Ci sono però delle variabili, come ad esempio la tipologia di sigle firmatarie, che possono comunque dare una prima seppur parziale informazione4. 
+                                                 
+4 Cfr. Osservatorio del Mercato del Lavoro della Città metropolitana di Milano (2023), “La contrattazione collettiva: un quadro alla 
+luce degli avviamenti al lavoro”, Rapporto annuale 2023, www.cittametropolitana.mi.it 
+
+ 
+ 
+ 
+9/13 
+ 
+L’archivio dei contratti del Cnel offre infatti, per ognuno di essi, il dettaglio delle sigle firmatarie. A partire da queste informazioni, ai fini di questa esplorazione è stata elaborata una classificazione in tre categorie ciascuna delle quali rappresenta un livello via via minore di rappresentatività sindacale: 1. il primo livello è costituito dai contratti firmati da almeno uno dei sindacati confederali o da una delle loro federazioni di categoria. L’assunto di partenza è che, dato il livello di rappresentatività generale di Cgil, Cisl e Uil, si possano considerare i CCNL appartenenti a questa categoria come quelli maggiormente garantiti. Ovviamente si tratta di una approssimazione in quanto possono esserci contratti sottoscritti dai confederali che possono essere applicati in modo scorretto5, come anche contratti dalle buone tutele firmati da sigle non confederali6; 2. il secondo livello è quello firmato dalle sigle sindacali non confederali ma comunque rappresentate al Cnel. Le forze sociali rappresentate al Cnel nell’attuale Consiliatura sono 387 e, oltre ai sindacati confederali e alle sigle datoriali, sono presenti sigle sindacali autonome o esclusive dei dirigenti8. Sebbene contino un numero di aderenti inferiore a quello delle sigle confederali, il fatto che siano rappresentate al Cnel le rende istituzionalmente riconosciute; 3. sigle sindacali non rappresentate al Cnel. In questa tipologia rientrano tutte le altre sigle che giocoforza sono caratterizzate da una minore strutturazione e peso contrattuale. Per necessità di sintesi, vengono fatte rientrare in questa categoria anche le situazioni in cui una sigla datoriale rappresentata al Cnel sottoscriva un contratto con una sigla sindacale non rappresentata.  Una prima analisi della tipologia dei firmatari dei CCNL applicati (tab. 6) mette in evidenza, innanzitutto, come la quasi totalità delle assunzioni effettuate nel 2024 faccia riferimento a contratti firmati dai sindacati confederali (92,9%). Le assunzioni relative a contratti sottoscritti dalle sigle non confederali ma rappresentate al Cnel sono pari al 2%, per un totale di circa 12.600 rapporti di lavoro attivati. Le assunzioni che, invece, applicano CCNL sottoscritti da sigle non rappresentate al Cnel sono una minoranza, non raggiungendo, nell’insieme, le 2mila unità. Va segnalato inoltre che il 5% circa delle assunzioni non riporta informazioni relative ai firmatari; si tratta di casi concernenti sia le situazioni alle quali non viene applicato nessun CCNL, sia quelle relative ai contratti che non sono presenti nell’elenco adottato dal sistema delle CO.  
+Tab. 6 – Veneto. Assunzioni* per tipo di firmatari dei CCNL 
+Tipo firmatari Numero di assunzioni  Comp. % 2023 2024  2023 2024 1. Confederali 582.013 580.237  92,6 92,9 2. Non confederali ma rappresentati al Cnel 12.264 12.561  2,0 2,0 3. Non rappresentati al Cnel 2.401 1.734  0,4 0,3 Subtotale non confederali 14.665 14.295  2,3 2,3 
+      
+CCNL non presenti nella lista CO 19.459 18.766  3,1 3,0 Nessun CCNL applicato 10.399 9.552  1,7 1,5 Altra voce generica 2.258 2.001  0,4 0,3 Subtotale informazioni non disponibili sul Ccnl 32.116   30.319  5,1 4,9 Totale 628.794 624.851  100,0 100,0 
+      
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  Il dettaglio dei primi dieci CCNL classificati nella categoria dei contratti collettivi firmati da sindacati non confederali ma comunque rappresentati al Cnel (tab. 7) ci restituisce al primo posto per numero di assunzioni nel 2024 il CCNL dei dipendenti di istituti e imprese di vigilanza privata e servizi fiduciari, sottoscritto dal Confsal. 
+                                                 
+5 Come a volte succede con i CCNL dei Call center, quello dei Multiservizi e quello delle Cooperative Sociali. 
+6 Ad esempio, il Ccnl degli autoferrotranvieri firmato dall’Orsa o quello di Fca firmato da Usb. 
+7 https://www.cnel.it/Chi-Siamo/XI-Consiliatura/Le-Forze-Sociali/Le-Forze-Sociali-rappresentate-al-CNEL-nellattuale-Consiliatura-XI 
+8 Le sigle sindacali non confederali rappresentate al Cnel sono le seguenti: Cida, Cisal, Ciu, Confedir, Confintesa, Confsal, Ugl, Usb. 
+
+ 
+ 
+ 
+10/13 
+ 
+Questo contratto risulta applicato a circa 2.600 nuovi rapporti di lavoro, che rappresentano il 20,5% delle 
+assunzioni con contratti afferenti a questa tipologia di firmatari. Nelle prime posizioni appaiono anche 
+contratti firmati da Cisal, Ciu e Ugl. Da evidenziare, inoltre, il contratto per soli dirigenti di aziende produttrici 
+di beni e servizi firmato da Federmanager che in Veneto, nel 2024, ha riguardato più di 500 assunzioni. 
+Tab. 7 – Veneto. Assunzioni* nel 2024 con i primi 10 CCNL firmati da sindacati non confederali ma rappresentati al Cnel 
+Codice Cnel CCNL  Val. ass. Comp. %  HV18 Dipendenti da istituti e imprese di vigilanza privata e servizi fiduciari Fesica confsal, Confsal  2.581 20,5 H024 Per i quadri direttivi, impiegati ed operai dipendenti dei settori del Commercio Cisal terziario, Cisal  2.141 17,0 H05K Per i dirigenti, quadri, impiegati e operai dipendenti dei settori Turismo, Agenzie di viaggio e Pubblici esercizi Cisal terziario, Confedir, Cisal  1.345 10,7 K572 Per dipendenti e soci lavoratori delle imprese Cooperative di multiservizi, pulizia e logistica Famar, Ciu, Unionquadri  1.025 8,2 HV40 AGENZIE SICUREZZA SUSSIDIARIA E ISTITUTI INVESTIGATIVI (SECURITY) Ugl sicurezza civile  644 5,1 V012 Dirigenti di aziende produttrici di beni e servizi Federmanager  536 4,3 H01N Per i dipendenti del terziario: commercio, distribuzione e servizi Fesica confsal, Confsal  466 3,7 H601 Per i dipendenti di Centri Elaborazione Dati (CED), imprese ICT, professioni digitali e STP Ugl terziario, Ugl  407 3,2 A00C Operai agricoli e florovivaisti Consil, Flaits, Ciu  388 3,1 V716 Per i lav. Dip. delle aziende e coop. esercenti attività di Multiservizi, Pulizie, Logistica, Trasporti e Spedizioni, Commercio, Terziario, Servizi, Turismo e Pubblici Esercizi Cconfael nazionale comparto terziario, Snalp (Confsal), Engeb, Fal (Confael), Confael  382 3,0  Subtotale   9.915 78,9  Totale   12.561 100,0 
+      
+*Tempo indeterminato, apprendistato, tempo determinato. 
+Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025) 
+ 
+I contratti firmati da sindacati autonomi non rappresentati al Cnel sono essenzialmente due. Il primo è il CCNL per il personale dipendente delle imprese e delle reti d’impresa che operano nei settori turistici alberghieri, B&B, centri termali, pubblici esercizi, stabilimenti balneari, agenzie di viaggio sottoscritto da Confail e Confcontribuenti: si tratta, complessivamente, di 846 assunzioni che fanno riferimento quasi tutte ad una sola azienda. Il secondo è il CCNL dei lavoratori dipendenti delle aziende e cooperative esercenti attività del settore commercio, terziario, servizi, trasporti e logistica, artigianato firmato da Confael e Snalp9 relativo a quasi 600 assunzioni. Questi due contratti collettivi rappresentano l’83% delle assunzioni con CCNL sottoscritto da sindacati non rappresentati al Cnel. 
+Tab. 8 – Veneto. Assunzioni* nel 2024 per tipologia di firmatari e durata prevista del rapporto di lavoro (Comp. %) 
+ 
+1 g. 2-30 gg 1-3 mesi 3-6 mesi > 6 mesi Senza data cess. Totale N. Assunzioni
+1. Confederali 4,3  13,3 16,6 18,4 27,3 20,1 100,0 580.237 
+2. Non confederali ma rappresentati al Cnel 1,7 18,2 19,9 18,3 22,6 19,4 100,0 12.561 
+3. Non rappresentati al Cnel 27,9 27,5 11,7 8,1 15,0 9,8 100,0 1.734 
+Subtotale non confederali 4,8 19,4 18,9 17,0 21,7 18,2 100,0 14.295 
+         
+Contratti non presenti nella lista CO 1,1 18,2 18,4 19,3 30,3 12,8 100,0 18.766 
+Nessun contratto applicato 5,1 14,4 28,9 17,3 30,8 3,5 100,0 9.552 
+Altro voce generica 0,6 13,3 17,7 12,0 22,9 33,5 100,0 2.001 
+Subtotale informazioni non disponibili sul Ccnl 2,3 16,7 21,7 18,2 30,0 11,2 100,0 30.319 
+Totale 4,2  13,6 16,9 18,3 27,3 19,6 100,0 624.851 
+         
+*Tempo indeterminato, apprendistato, tempo determinato. 
+Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025) 
+                                                 
+9 Lo Snalp è promosso da Confael e federato con Confsal che è una delle sigle rappresentate al Cnel. Il Cnel però sembra non attribuire questo contratto direttamente al Confsal. Detto questo, la scelta effettuata è stata quella di considerare lo Snalp come sigla non rappresentata in quanto è comunque una federazione di pensionati e non di lavoratori. 
+
+ 
+ 
+ 
+11/13 
+ 
+Analizzando la distribuzione delle giornate dei rapporti di lavoro avviati nel 2024 per tipologie di firmatario (tab. 8), non emergono grosse differenze tra le diverse macro-aggregazioni individuate, ad eccezione delle sigle non rappresentate al Cnel, ma anche in questo caso il dato anomalo è riferito ad una sola azienda. Qualche evidenza in più emerge dall’analisi della cittadinanza e delle qualifiche per tipologia di firmatario (tab. 9 e 10). Nel caso dei CCNL sottoscritti da sigle non confederali la percentuale di assunzioni di stranieri risulta essere superiore a quella mediamente rilevata, tuttavia inferiore a quella delle assunzioni prive di contratto. Sono in proporzione maggiori anche le professioni non qualificate tra i non confederali e i non rappresentati, ma anche in questo caso, in misura inferiore ai rapporti di lavoro che risultano senza contratto collettivo applicato. Tab. 9 – Veneto. Assunzioni* nel 2024 per tipologia firmatari e cittadinanza (Comp. %)  Italiani Stranieri Totale N. Assunzioni1. Confederali 67,2 32,8 100,0 580.237 2. Non confederali ma rappresentati al Cnel 60,0 40,0 100,0 9.711 3. Non rappresentati al Cnel 73,2 26,8 100,0 4.584 Subtotale non confederali 64,2 35,8 100,0 14.295 
+     
+Contratti non presenti nella lista CO 68,6 31,4 100,0 18.766 Nessun contratto applicato 43,6 56,4 100,0 9.552 Altro voce generica 57,3 42,7 100,0 2.001 Subtotale informazioni non disponibili sul Ccnl 60,0 40,0 100,0 30.319 Totale 66,7 33,3 100,0 624.851 
+     
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  Tab. 10 – Veneto. Assunzioni* nel 2024 per tipologia firmatari e profilo professionale (Comp. %)  Dirigenti e alta specializz. Profes-sioni tecniche Profes-sioni esecutive Prof. qualif.nei servizi Operai e condut-tori Prof non qualif. Totale N. Assunzioni1. Confederali 4,8 6,5 10,3 29,7 23,9 24,8 100,0 580.237 2. Non confederali ma rappresentati al Cnel 6,9 6,1 14,0 30,0 13,1 29,9 100,0 12.620 3. Non rappresentati al Cnel 3,3 0,2 6,7 46,5 8,5 34,7 100,0 1.675 Subtotale non confederali 6,4 5,4 13,2 31,9 12,6 30,5 100,0 14.295 
+         
+Contratti non presenti nella lista CO 6,8 8,7 12,9 10,4 22,9 38,2 100,0 18.766 Nessun contrattoapplicato 6,2 3,6 2,1 3,7 15,2 69,1 100,0 9.552 Altro voce generica 2,6 11,3 10,1 14,2 40,7 21,1 100,0 2.001 Subtotale informazioni non disponibili sul Ccnl 6,3 7,3 9,4 8,6 21,7 46,8 100,0 30.319 Totale 4,9 6,5 10,3 28,8 23,5 26,0 100,0 624.851 
+        
+ 
+*Tempo indeterminato, apprendistato, tempo determinato. Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025)  Sebbene il loro peso sul totale delle assunzioni sia relativamente basso, i CCNL firmati da sigle non confederali assumono incidenze rilevanti in alcuni settori economici. Nei servizi di vigilanza e investigazione, ad esempio, il peso delle assunzioni che fanno riferimento a CCNL sottoscritti da sigle non confederali ma rappresentate al Cnel arriva al 70%; in questo caso il dato è trainato dal già menzionato CCNL dei dipendenti di istituti e imprese di vigilanza privata e servizi fiduciari, firmato dal Confsal. Nel caso delle Attività di servizi di informazione e informatici, il 24% delle assunzioni risulta applicare contratti firmati da un sindacato non confederale; in questo caso il CCNL che, in prima battuta, determina questa specificità è quello per i dipendenti di Centri Elaborazione Dati (CED), imprese ICT, professioni digitali e STP sottoscritto da Ugl.  Come accennato in precedenza, non sempre i contratti firmati da sigle non rappresentate al Cnel va interpretato come un segnale di debolezza. Esistono infatti sigle sindacali con pochi iscritti ma con notevole capacità incisiva e dall’elevato potere contrattuale: è questo il caso, ad esempio, delle Attività editoriali cui afferiscono i rapporti di lavoro che applicano i CCNL siglati da Fnsi (Federazione Nazionale Stampa Italiana) e da Usigrai (Unione sindacale dei giornalisti Rai).  
+
+ 
+ 
+ 
+12/13 
+ 
+Tab. 11 – Veneto. Assunzioni* nel 2024 per tipologia firmatari e settore professionale (Comp. %) Settore Ateco Confede-rali Non confederali Info. non disponibili sul Ccnl Totale  Assun-zioni (val.ass) Rappr. al Cnel Non rappr. al Cnel Subtotale   01.Coltivazioni agricole e produz. prodotti animali 79,5 0,6 0,1 0,8 19,7 100,0  78.916 02.Silvicoltura ed utilizzo di aree forestali 62,1 0,0 0,0 0,0 37,9 100,0  541 03.Pesca e acquacoltura 83,3 1,1 0,4 1,5 15,2 100,0  546 08.Altre attività di estrazione di minerali da cave e miniere 99,4 0,0 0,0 0,0 0,6 100,0  341 09.Attività dei servizi di supporto all'estrazione 97,0 0,0 0,0 0,0 3,0 100,0  33 10.Industrie alimentari 97,8 0,6 0,0 0,6 1,6 100,0  16.762 11.Industria delle bevande 95,2 0,8 0,0 0,8 4,0 100,0  1.673 12.Industria del tabacco 100,0 0,0 0,0 0,0 0,0 100,0  2 13.Industrie tessili 99,4 0,3 0,0 0,3 0,4 100,0  1.588 14.Confezione di articoli di abbigliamento, in pelle e pelliccia 99,0 0,4 0,0 0,4 0,5 100,0  6.985 15.Fabbricazione di articoli in pelle e simili 94,1 0,5 0,0 0,5 5,3 100,0  4.725 16.Industria del legno e dei prodotti in legno (esclusi i mobili) 99,6 0,2 0,0 0,2 0,2 100,0  2.004 17.Fabbricazione di carta e di prodotti di carta 98,3 0,6 0,0 0,6 1,0 100,0  1.551 18.Stampa e riproduzione di supporti registrati 99,7 0,1 0,0 0,1 0,2 100,0  1.318 19.Fabbricazione di coke e prodotti derivanti dal petrolio 100,0 0,0 0,0 0,0 0,0 100,0  64 20.Fabbricazione di prodotti chimici 97,9 1,6 0,0 1,6 0,5 100,0  2.069 21.Fabbricazione di prodotti farmaceutici di base 99,4 0,6 0,0 0,6 0,0 100,0  470 22.Fabbricazione di articoli in gomma e materie plastiche 99,2 0,6 0,0 0,6 0,2 100,0  3.949 23.Fabbr. di altri prodotti della lavor. minerali non metal. 98,2 0,6 0,0 0,6 1,2 100,0  3.400 24.Metallurgia 96,9 2,7 0,0 2,7 0,4 100,0  1.805 25.Fabbricazione prodotti in metallo (escl. macchinari) 98,4 0,5 0,0 0,5 1,1 100,0  18.547 26.Fabbricazione di computer, prod. elettronica e ottica 97,9 1,2 0,0 1,2 0,9 100,0  1.119 27.Fabbricazione di appar. elettriche e per uso domestico 97,5 1,1 0,0 1,1 1,4 100,0  3.589 28.Fabbricazione di macchinari ed apparecchiature nca 98,6 1,1 0,0 1,1 0,2 100,0  10.464 29.Fabbricazione di autoveicoli, rimorchi e semirimorchi 88,7 9,6 0,0 9,6 1,7 100,0   906 30.Fabbricazione di altri mezzi di trasporto 94,4 3,0 0,0 3,0 2,6 100,0  1.422 31.Fabbricazione di mobili 99,1 0,3 0,0 0,3 0,6 100,0  3.645 32.Altre industrie manifatturiere 96,5 0,2 0,0 0,2 3,3 100,0  4.459 33.Riparazione, manutenzione e install. macchine 97,6 0,7 0,0 0,8 1,6 100,0  4.844 35.Fornitura di energia elet., gas, vapore e aria condiz. 96,9 0,3 0,0 0,3 2,8 100,0  635 36.Raccolta, trattamento e fornitura di acqua 99,3 0,4 0,0 0,4 0,4 100,0  280 37.Gestione delle reti fognarie 95,2 0,0 0,0 0,0 4,8 100,0  252 38.Attività di raccolta, trattamento e smaltimento dei rifiuti 99,4 0,1 0,0 0,1 0,4 100,0  2.159 39.Attività di risanamento e altri servizi di gestione dei rifiuti 99,5 0,3 0,0 0,3 0,3 100,0  399 41.Costruzione di edifici 97,5 0,4 0,0 0,4 2,1 100,0  14.262 42.Ingegneria civile 98,0 0,8 0,0 0,8 1,2 100,0  3.533 43.Lavori di costruzione specializzati 97,2 1,5 0,1 1,7 1,2 100,0  28.459 45.Commercio e ripar. autoveicoli 98,7 0,8 0,0 0,8 0,5 100,0  7.438 46.Commercio all'ingrosso 98,1 1,0 0,0 1,0 0,9 100,0  20.387 47.Commercio al dettaglio 97,7 1,9 0,0 1,9 0,3 100,0  42.677 49.Trasporto terrestre 96,8 1,7 0,0 1,7 1,4 100,0  18.429 50.Trasporto marittimo e per vie d'acqua 94,6 0,0 0,0 0,0 5,4 100,0  863 51.Trasporto aereo 31,0 0,0 0,0 0,0 69,0 100,0  294 52.Magazzinaggio e attività di supporto 87,6 7,1 1,2 8,3 4,1 100,0   18.206 53.Servizi postali e attività di corriere 26,8 0,0 0,0 0,0 73,2 100,0  2.454 55.Alloggio 97,4 0,8 1,6 2,4 0,3 100,0  54.042 56.Attività dei servizi di ristorazione 98,6 0,8 0,0 0,8 0,5 100,0  88.826 58.Attività editoriali 85,3 2,8 9,6 12,4 2,3 100,0   428 59.Attività di prod. cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore 97,6 0,0 0,0 0,0 2,4 100,0  9.093 60.Attività di programmazione e trasmissione 75,8 12,1 12,1 24,2 0,0 100,0   66 61.Telecomunicazioni 93,7 6,3 0,0 6,3 0,0 100,0  270 62.Produzione di software, consulenza informatica 97,1 2,2 0,0 2,2 0,8 100,0  4.485 63.Attività dei servizi d'informazione e servizi informatici 74,6 24,2 0,0 24,2 1,3 100,0   1.742 64.Attività di servizi finanziari (escluse i fondi pens.) 96,6 1,7 0,0 1,7 1,7 100,0  1.301 65.Assicurazioni e fondi pensione  95,9 0,2 0,0 0,2 3,9 100,0  484 66.Attività ausiliarie dei servizi finanziari e assic. 95,6 3,0 0,3 3,3 1,1 100,0  1.241 68.Attività immobiliari 89,6 5,9 0,3 6,2 4,1 100,0  2.713 69.Attività legali e contabilità 96,6 1,8 0,0 1,8 1,6 100,0  3.808 70.Attività di direzione az. e consulenza gestionale  89,1 10,2 0,0 10,2 0,7 100,0   3.511 71.Attività degli studi di architettura e d'ingegneria 98,2 1,1 0,1 1,1 0,6 100,0  2.093 72.Ricerca scientifica e sviluppo 96,4 1,8 0,0 1,8 1,8 100,0  330 73.Pubblicità e ricerche di mercato 89,8 9,4 0,0 9,4 0,8 100,0   921 74.Altre attività professionali, scientifiche e tecniche 94,3 4,5 0,0 4,5 1,2 100,0  2.083 75.Servizi veterinari 99,1 0,9 0,0 0,9 0,0 100,0  107 77.Attività di noleggio e leasing operativo 98,1 1,4 0,1 1,5 0,4 100,0  1.871 78.Attività di ricerca, selezione, fornitura di personale  91,2 8,4 0,0 8,4 0,4 100,0   855 79.Attività delle agenzie di viaggio e tour operator 88,3 0,5 0,0 0,5 11,2 100,0  1.335 80.Servizi di vigilanza e investigazione 14,3 69,5 0,0 69,6 16,2 100,0   3.192 81.Attività di servizi per edifici e paesaggio 91,2 5,5 0,6 6,0 2,8 100,0  30.395 82.Attività di supporto per le funzioni d'ufficio 83,0 6,7 1,8 8,5 8,5 100,0   8.543 84.Amministrazione pubblica e difesa 84,8 1,7 0,0 1,7 13,5 100,0  178 85.Istruzione 97,9 0,5 0,0 0,5 1,6 100,0  8.721 86.Assistenza sanitaria 83,2 2,5 0,0 2,5 14,3 100,0  5.244 87.Servizi di assistenza sociale residenziale 85,0 0,1 0,2 0,3 14,7 100,0  6.882 88.Assistenza sociale non residenziale 96,7 0,2 0,0 0,2 3,1 100,0  7.387 90.Attività creative, artistiche e di intrattenimento 75,8 3,9 0,0 3,9 20,3 100,0  5.676 91.Attività di biblioteche, musei ed altre att. culturali 97,8 0,6 0,0 0,6 1,7 100,0  1.072 92.Attività riguardanti le lotterie e le case da gioco 92,3 1,9 0,0 1,9 5,8 100,0  701 93.Attività sportive, di intrattenimento e di divertimento 86,4 2,8 0,0 2,8 10,8 100,0  11.523 94.Attività di organizzazioni associative 82,6 1,7 0,2 1,9 15,5 100,0  4.563 95.Riparazione di computer e di beni personali 96,9 3,1 0,0 3,1 0,0 100,0  510 96.Altre attività di servizi per la persona 97,1 1,4 0,2 1,5 1,4 100,0  10.037 98.Produzione di beni e servizi per uso proprio 100,0 0,0 0,0 0,0 0,0 100,0  32 99.Organizzazioni ed organismi extraterritoriali 7,1 0,0 0,0 0,0 92,9 100,0  126 Totale 92,9 2,0 0,3 2,3 4,9 100,0  624.851 
+          
+*Tempo indeterminato, apprendistato, tempo determinato. 
+Fonte: ns. elab. su dati Silv (estrazione 25 gennaio 2025) 
+ 
+
+ 
+ 
+ 
+13/13 
+ 
+3.  Alcune considerazioni di sintesi 
+Dopo le esplorazioni delle informazioni presenti in Silv sui CCNL applicati alle nuove assunzioni e sinteticamente presentate in questo e nel precedente numero della collana Misure, è opportuno tracciare un primo bilancio rispetto ad alcune questioni fondamentali. Una di queste è certamente quella relativa alla qualità del dato. Per molto tempo l’informazione relativa ai CCNL presente nel Silv non è stata considerata nelle analisi in quanto incompleta e poco significativa. Negli ultimi anni, invece, è aumentata la quantità di CO che riportano l’informazione sul CCNL applicato ai singoli rapporti di lavoro; nel settore privato la percentuale di assunzioni annue che non riporta un contratto univoco ma si rifà ad un’indicazione generica si aggira attorno al 5%. La metà di queste situazioni (ovvero quelle identificate dal codice CD) è riconducibile alle CO per le quali non è stato possibile intercettare il contratto applicato tra quelli disponibili nell’elenco predisposto dal Mlps. Questo rappresenta, inevitabilmente, una prima criticità: la lista di CCNL disponibili per le CO non è allineata con i contratti vigenti del Cnel e i problemi che questa situazione genera sono molteplici. Innanzitutto, chi analizza i dati si trova nella necessità di dover allineare i contratti previsti negli elenchi del Mlps ai contratti del Cnel utilizzando una doppia trasposizione a valere sui codici Inps, con il rischio che questo passaggio determini una significativa perdita di informazioni. Senza poi considerare che, comunque, permane una certa discrasia tra la lista di CCNL fornita dal sistema delle CO e quella vigente del Cnel. La seconda criticità attiene invece, nello specifico, alle scelte delle aziende. Ad esempio, considerando il caso delle CO che riportano un codice CD, l’opzione selezionata dovrebbe essere generalmente riconducibile all’effettiva mancanza dello specifico CCNL tra quelli previsti, tuttavia questo non è sempre vero. Possono esserci infatti delle situazioni per le quali l’effettiva motivazione dipende da altri fattori, che però, il più delle volte, non sono immediatamente desumibili. Al netto di ciò, la distribuzione delle assunzioni che non riportano il CCNL sembra comunque evidenziare l’esistenza di ambiti a tutele deboli, sia perché i settori in cui l’incidenza di CO che non riportano un CCNL sono effettivamente da tempo degli “osservati speciali” quanto a rischio di applicazione di pratiche scorrette, sia perché le caratteristiche dei lavoratori associati a queste CO indicano un’elevata presenza di segmenti della forza lavoro tendenzialmente più vulnerabili. Al fine di approfondire questo filone, ovvero quello delle tutele dei dipendenti, si è provato ad usare come proxy la tipologia dei firmatari dei CCNL per discriminare ulteriori situazioni problematiche. L’idea di fondo è che sigle “forti” sottoscrivano contratti con maggiori tutele e, per contro, dietro alla contrattazione afferente ad alcune sigle meno rappresentative si celino con più facilità le situazioni più problematiche. Il quadro restituito dalle analisi condotte con questo intento evidenzia che la quantità di assunzioni che applicano un contratto firmato da sigle sindacali non confederali è estremamente esiguo e le indicazioni che emergono analizzandole non sono nette. Se è vero che alcune variabili possono confermare l’esistenza di alcune situazioni anomale in corrispondenza dei rapporti di lavoro che applicano CCNL sottoscritti da sigle non confederali, è vero anche che molte di esse sono tutt’altro che deboli, come ad esempio le sigle che rappresentano dirigenti e quadri. D’altro canto, è palese anche che l’applicazione dei CCNL afferenti alle sigle confederali (che può sempre avvenire in modo scorretto) non garantisce di per sé elevati standard lavorativi come, ad esempio, in termini di durata o continuità delle prestazioni. Queste ultime considerazioni conducono inevitabilmente ad una domanda: in che misura una situazione di scarse tutele è determinata da contratti deboli e quanto, invece, da aziende che nell’alveo del CCNL formalmente applicato adottano strategie di reclutamento discutibili? Fino a che punto, una buona contrattazione collettiva può proteggere lavoratori (ed aziende) dai rischi di una scorretta gestione del rapporto di lavoro? Per tentare di rispondere a questa domanda, saranno necessarie ulteriori analisi e nuovi tentativi di esplorazione delle informazioni disponibili.
