@@ -8,11 +8,10 @@ export type DocumentType =
     | 'bollettino'
     | 'misure'
     | 'odg'
-    | 'delibere_approvate'
+    | 'delibera'
     | 'verbale'
     | 'report_economico'
     | 'comunicato_industria'
-    | 'decreto_presidente'
     | 'ordinanza';
 
 export interface DocumentFigure {

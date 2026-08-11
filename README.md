@@ -9,23 +9,26 @@ e li pubblica come sito statico su GitHub Pages.
 
 Il progetto:
 
-1. **Raccoglie documenti** da sei fonti istituzionali del Veneto:
+1. **Raccoglie documenti** da sette fonti istituzionali del Veneto:
    - **Osservatorio Veneto Lavoro** — bollettini periodici sul mercato del lavoro (HTML server-rendered).
-   - **Consiglio comunale di Padova** — ordini del giorno, delibere approvate e verbali stenografici
+   - **Consiglio comunale di Padova** — ordini del giorno e verbali stenografici
      delle sedute (JSON:API Drupal, il sito del Comune è una SPA Angular senza SSR).
+   - **Consiglio comunale di Padova, registro delibere** — testo integrale di ogni deliberazione
+     esecutiva, con relatore, dibattito ed esito nominale della votazione (registro Lotus Domino).
    - **Unioncamere del Veneto** — Barometro mensile dell'economia regionale e indagini
      congiunturali (REST API WordPress).
    - **Confindustria Veneto Est** — comunicati stampa sulla congiuntura industriale di Padova,
      Venezia, Treviso e Rovigo (REST API del backend WordPress headless).
    - **Banca d'Italia** — "L'economia del Veneto", rapporto annuale della collana *Economie
      regionali* (URL deterministico per anno).
-   - **Provincia di Padova** — decreti del Presidente e ordinanze dall'albo pretorio.
+   - **Provincia di Padova** — ordinanze dirigenziali dall'albo pretorio.
 2. **Estrae il testo** e lo salva in `data/documents/<fonte>/<slug>.txt`. Di norma il testo si
    ricava dal PDF; i comunicati di Confindustria non hanno PDF e il testo si prende direttamente
-   dal corpo del post.
+   dal corpo del post; le delibere allegano un Word 97-2003 binario, da cui il testo si estrae
+   senza dipendenze di sistema (`olefile`).
 3. **Arricchisce con Gemini** (opzionale): sintesi, punti chiave, dati quantitativi (bollettini e
-   report economici), elenco delibere (odg/delibere/atti della Provincia), interventi in aula
-   (verbali).
+   report economici), decisioni con proponente ed esito (odg, delibere, ordinanze), interventi in
+   aula (verbali).
 4. **Pubblica** una dashboard React che permette di sfogliare, filtrare e cercare i documenti.
 
 Tutta la pipeline (raccolta, arricchimento, build, deploy) gira su GitHub Actions in cron
@@ -39,6 +42,7 @@ che lo legge via fetch.
 ```
 Veneto Lavoro (HTML accordion)        --\
 Consiglio comunale PD (JSON:API)      --\
+Delibere CC Padova (registro Domino)  --\
 Unioncamere Veneto (WP REST)          --- scripts/docs_scraper.py --> data/documents_index.json
 Confindustria Veneto Est (WP REST)    --/                              + data/documents/**/*.txt
 Banca d'Italia (URL per anno)         --/
@@ -63,10 +67,10 @@ data/documents_index.json --(Gemini)--> scripts/enrich_docs.py --> data/document
   titolo, data, e link al PDF (graceful degradation). Il workflow ruota su fino a 10 chiavi
   (`GEMINI_API_KEY`..`GEMINI_API_KEY10`) per il rate limiting.
 - Ogni `doc_type` usa un prompt dedicato: sui verbali, ad esempio, si estrae `interventions`
-  (chi ha detto cosa in aula). I tipi sono nove, raggruppati per forma dell'output:
+  (chi ha detto cosa in aula). I tipi sono otto, raggruppati per forma dell'output:
   `figures` (dati quantitativi) per `bollettino`, `misure`, `report_economico`,
-  `comunicato_industria`; `decisions` per `odg`, `delibere_approvate`, `decreto_presidente`,
-  `ordinanza`; `interventions` per `verbale`.
+  `comunicato_industria`; `decisions` per `odg`, `delibera`, `ordinanza`;
+  `interventions` per `verbale`.
   Un `doc_type` senza voce in `PROMPTS` viene saltato ma resta `summary=None`, quindi rientra nella
   coda a ogni run consumando il budget `--limit`: aggiungendo un tipo, aggiornare sempre `PROMPTS`
   e `PROFILES` in `scripts/enrich_docs.py`.

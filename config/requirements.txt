@@ -2,3 +2,4 @@ requests
 python-dotenv
 pypdf
 beautifulsoup4
+olefile

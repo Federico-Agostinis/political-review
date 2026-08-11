@@ -1,0 +1,371 @@
+COMUNE DI PADOVA
+SEGRETERIA GENERALE
+____________
+
+
+
+DELIBERAZIONE DEL CONSIGLIO COMUNALE
+
+N. 2026/0045 di Reg. 					Seduta del 15/06/2026
+
+OGGETTO:
+AGENDA 2030 – OBIETTIVI 7-11-13.  PROGRAMMA DI FINANZIAMENTO DI INTERVENTI INSERITI NEI CLIMATE CITY CONTRACT - DECRETO MASE N.558 DEL 19/12/2025. DELEGA DI FUNZIONI AD APS HOLDING SPA PER L’ATTUAZIONE DELLA PROPOSTA PROGETTUALE RELATIVA ALLA REALIZZAZIONE DI UN IMPIANTO FOTOVOLTAICO SU PENSILINA PRESSO IL PARCHEGGIO D’INTERSCAMBIO DELLA LINEA TRANVIARIA SIR3 IN LOCALITÀ VOLTABAROZZO. APPROVAZIONE SCHEMA DI CONVENZIONE CON CONTESTUALE VARIAZIONE DI BILANCIO 2026/2028. CUP H93D26000040001 .
+
+___________________________
+
+L’anno 2026, il giorno quindici del mese di giugno alle ore 18.14, convocato su determinazione del Presidente con avviso spedito nei modi e termini di legge, il Consiglio Comunale si è riunito presso la sede di Palazzo Moroni, nella sala delle adunanze aperta al pubblico.
+Alla trattazione dell’argomento in oggetto, in seduta pubblica , risultano presenti ed assenti:
+
+
+Il Sindaco  GIORDANI SERGIO
+
+e le/i Consigliere/i:
+
+N.
+NOME E COGNOME
+
+N.
+NOME E COGNOME
+
+
+01.
+BEAN PIETRO
+
+17.
+GALLANI CHIARA
+
+
+02.
+BERNO GIANNI
+
+18.
+SCARSO MERI
+
+
+03.
+ANDREELLA ELVIRA DETTA ETTA
+
+19.
+FORESTA ANTONIO
+
+
+04.
+BARZON ANNA
+
+20.
+CAVATTON MATTEO
+
+
+05.
+BRUNI FEDERICA
+
+21.
+TURRIN ENRICO
+
+
+06.
+CONCOLATO MARCO DETTO MAC
+
+22.
+CAPPELLINI ELENA
+
+
+07.
+TISO NEREO
+Ag
+23.
+PEGHIN FRANCESCO
+Ag
+
+08.
+TOGNON ALESSANDRO
+
+24.
+MAZZAROLLI LUDOVICO
+Ag
+
+09.
+GABELLI GIOVANNI
+
+25.
+CRUCIATO ROBERTO
+
+
+10.
+COPPO CATERINA
+
+26.
+MENEGHINI DAVIDE
+
+
+11.
+CACCIAVILLANI BRUNO
+
+27.
+MOSCO ELEONORA
+A
+
+12.
+PASQUALETTO CARLO
+Ag
+28.
+LONARDI UBALDO
+
+
+13.
+DE LAZZARI FRANCA
+
+29.
+MONETA ROBERTO CARLO
+
+
+14.
+TIBERIO IVO
+
+30.
+TARZIA LUIGI
+
+
+15.
+ALBERTI ELENA
+
+31.
+BATTISTELLA VALENTINA
+
+
+16.
+NALIN MARTA
+
+32.
+BIANZALE MANUEL
+
+
+
+e pertanto complessivamente presenti n. 28  e assenti n. 5 componenti del Consiglio.
+
+Sono presenti le/gli Assessore/i:
+BRESSA ANTONIO
+
+BISATO LUIGI ALESSANDRO
+
+
+PIVA CRISTINA
+
+RAGONA ANDREA
+
+
+COLASIO ANDREA
+Ag
+CERA MARGHERITA
+
+
+BONAVINA DIEGO
+A
+COLONNELLO MARGHERITA
+Ag
+
+BENCIOLINI FRANCESCA
+Ag
+
+
+
+
+Presiede: Il Presidente del Consiglio  Antonio Foresta
+Partecipa:  Il Segretario Generale  Claudio Chianese
+
+La seduta è legale.
+
+Sono designati a fungere da scrutatrici/scrutatori le/i Consigliere/i:
+1) Barzon Anna
+2) Battistella Valentina
+
+Il Presidente pone in discussione l'argomento iscritto al n. 97 dell'O.d.g., dando la parola all'Assessore Andrea Ragona, il quale illustra la seguente relazione in precedenza distribuita ai Consiglieri:
+
+
+Signore consigliere, Signori consiglieri,
+il Ministero dell’Ambiente e della Sicurezza Energetica (MASE) con proprio decreto n. 558 del 19 dicembre 2025 ha istituito il “Programma di finanziamento di interventi inseriti nei Climate City Contract”, finalizzato a sostenere le nove città italiane selezionate nell’ambito della Missione europea “Città intelligenti e a impatto climatico zero” (tra cui Padova) attraverso il finanziamento di interventi coerenti con i rispettivi Climate City Contract nei settori delle energie rinnovabili, dell’efficienza energetica e della mobilità sostenibile.
+Il Programma si inserisce nel quadro delle politiche nazionali ed europee per il raggiungimento degli obiettivi di neutralità climatica e per l'attuazione delle azioni previste dai Climate City Contract (CCC). Il CCC della Città di Padova è stato approvato dalla Commissione europea in data 07/05/2025, con il conferimento della relativa certificazione e con deliberazione del Consiglio comunale n. 4 del 02/02/2026 lo stesso è stato formalmente recepito e approvato dall’Amministrazione. Il Programma dispone di una dotazione finanziaria complessiva pari a euro 11.849.400,00.=, ripartita in misura uguale tra i nove Comuni beneficiari, per un importo massimo assegnabile di euro 1.316.600,00.= per ciascun ente. Il Decreto prevedeva la presentazione da parte dei Comuni di specifiche proposte progettuali, la successiva valutazione da parte del Ministero sulla base di criteri di sostenibilità tecnico-economica e di efficacia nella riduzione delle emissioni climalteranti.
+Il progetto concepito dagli uffici comunali ha tenuto conto dell’imminente completamento della linea tranviaria SIR3, azione strategica prevista dal CCC, volta a concorrere in modo rilevante alla riduzione delle emissioni climalteranti del territorio, ma che determinerà, al contempo, un incremento dei fabbisogni di energia elettrica per garantire l’operatività del servizio. La proposta prevede pertanto la realizzazione di un impianto fotovoltaico su pensiline presso il parcheggio d’interscambio di Voltabarozzo, nonché capolinea della SIR3, della potenza complessiva pari a 614 kWp, in grado di garantire molteplici benefici, tra cui il parziale soddisfacimento dei fabbisogni di energia elettrica della nuova linea tranviaria, con conseguente riduzione dell’impronta carbonica dell’opera, nonché l’ombreggiamento e la protezione degli stalli di sosta, a vantaggio degli utenti finali. 
+Con delibera di Giunta comunale n. 197 del 31/03/2026 è stata autorizzata la trasmissione al Ministero dell’Ambiente e della Sicurezza Energetica della documentazione progettuale predisposta dal competente Settore Ambente e Territorio, per un importo complessivo stimato pari a Euro 1.316.600,00. L’opera risulterebbe così integralmente finanziata a valere sulle risorse del MASE. 
+Il Comune di Padova ha trasmesso la propria proposta di intervento, ai sensi dell’art. 4 del Programma, in data 02/04/2026 (prot. 180523 del 02/04/2026) con successiva integrazione inviata in data 15/05/2026 (prot. 259940 del 15/05/2026), su richiesta del MASE.
+Con Decreto Direttoriale del Ministero dell’Ambiente e della Sicurezza Energetica n. 184 del 26 maggio 2026, recante “Approvazione degli esiti di valutazione delle proposte di intervento e determinazione e assegnazione definitiva delle risorse finanziarie”, a seguito dell’istruttoria svolta dalla Commissione tecnica di valutazione appositamente istituita dal Ministero, sono stati approvati gli esiti della valutazione delle proposte presentate dai nove Comuni italiani partecipanti alla Missione europea “Città intelligenti e a impatto climatico zero”, disponendone l’ammissione a finanziamento. Al Comune di Padova è stato assegnato, in via definitiva, il contributo di euro 1.316.600,00.= per la realizzazione dell’intervento denominato “Realizzazione di un impianto fotovoltaico su pensilina presso il parcheggio d’interscambio della linea tranviaria SIR3 a Padova”, identificato dal CUP H93D26000040001. Il Decreto prevede la successiva sottoscrizione di un Accordo di Programma tra il Ministero dell’Ambiente e della Sicurezza Energetica e ciascun Comune beneficiario, finalizzato a disciplinare le modalità di attuazione degli interventi finanziati, il cronoprogramma delle attività, le modalità di erogazione delle risorse, nonché gli obblighi di monitoraggio e rendicontazione.
+L’Accordo di Programma prevede, all’articolo 7, che il Comune beneficiario possa avvalersi, ai fini dell’attuazione degli interventi finanziati, di propri organismi in house, nonché di società o enti strumentali sui quali eserciti un controllo analogo a quello esercitato sui propri servizi, nel rispetto della normativa nazionale ed europea vigente. I medesimi soggetti possono altresì assumere il ruolo di soggetto partner per la realizzazione degli interventi. Resta in ogni caso fermo che il Comune mantiene la piena titolarità del finanziamento ed è l’unico soggetto responsabile nei confronti del Ministero dell’Ambiente e della Sicurezza Energetica della corretta attuazione dell’intervento, dell’adempimento degli obblighi di monitoraggio e rendicontazione e di ogni altro obbligo derivante dal Programma e dall’Accordo di Programma.
+CONSIDERATO che l’intervento finanziato consiste nella realizzazione di un impianto fotovoltaico su pensiline presso il parcheggio d’interscambio della linea tranviaria SIR3 in località Voltabarozzo, infrastruttura strettamente funzionale al sistema di trasporto pubblico locale
+DATO ATTO che APS Holding S.p.A., società interamente partecipata dal Comune di Padova, svolge il ruolo di soggetto attuatore della linea tranviaria SIR3 ed è in possesso delle competenze tecniche, organizzative e gestionali necessarie alla progettazione, realizzazione e gestione delle opere e degli impianti connessi al servizio tranviario;
+RILEVATO che l’impianto fotovoltaico oggetto di finanziamento è destinato a contribuire al soddisfacimento dei fabbisogni energetici della nuova linea tranviaria e risulta pertanto strettamente integrato, sotto il profilo funzionale, gestionale ed operativo, con le infrastrutture e gli impianti già affidati ad APS Holding S.p.A.;
+RITENUTO, pertanto, che l’individuazione di APS Holding S.p.A, quale soggetto attuatore dell’intervento, garantisca il necessario coordinamento tecnico e amministrativo tra la realizzazione dell’infrastruttura tranviaria e l’esecuzione dell’impianto fotovoltaico, assicurando al contempo il rispetto dei principi di efficacia, efficienza, economicità e buon andamento dell’azione amministrativa;
+Si propone quindi di delegare ad APS Holding S.p.A. lo svolgimento delle attività tecniche, amministrative ed operative necessarie alla progettazione, affidamento, esecuzione, monitoraggio e rendicontazione dell’intervento, mantenendo in capo al Comune di Padova la titolarità del finanziamento, le funzioni di indirizzo e controllo e ogni responsabilità nei confronti del Ministero dell’Ambiente e della Sicurezza Energetica;
+Per poter procedere alla stipula di apposita convenzione tra il Comune, soggetto destinatario del finanziamento, e APS Holding SpA, soggetto realizzatore dell’intervento è necessario provvedere ad un’apposita delega delle funzioni pubbliche di seguito individuate:
+assicurare, per le attività di propria competenza, il rispetto di tutte le disposizioni previste dalla normativa comunitaria e nazionale, dal decreto direttoriale del MASE n. 558 del 19 dicembre 2025 e dall’Accordo di programma sottoscritto tra il MASE ed il Comune di Padova;
+garantire, per le attività di propria competenza, la piena attuazione dell’intervento così come illustrato nella proposta progettuale presentata al MASE, assicurando l’avvio tempestivo delle attività per non incorrere in ritardi attuativi e concluderli nella forma, nei modi e nei tempi previsti, nel rispetto del relativo cronoprogramma, sottoponendo le eventuali modifiche progettuali al Comune;
+adottare un sistema di contabilità separata o una codificazione contabile adeguata a tutte le spese relative al progetto;
+assicurare lo svolgimento dei controlli di gestione, dei controlli amministrativo-contabili o delle diverse tipologie di controlli previsti dalla legislazione unionale/nazionale applicabile, per garantire la regolarità delle procedure e delle spese sostenute prima di trasmetterle al Comune, responsabile della rendicontazione, nonché la riferibilità delle spese al progetto ammesso al finanziamento;
+trasmettere al Comune la rendicontazione delle spese effettivamente sostenute e la documentazione probatoria pertinente a comprova del conseguimento degli obiettivi raggiunti;
+garantire il rispetto degli adempimenti in materia di trasparenza amministrativa ex D.lgs. 25 maggio 2016, n. 97 e ss.mm.ii;
+dare visibilità al progetto finanziato in conformità agli obblighi in materia di informazione e disseminazione previsti dal Decreto MASE n. 558 del 19 dicembre 2025 e dall’Accordo di programma all’art. 14;
+assicurare la tempestiva trasmissione al Comune dei dati di monitoraggio, garantendone la correttezza, l’affidabilità e la congruenza al tracciato informativo previsto dal MASE, al fine di consentire la rilevazione dei dati di monitoraggio finanziario, fisico e procedurale, e di quelli che comprovano il conseguimento degli obiettivi dei progetti;
+corrispondere, in qualsiasi fase del procedimento, a tutte le richieste di informazioni, dati e documenti disposte dal MASE o dal Comune di Padova;
+consentire e favorire, per le proprie attività di competenza e in ogni fase del procedimento, lo svolgimento di tutti i controlli, ispezioni e monitoraggi disposti dal MASE o dal Comune di Padova;
+individuare, per le attività di propria competenza, eventuali fattori che possano determinare ritardi che incidano in maniera considerevole sulla tempistica attuativa e di spesa, definita nel cronoprogramma, relazionando al Comune sugli stessi;
+rispettare le normative in materia di tutela ambientale, sicurezza e tutela della salute nei luoghi di lavoro, le normative per le pari opportunità tra uomo e donna nonché le disposizioni in materia di contrattazione collettiva nazionale del lavoro e osservare le norme dell’ordinamento giuridico italiano in materia previdenziale, assistenziale ed assicurativa (nei confronti di INPS e INAIL), di inserimento dei disabili, edilizia, urbanistica e di tutela ambientale;
+restituire eventuali somme oggetto di provvedimento di decadenza;
+assicurare l’indicazione del codice unico di progetto (CUP) assegnato su tutti gli atti amministrativo/contabili e il “CIG”;
+soddisfare il principio DNSH (Do Not Significant Harm) e rispettare il principio di immunizzazione degli investimenti per gli interventi infrastrutturali dagli effetti del clima, attraverso la verifica climatica;
+garantire il rispetto della normativa vigente di riferimento in relazione alle procedure di appalto utilizzate;
+assicurare, ove pertinente, il rispetto della normativa vigente sugli aiuti di Stato.
+S’informa che a seguito dell’approvazione e autorizzazione alla delega di funzione e all’individuazione del RUP nell’ambito dell’organigramma della società APS Holding SpA, si provvederà alla stipula della soprarichiamata Convenzione, utilizzando lo schema allegato al presente provvedimento, che potrà essere oggetto di eventuali ulteriori modifiche e/o aggiornamenti non sostanziali da parte del Capo Settore Ambiente e Territorio;
+Ritenuto pertanto di prendere atto di quanto sopra e di approvare e autorizzare la delega di funzione ad APS Holding SpA da parte del Comune, consistente nell’attuazione del progetto oggetto della presente deliberazione, nonché di autorizzare contestualmente che il RUP per la gestione e il coordinamento delle attività sia individuato in un dirigente di APS Holding SpA;
+RICHIAMATE:
+le deliberazioni di Consiglio Comunale n. 114 e 115 del 15/12/2025, con le quali sono stati approvati rispettivamente il D.U.P. (Documento Unico di Programmazione) 2026-2027 ed il Bilancio di Previsione 2026-2028; 
+la deliberazione della Giunta Comunale n. 0781 del 23/12/2025, con la quale è stato approvato il PEG (Piano esecutivo di Gestione) 2026-2028; 
+Tutto ciò premesso, si sottopone alla Vostra approvazione il seguente ordine del giorno;
+IL CONSIGLIO COMUNALE
+VISTO l’art. 42, comma 2, lettera e) del Decreto Legislativo 18.8.2000 n. 267; 
+PRESO atto dei pareri riportati in calce (***) espressi sulla proposta di deliberazione ai sensi dell’art. 49 e dell’art. 97, comma 4, lettera a) del Decreto Legislativo 18.8.2000 n. 267;
+D E L I B E R A
+di approvare e autorizzare, per i motivi enunciati in premessa, che si intendono qui richiamati, la delega di funzione ad APS Holding SpA consistente nell’attuazione del progetto relativo alla realizzazione di un impianto fotovoltaico su pensilina presso il parcheggio d’interscambio della linea tranviaria SIR3 in località Voltabarozzo; 
+di approvare lo schema Convenzione tra il Comune di Padova, soggetto destinatario del finanziamento, e APS Holding SpA, soggetto realizzatore dell’intervento;
+di stabilire che il Sindaco del Comune di Padova è delegato a sottoscrivere la Convenzione con APS Holding Spa che si approva con il presente provvedimento;
+di approvare e autorizzare di conseguenza, per i motivi enunciati in premessa, che il RUP per la gestione e il coordinamento delle attività del Progetto in parola sia individuato in un dirigente di APS Holding SpA;
+di dare atto che l’importo complessivo per la realizzazione del progetto è pari a Euro 1.316.600,00.= (IVA inclusa) finanziato interamente dal MASE;
+di approvare la variazione al bilancio di previsione 2026/2028 come specificato nell’allegato che è parte integrante del presente provvedimento;
+di dare atto che a seguito della variazione proposta sono mantenuti gli equilibri di bilancio in termini di competenza e di cassa;
+il Capo Settore competente provvederà all’esecuzione ai sensi e per gli effetti dell’art. 107 del D.Lgs 267/2000.
+
+____________________________________________
+(***)PARERI SULLA PROPOSTA DI DELIBERAZIONE
+
+1) Parere favorevole in ordine alla regolarità tecnico-amministrativa. Visto generato automaticamente dal sistema informatico del Comune di Padova ai sensi dell'art. 3 del D. Lgs. 39/93 – firma autografa omessa.
+
+
+
+
+08/06/2026
+Il Capo Settore
+Laura Salvatore
+
+
+
+2) Parere favorevole in ordine alla regolarità tecnico-amministrativa relativamente alla variazione di bilancio. Visto generato automaticamente dal sistema informatico del Comune di Padova ai sensi dell'art. 3 del D. Lgs. 39/93 – firma autografa omessa.
+
+
+
+
+08/06/2026
+Il Capo Settore
+Pietro Lo Bosco
+
+
+
+3) Parere favorevole in ordine alla regolarità contabile. Visto generato automaticamente dal sistema informatico del Comune di Padova ai sensi dell'art. 3 del D. Lgs. 39/93 – firma autografa omessa.
+
+
+
+
+08/06/2026
+Il Ragioniere Capo
+Pietro Lo Bosco
+
+
+
+4) Su richiesta si esprime, ai sensi dell'art. 97 del D.Lgs. 18.8.2000 n. 267, il parere che nella proposta in oggetto non si evidenziano vizi di legittimità. Visto generato automaticamente dal sistema informatico del Comune di Padova ai sensi dell'art. 3 del D. Lgs. 39/93 – firma autografa omessa.
+
+
+
+
+09/06/2026
+Il Segretario Generale
+Claudio Chianese
+
+
+
+5) Il Collegio dei Revisori dei Conti con verbale n. 72 del 10/06/2026 esprime parere favorevole in ordine alla presente deliberazione così come proposto dalla Giunta Comunale in ottemperanza dell'art. 77 del Regolamento Comunale di contabilità. Visto generato automaticamente dal sistema informatico del Comune di Padova ai sensi dell'art. 3 del D. Lgs. 39/93 – firma autografa omessa.
+
+
+
+
+11/06/2026
+Il Revisore dei Conti
+Miriam Palma
+
+
+________________________________
+
+
+OMISSIS
+
+Il Presidente dichiara aperta la discussione.
+
+	Intervengono i Consiglieri Concolato e Gabelli; segue la replica dell’Assessore Ragona.
+
+Nessun altro avendo chiesto di parlare, il Presidente pone in votazione con il sistema elettronico la proposta all’ordine del giorno.
+
+Con l’assistenza degli Scrutatori si accerta il seguente risultato:
+
+	Presenti 	n. 	28
+
+Voti favorevoli	n. 18	(Alberti, Andreella, Barzon, Bean, Berno, Bruni, Cacciavillani, Concolato, Coppo, De Lazzari, Foresta, Gabelli, Gallani, Giordani, Nalin, Scarso, Tiberio e Tognon)
+Astenuti	n. 10	(Battistella, Bianzale, Cappellini, Cavatton, Cruciato, Lonardi, Meneghini, Moneta, Tarzia e Turrin)
+
+Il Presidente proclama l’esito della votazione e dichiara approvata la proposta in oggetto.
+
+Il Presidente pone quindi in votazione con il sistema elettronico, l’immediata eseguibilità del presente provvedimento e, con l’assistenza degli Scrutatori, si accerta il seguente risultato:
+
+Con l’assistenza degli Scrutatori si accerta il seguente risultato:
+
+	Presenti 	n. 	28
+
+Voti favorevoli	n. 18	(Alberti, Andreella, Barzon, Bean, Berno, Bruni, Cacciavillani, Concolato, Coppo, De Lazzari, Foresta, Gabelli, Gallani, Giordani, Nalin, Scarso, Tiberio e Tognon)
+Astenuti	n. 10	(Battistella, Bianzale, Cappellini, Cavatton, Cruciato, Lonardi, Meneghini, Moneta, Tarzia e Turrin)
+
+	Il Presidente proclama l’esito della votazione e dichiara immediatamente eseguibile la proposta in oggetto, ai sensi dell’art. 134 del D.Lgs. 18/08/2000 n. 267.
+
+
+
+
+
+
+Letto, approvato e sottoscritto.
+
+
+IL PRESIDENTE DEL CONSIGLIO
+Antonio Foresta
+
+
+IL SEGRETARIO GENERALE
+Claudio Chianese
+
+
+
+
+La presente deliberazione viene pubblicata all’Albo Pretorio per 15 gg. consecutivi dal 18/06/2026 al 02/07/2026, ai sensi e per gli effetti dell’art. 124 del D.Lgs. 18/08/2000 n. 267.
+
+
+
+
+
+IL FUNZIONARIO CON E.Q.A.P.
+Silvia Greguolo
+
+
+
+
+
+
+E' divenuta ESECUTIVA, ai sensi dell'art. 134 del D.Lgs. 18/08/2000 n. 267 il giorno 29/06/2026.
+
+
+
+
+
+Il Funzionario E.Q.A.P.
+Silvia Greguolo
+
+
+
+
+
+
+
+
+La presente deliberazione è stata pubblicata all'Albo on line per 15 gg. consecutivi dal 18/06/2026 al 02/07/2026.

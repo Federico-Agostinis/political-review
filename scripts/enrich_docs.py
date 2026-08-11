@@ -47,13 +47,14 @@ PROFILES = {
     "bollettino":         {"max_chars": 25000,  "max_output_tokens": 2048},
     "misure":             {"max_chars": 25000,  "max_output_tokens": 2048},
     "odg":                {"max_chars": 25000,  "max_output_tokens": 4096},
-    "delibere_approvate": {"max_chars": 25000,  "max_output_tokens": 4096},
+    # Un atto singolo sta sui 10k caratteri, ma le varianti urbanistiche con
+    # controdeduzioni arrivano a molto di piu'.
+    "delibera":           {"max_chars": 60000,  "max_output_tokens": 4096},
     "verbale":            {"max_chars": 400000, "max_output_tokens": 8192},
     # I rapporti annuali di Banca d'Italia sono ~100 pagine: servono piu' input
     # e piu' spazio in uscita per le figures.
     "report_economico":   {"max_chars": 120000, "max_output_tokens": 4096},
     "comunicato_industria": {"max_chars": 25000, "max_output_tokens": 2048},
-    "decreto_presidente": {"max_chars": 25000,  "max_output_tokens": 2048},
     "ordinanza":          {"max_chars": 25000,  "max_output_tokens": 2048},
 }
 DEFAULT_PROFILE = {"max_chars": 25000, "max_output_tokens": 2048}
@@ -79,7 +80,7 @@ In "figures" riporta i dati quantitativi salienti: assunzioni, cessazioni, saldo
 DOCUMENTO ({title}):
 {text}"""
 
-PROMPT_DELIBERE = """Sei un analista di politica locale. Analizza questo documento del Consiglio comunale di Padova.
+PROMPT_ODG = """Sei un analista di politica locale. Analizza questo ordine del giorno del Consiglio comunale di Padova.
 
 {rules}
 
@@ -92,6 +93,24 @@ Schema richiesto:
 }}
 
 Elenca in "decisions" TUTTI i punti presenti nel documento, nell'ordine in cui compaiono.
+
+DOCUMENTO ({title}):
+{text}"""
+
+PROMPT_DELIBERA = """Sei un analista di politica locale. Analizza il testo integrale di questa deliberazione del Consiglio comunale di Padova.
+
+{rules}
+
+Schema richiesto:
+{{
+  "summary": "sintesi di 3-5 frasi: cosa dispone la delibera, perché, e come si è conclusa la votazione",
+  "key_points": ["3-6 punti chiave su contenuto del provvedimento, effetti pratici e andamento del dibattito"],
+  "decisions": [{{"numero": "numero di registro della delibera (formato AAAA/NNNN)", "oggetto": "oggetto della deliberazione", "proponente": "nome e cognome del relatore o proponente politico, non il settore", "esito": "approvata/respinta/rinviata, con i conteggi di voto se presenti (es. 'approvata: 15 favorevoli, 2 astenuti')"}}],
+  "entities": {{"people": ["relatore, consiglieri intervenuti e citati"], "organizations": ["enti, società partecipate e associazioni coinvolte"], "locations": ["zone, quartieri e vie di Padova citati"]}}
+}}
+
+Il documento contiene l'elenco nominale di presenti e assenti: NON riportarlo in "people", che deve contenere solo chi ha un ruolo attivo (relatore, intervenuti nel dibattito, persone citate nel merito).
+In "decisions" inserisci una sola voce, quella della delibera stessa.
 
 DOCUMENTO ({title}):
 {text}"""
@@ -130,7 +149,7 @@ In "figures" riporta i dati quantitativi salienti: produzione industriale, expor
 DOCUMENTO ({title}):
 {text}"""
 
-PROMPT_ATTO_PROVINCIA = """Sei un analista di politica locale. Analizza questo atto della Provincia di Padova (decreto del Presidente o ordinanza) pubblicato all'albo pretorio.
+PROMPT_ATTO_PROVINCIA = """Sei un analista di politica locale. Analizza questa ordinanza della Provincia di Padova pubblicata all'albo pretorio.
 
 {rules}
 
@@ -148,15 +167,14 @@ DOCUMENTO ({title}):
 PROMPTS = {
     "bollettino": PROMPT_BOLLETTINO,
     "misure": PROMPT_BOLLETTINO,
-    "odg": PROMPT_DELIBERE,
-    "delibere_approvate": PROMPT_DELIBERE,
+    "odg": PROMPT_ODG,
+    "delibera": PROMPT_DELIBERA,
     "verbale": PROMPT_VERBALE,
     # Un doc_type assente da questa mappa viene saltato ma resta summary=None:
     # rientrerebbe nella coda pending a ogni run, bruciando il budget --limit
     # senza mai riuscire. Ogni nuovo doc_type va aggiunto qui.
     "report_economico": PROMPT_REPORT_ECONOMICO,
     "comunicato_industria": PROMPT_REPORT_ECONOMICO,
-    "decreto_presidente": PROMPT_ATTO_PROVINCIA,
     "ordinanza": PROMPT_ATTO_PROVINCIA,
 }
 

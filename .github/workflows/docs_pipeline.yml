@@ -1,19 +1,50 @@
 name: Aggiornamento Documenti Istituzionali
 
 on:
-  # Permette di eseguire il workflow manualmente dalla UI di GitHub
-  workflow_dispatch: # Esegue il workflow in automatico ogni giorno alle 07:00 CET (06:00/07:00 UTC depending on DST)
-
-  # Impostato a 05:00 UTC per essere circa alle 07:00 CET (considerando ora legale)
+  # Esegue in automatico ogni giorno alle 05:00 UTC (~07:00 CET con l'ora legale).
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 1 * * *"
 
-permissions:
-  contents: write
+  # Un push che tocca solo il frontend ripubblica il sito senza rifare
+  # scraping e LLM: lo stato viene ripristinato e ripubblicato identico.
+  push:
+    branches: [main]
+    paths:
+      - "dashboard-v2/**"
+      - "index.html"
+      - ".github/workflows/docs_pipeline.yml"
+
+  # Permette di eseguire il workflow manualmente dalla UI di GitHub.
+  workflow_dispatch:
+    inputs:
+      skip_scrape:
+        description: "Salta raccolta e arricchimento (solo rebuild e redeploy)"
+        type: boolean
+        default: false
+
+# Nessun permesso di default: ogni job dichiara il minimo che gli serve.
+permissions: {}
+
+# I deploy non si sovrappongono. cancel-in-progress resta false: un run
+# potrebbe essere a metà dell'upload dello snapshot sulla release.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  STATE_TAG: data-snapshot
+  STATE_ASSET: data.tar.gz
+  # Sotto questa soglia l'indice ripristinato è considerato corrotto o
+  # parziale e il run si ferma. Valore attuale reale: 264 documenti.
+  MIN_DOCS: "200"
 
 jobs:
-  run-docs-pipeline:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      # Serve SOLO a `gh release upload` sul tag data-snapshot.
+      # Nessuno step di questo workflow committa o pusha.
+      contents: write
     steps:
       - name: Checkout del repository
         uses: actions/checkout@v4
@@ -26,6 +57,57 @@ jobs:
       - name: Installazione dipendenze Python
         run: pip install -r config/requirements.txt
 
+      # ------------------------------------------------------------------
+      # RIPRISTINO STATO — il cuore della pipeline.
+      # data/documents_index.json non è un report: è il registro di dedup
+      # dello scraper (load_index -> known = {content_hash}) e l'accumulatore
+      # dell'arricchimento Gemini, che procede a 10 documenti per run.
+      # Senza ripristino lo scraper ripartirebbe da zero, riscaricando tutto,
+      # e l'arricchimento accumulato andrebbe perso.
+      # Catena: release asset -> snapshot su Pages -> data/ dal checkout.
+      # ------------------------------------------------------------------
+      - name: Ripristino stato pipeline
+        id: restore
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          owner=$(echo "${GITHUB_REPOSITORY%%/*}" | tr '[:upper:]' '[:lower:]')
+          repo="${GITHUB_REPOSITORY#*/}"
+          pages_url="https://${owner}.github.io/${repo}/${STATE_ASSET}"
+          src=none
+
+          if gh release download "${STATE_TAG}" --pattern "${STATE_ASSET}" \
+               --output /tmp/state.tgz --clobber 2>/dev/null; then
+            src=release
+          elif curl -fsSL --retry 3 --retry-delay 5 "${pages_url}" -o /tmp/state.tgz; then
+            echo "::warning::Release asset non disponibile: fallback sullo snapshot pubblicato su Pages"
+            src=pages
+          elif [ -f data/documents_index.json ]; then
+            echo "::warning::Release e Pages non disponibili: uso il data/ del checkout (stato potenzialmente vecchio)"
+            src=checkout
+          else
+            echo "::error::Stato NON ripristinato da nessuna fonte. Nessun deploy."
+            exit 1
+          fi
+
+          if [ "$src" != checkout ]; then
+            tar -tzf /tmp/state.tgz > /dev/null   # il tarball è integro?
+            rm -rf data                           # niente merge con lo stato del checkout
+            tar -xzf /tmp/state.tgz               # membri: data/...
+          fi
+
+          total=$(jq -r '.documents | length' data/documents_index.json)
+          txt=$(find data/documents -name '*.txt' 2>/dev/null | wc -l)
+
+          if [ "$total" -lt "${MIN_DOCS}" ]; then
+            echo "::error::Indice sospetto: $total documenti < soglia ${MIN_DOCS}. Nessun deploy."
+            exit 1
+          fi
+
+          echo "Stato ripristinato da '$src': $total documenti, $txt testi"
+          { echo "total=$total"; echo "txt=$txt"; } >> "$GITHUB_OUTPUT"
+
       - name: Raccolta documenti istituzionali (fail-safe)
         # Sei fonti: Veneto Lavoro, Consiglio comunale di Padova, Unioncamere del
         # Veneto, Confindustria Veneto Est, Banca d'Italia, Provincia di Padova.
@@ -36,11 +118,13 @@ jobs:
         # run, quindi un timeout a metà download perderebbe tutto il lavoro e il
         # run si ripeterebbe identico ogni giorno. Il limite tiene la durata
         # bounded; un eventuale arretrato si smaltisce nei giorni successivi.
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
         run: python scripts/docs_scraper.py --limit 80
         timeout-minutes: 15
         continue-on-error: true
 
       - name: Arricchimento LLM documenti (opzionale)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEY2: ${{ secrets.GEMINI_API_KEY2 }}
@@ -56,6 +140,57 @@ jobs:
         timeout-minutes: 20
         continue-on-error: true
 
+      # ------------------------------------------------------------------
+      # GUARDIA 1: lo stato non deve essere regredito né corrotto.
+      # Gli step sopra sono continue-on-error, quindi possono essere stati
+      # uccisi a metà di json.dump() lasciando un indice troncato (save_index
+      # apre in "w", non è una scrittura atomica).
+      # Questo step NON è continue-on-error: se fallisce, niente upload sulla
+      # release e — via `needs: build` — niente deploy.
+      # ------------------------------------------------------------------
+      - name: Validazione stato post-pipeline
+        env:
+          BEFORE_TOTAL: ${{ steps.restore.outputs.total }}
+          BEFORE_TXT: ${{ steps.restore.outputs.txt }}
+        run: |
+          set -euo pipefail
+          jq -e '.documents | type == "array"' data/documents_index.json > /dev/null
+          total=$(jq -r '.documents | length' data/documents_index.json)
+          decl=$(jq -r '.total' data/documents_index.json)
+          txt=$(find data/documents -name '*.txt' | wc -l)
+          enr=$(jq -r '[.documents[] | select(.summary)] | length' data/documents_index.json)
+
+          [ "$total" = "$decl" ] || { echo "::error::Indice incoerente: total=$decl, documents=$total"; exit 1; }
+          # L'indice non può rimpicciolirsi: MAX_DOCUMENTS_PER_SOURCE cappa per
+          # fonte, ma il totale resta al cap, non scende.
+          [ "$total" -ge "$BEFORE_TOTAL" ] || { echo "::error::Regressione indice: $BEFORE_TOTAL -> $total"; exit 1; }
+          [ "$txt" -ge "$BEFORE_TXT" ]     || { echo "::error::Regressione testi: $BEFORE_TXT -> $txt"; exit 1; }
+
+          echo "OK: $total documenti (+$((total - BEFORE_TOTAL))), $txt testi, $enr arricchiti"
+
+      - name: Creazione snapshot dello stato
+        run: |
+          set -euo pipefail
+          tar --owner=0 --group=0 --numeric-owner -czf "/tmp/${STATE_ASSET}" data
+          ls -lh "/tmp/${STATE_ASSET}"
+
+      # Persistenza PRIMA della build del frontend: se `npm run build` si
+      # rompe, i documenti scaricati oggi non vanno persi comunque.
+      # Saltata sui run che non producono dati nuovi (push / skip_scrape):
+      # riscrivere l'asset sarebbe solo rischio gratuito.
+      - name: Persistenza stato su release asset
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release view "${STATE_TAG}" > /dev/null 2>&1 || \
+            gh release create "${STATE_TAG}" \
+              --title "Snapshot stato pipeline" \
+              --notes "Asset ${STATE_ASSET}: indice + testi estratti. Rigenerato a ogni run dal workflow, non modificare a mano." \
+              --latest=false
+          gh release upload "${STATE_TAG}" "/tmp/${STATE_ASSET}" --clobber
+
       - name: Setup Node.js per Dashboard-v2
         uses: actions/setup-node@v4
         with:
@@ -65,43 +200,60 @@ jobs:
 
       - name: Build Dashboard-v2
         env:
+          # Invariato: v2/ resta allo stesso path pubblico.
           VITE_BASE_PATH: /${{ github.event.repository.name }}/v2/
         run: |
           cd dashboard-v2
           npm install
           npm run build
 
-      - name: Sync Dashboard Build to v2 folder
+      # ------------------------------------------------------------------
+      # Albero pubblicato — identico a quello servito prima dal branch:
+      #   /index.html      redirect a v2/
+      #   /v2/**           build della SPA
+      #   /data/**         letto a runtime: new URL('../data', href)
+      #   /data.tar.gz     snapshot = fallback di ripristino del run dopo
+      # .nojekyll non serve: con source "GitHub Actions" non gira Jekyll.
+      # ------------------------------------------------------------------
+      - name: Assemblaggio directory del sito
         run: |
-          echo "Cleaning up v2 directory..."
-          rm -rf v2
-          mkdir -p v2
-          echo "Copying build artifacts..."
-          cp -r dashboard-v2/dist/* v2/
-          echo "Creating .nojekyll flag..."
-          touch .nojekyll
-          echo "Verifying v2 contents:"
-          ls -R v2
+          set -euo pipefail
+          rm -rf _site
+          mkdir -p _site/v2
+          cp index.html             _site/index.html
+          cp -r dashboard-v2/dist/. _site/v2/
+          cp -r data                _site/data
+          cp "/tmp/${STATE_ASSET}"  "_site/${STATE_ASSET}"
 
-      - name: Commit e Push delle modifiche generate
+      # GUARDIA 2: mai pubblicare un sito vuoto o senza dati.
+      - name: Validazione sito assemblato
         run: |
-          CURRENT_DATE_DIR=$(date -u +%Y/%m/%d)
+          set -euo pipefail
+          test -s _site/index.html
+          test -s _site/v2/index.html
+          ls _site/v2/assets/*.js > /dev/null
+          test -s _site/v2/region_config.json
+          jq -e '.documents | length > 0' _site/data/documents_index.json > /dev/null
+          test -s "_site/${STATE_ASSET}"
+          echo "Dimensione sito: $(du -sh _site | cut -f1)"
 
-          git config user.name "GitHub Actions Bot"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Upload artifact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
-          # Stage everything, explicitly including v2 and .nojekyll
-          git add .
-          git add v2/
-          git add .nojekyll
-
-          # Verifica se ci sono modifiche prima di committare
-          if ! git diff --staged --quiet; then
-            # FIX: Prima committiamo, POI facciamo pull --rebase, Infine push
-            # Questo evita l'errore "cannot pull with rebase: Your index contains uncommitted changes"
-            git commit -m "Aggiornamento documenti istituzionali ${CURRENT_DATE_DIR} [skip ci]"
-            git pull --rebase
-            git push
-          else
-            echo "Nessuna modifica da committare."
-          fi
+  deploy:
+    # Se un qualsiasi gate di `build` fallisce, questo job resta skipped:
+    # online rimane l'ultimo sito buono.
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy su GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

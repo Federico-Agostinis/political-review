@@ -1,11 +1,13 @@
 """
 Raccolta documenti istituzionali e estrazione del testo.
 
-Sei sorgenti, cinque strategie:
+Sette sorgenti, sei strategie:
   - "liferay"       -> Osservatorio Veneto Lavoro (HTML server-rendered, accordion)
   - "padova_jsonapi"-> Comune di Padova, pagina "Lavori del Consiglio comunale"
                        (il sito e' una SPA Angular senza SSR: si passa dalla
                         JSON:API Drupal /api/entity?path=...)
+  - "padova_delibere_nsf" -> Comune di Padova, registro Lotus Domino delle
+                       delibere esecutive: testo integrale di ogni atto in .doc
   - "wp_rest"       -> Unioncamere del Veneto e Confindustria Veneto Est, entrambi
                        WordPress con REST API aperta. Confindustria espone il suo
                        backend headless su content.confindustriavenest.it (il sito
@@ -14,10 +16,12 @@ Sei sorgenti, cinque strategie:
                        per anno, nessun HTML da parsare.
   - "albo_padova"   -> Provincia di Padova, albo pretorio (lista -> dettaglio -> PDF)
 
-Il testo di un documento arriva per due vie alternative:
+Il testo di un documento arriva per tre vie alternative:
   - PDF scaricato ed estratto (extract_pdf_text), il caso normale;
   - testo gia' presente nella risposta API (write_inline_text), usato per i
-    comunicati Confindustria, che sono HTML e non hanno alcun PDF allegato.
+    comunicati Confindustria, che sono HTML e non hanno alcun PDF allegato;
+  - allegato .doc Word 97-2003 (extract_doc_text), usato dalle delibere del
+    Consiglio comunale: il registro Domino non pubblica PDF dell'atto.
 
 Scrive data/documents_index.json e il testo estratto in data/documents/<source_id>/<slug>.txt.
 I PDF vengono scaricati in una directory temporanea e mai lasciati nel repo:
@@ -32,12 +36,15 @@ import html
 import json
 import os
 import re
+import ssl
+import struct
 import sys
 import tempfile
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
+import olefile
 import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
@@ -83,6 +90,23 @@ SOURCES = [
         "strategy": "padova_jsonapi",
         "url": "https://www.comune.padova.it/api/entity?path=/lavori-del-consiglio-comunale-{year}",
         "page_url": "https://www.comune.padova.it/lavori-del-consiglio-comunale-{year}",
+    },
+    {
+        # source_id separato da "comune_padova" di proposito: il cap di
+        # save_index() e' per source_id, e le delibere (~100/anno) altrimenti
+        # spingerebbero fuori verbali e odg dallo stesso secchio da 200.
+        # Per la dashboard resta un solo ente: raggruppa su "source".
+        "source_id": "comune_padova_delibere",
+        "collana": "Deliberazioni di Consiglio",
+        "doc_type": "delibera",
+        "source": "Comune di Padova",
+        "topic": "Politica locale",
+        "zone": "Padova",
+        "strategy": "padova_delibere_nsf",
+        # Registro Lotus Domino delle delibere esecutive: la vista elenca 30
+        # righe per pagina e linka il testo integrale di ogni atto come .doc.
+        "url": "https://serviziweb4.comune.padova.it/Percorsi/DelibereEsecutivePadova.nsf/DelibereConsiglioEsecutive?OpenView",
+        "max_pages": 3,
     },
     {
         "source_id": "unioncamere_veneto",
@@ -140,18 +164,20 @@ SOURCES = [
         # Etichette come compaiono in lista (nel menu a tendina sono diverse:
         # li' le ordinanze sono "ORDINANZE"). Tutto il resto e' rumore
         # tecnico-contabile: le determine dirigenziali da sole sono meta' dell'albo.
+        # La lookup e' esatta: un tipo assente da questo dict viene scartato.
         "tipi": {
-            "DECRETO PRESIDENTE": "decreto_presidente",
             "OD ORDINANZA DIRIGENTE": "ordinanza",
         },
     },
 ]
 
 # Prefisso del nome file -> doc_type. I verbali arrivano circa un mese dopo la
-# seduta, le delibere approvate qualche giorno dopo: non esiste sempre la terna.
+# seduta, l'ordine del giorno prima: non esiste sempre la coppia.
+# Gli "Approvate_*.pdf" non sono qui di proposito: erano una tabella di una
+# pagina (~1700 caratteri, niente relatore ne' voti), sostituita dal testo
+# integrale dei singoli atti raccolto dalla strategia "padova_delibere_nsf".
 PADOVA_DOC_TYPES = [
     ("elenco_argomenti", "odg"),
-    ("approvate", "delibere_approvate"),
     ("verbale_cc", "verbale"),
 ]
 
@@ -322,7 +348,6 @@ def fetch_padova(source: dict, backfill_years: int) -> list:
         for (doc_type, date), (filename, pdf_url) in best.items():
             label = {
                 "odg": "Ordine del giorno",
-                "delibere_approvate": "Delibere approvate",
                 "verbale": "Verbale della seduta",
             }[doc_type]
 
@@ -337,6 +362,108 @@ def fetch_padova(source: dict, backfill_years: int) -> list:
             })
 
         print(f"   📄 {target_year}: {len(best)} documenti rilevanti")
+
+    return found
+
+
+class _LegacyTLSAdapter(requests.adapters.HTTPAdapter):
+    """Il server Domino del Comune negozia una chiave Diffie-Hellman corta che
+    OpenSSL 3 rifiuta di default ("dh key too small"). SECLEVEL=1 e' il minimo
+    che funziona: con 2 l'handshake fallisce, 0 non serve. L'abbassamento resta
+    confinato a questa sessione, non tocca le altre fonti: e' un sito pubblico
+    interrogato in sola lettura, senza credenziali."""
+
+    def init_poolmanager(self, *args, **kwargs):
+        ctx = ssl.create_default_context()
+        ctx.set_ciphers("DEFAULT@SECLEVEL=1")
+        kwargs["ssl_context"] = ctx
+        return super().init_poolmanager(*args, **kwargs)
+
+
+def legacy_tls_session() -> requests.Session:
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    session.mount("https://", _LegacyTLSAdapter())
+    return session
+
+
+def fetch_padova_delibere(source: dict) -> list:
+    """Comune di Padova, registro Domino delle delibere esecutive.
+
+    Sostituisce gli "Approvate_*.pdf", che erano una tabella di una pagina senza
+    relatore ne' voti: qui ogni riga linka il testo integrale dell'atto (oggetto,
+    discussione, esito nominale della votazione).
+
+    Una sola richiesta per pagina di vista: il link al .doc sta gia' nella riga,
+    la pagina "?OpenDocument" e' soltanto un meta-refresh verso quel file."""
+    found = []
+    session = legacy_tls_session()
+    min_year = datetime.now(timezone.utc).year - source.get("backfill_years", 0)
+
+    for page in range(source.get("max_pages", 3)):
+        # La vista pagina a blocchi di 30 partendo da 1, non da 0.
+        start = page * 30 + 1
+        resp = session.get(source["url"], params={"Start": start}, timeout=TIMEOUT)
+        resp.raise_for_status()
+        # HTML Domino anni '90: dichiarato ISO-8859, non UTF-8.
+        soup = BeautifulSoup(resp.content.decode("latin-1", errors="replace"), "html.parser")
+
+        rows = 0
+        for tr in soup.find_all("tr"):
+            cells = tr.find_all("td")
+            # Le tabelle sono annidate: senza il filtro sul numero di celle la
+            # riga esterna catturerebbe in blocco i link di tutte le righe.
+            if len(cells) != 6:
+                continue
+            texts = [" ".join(c.get_text(" ", strip=True).split()) for c in cells]
+            ncron = texts[4]
+            if not re.fullmatch(r"\d{4}/\d{4}", ncron):
+                continue
+
+            doc_link = next(
+                (a for a in tr.find_all("a", href=True) if a["href"].lower().endswith(".doc")),
+                None,
+            )
+            if not doc_link:
+                # Delibera senza allegato testuale: senza .doc non c'e' nulla da
+                # estrarre, l'oggetto da solo non vale un documento.
+                continue
+
+            # ATTENZIONE: la vista usa il formato americano MM/DD/YYYY, mentre
+            # parse_date legge DD/MM/YYYY. Va convertita qui, altrimenti ogni
+            # data fino al giorno 12 risulterebbe sbagliata ma plausibile.
+            us = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", texts[1])
+            date = parse_date(f"{us.group(3)}-{us.group(1)}-{us.group(2)}" if us else None)
+            # Si filtra sulla data di delibera, non sulla prima colonna: la vista
+            # e' ordinata per esecutivita', che cade anche settimane dopo il voto.
+            if int(date[:4]) < min_year:
+                continue
+
+            settori = texts[2]
+            # La cella del relatore ripete in coda il settore: "Andrea Ragona
+            # Settore Urbanistica..." -> resta il solo nome.
+            relatore = texts[3]
+            if settori and relatore.endswith(settori):
+                relatore = relatore[: -len(settori)].strip()
+
+            oggetto = texts[5].rstrip(".")
+            found.append({
+                "title": f"Delibera CC {ncron} — {oggetto[:150]}",
+                "link": requests.compat.urljoin(source["url"], doc_link["href"]),
+                "date": date,
+                "doc_type": source["doc_type"],
+                "abstract": " — ".join(p for p in (relatore, settori, oggetto) if p)[:2000] or None,
+                "slug": slugify(f"delibera_cc_{ncron}_{oggetto[:60]}"),
+                # Il .doc non e' navigabile: si punta alla scheda del registro.
+                "page_url": requests.compat.urljoin(source["url"], cells[5].find("a")["href"]),
+                # Instrada su extract_doc_text: non e' un PDF.
+                "content_kind": "doc",
+            })
+            rows += 1
+
+        print(f"   📄 Start={start}: {rows} delibere")
+        if not rows:
+            break
 
     return found
 
@@ -494,8 +621,7 @@ def fetch_albo_padova(source: dict) -> list:
 
             oggetto = (oggetto_match.group(1).strip() if oggetto_match else "").rstrip(".")
             numero = numero_match.group(1) if numero_match else ""
-            label = "Decreto del Presidente" if doc_type == "decreto_presidente" else "Ordinanza"
-            title = f"{label} — {oggetto[:150]}" if oggetto else f"{label} albo n. {numero}"
+            title = f"Ordinanza — {oggetto[:150]}" if oggetto else f"Ordinanza albo n. {numero}"
 
             detail_url = requests.compat.urljoin(source["url"], detail.get("href", ""))
             try:
@@ -563,6 +689,84 @@ def extract_pdf_text(pdf_url: str, dest: Path) -> dict:
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(text, encoding="utf-8")
     return {"extraction_status": "ok", "pages": pages, "chars": len(text)}
+
+
+def _doc_to_text(raw: bytes) -> str:
+    """Testo da un .doc Word 97-2003 (contenitore OLE).
+
+    Il testo non e' contiguo nello stream "WordDocument": va ricomposto pezzo per
+    pezzo seguendo la piece table (plcPcd), che sta in uno dei due table stream.
+    Si evita cosi' una dipendenza di sistema (antiword/catdoc/LibreOffice) per
+    l'unica fonte che non pubblica PDF."""
+    with tempfile.TemporaryDirectory() as tmpdir:
+        tmp_doc = Path(tmpdir) / "doc.doc"
+        tmp_doc.write_bytes(raw)
+        ole = olefile.OleFileIO(str(tmp_doc))
+        try:
+            wd = ole.openstream("WordDocument").read()
+            # Il bit 0x0200 dei flag della FIB dice quale table stream e' valido.
+            flags = struct.unpack_from("<H", wd, 0x0A)[0]
+            table_name = "1Table" if flags & 0x0200 else "0Table"
+            if not ole.exists(table_name):
+                raise ValueError(f"stream {table_name} assente")
+            table = ole.openstream(table_name).read()
+            fc_clx, lcb_clx = struct.unpack_from("<II", wd, 0x01A2)
+            clx = table[fc_clx:fc_clx + lcb_clx]
+        finally:
+            ole.close()
+
+    # Il Clx e' una sequenza di Prc (marker 0x01) seguita dal Pcdt (marker 0x02).
+    pos = 0
+    while pos < len(clx) and clx[pos] == 0x01:
+        pos += 3 + struct.unpack_from("<H", clx, pos + 1)[0]
+    if pos >= len(clx) or clx[pos] != 0x02:
+        raise ValueError("piece table non trovata")
+
+    lcb = struct.unpack_from("<I", clx, pos + 1)[0]
+    plc = clx[pos + 5:pos + 5 + lcb]
+    count = (len(plc) - 4) // 12
+    cps = struct.unpack_from(f"<{count + 1}I", plc, 0)
+
+    chunks = []
+    for i in range(count):
+        fc = struct.unpack_from("<I", plc, 4 * (count + 1) + 8 * i + 2)[0]
+        length = cps[i + 1] - cps[i]
+        # Bit 30 acceso: testo compresso in cp1252, un byte per carattere.
+        if fc & 0x40000000:
+            offset = (fc & ~0x40000000) // 2
+            chunks.append(wd[offset:offset + length].decode("cp1252", errors="replace"))
+        else:
+            chunks.append(wd[fc:fc + length * 2].decode("utf-16-le", errors="replace"))
+
+    text = "".join(chunks)
+    # \r = fine paragrafo, \x07 = fine cella di tabella, \x0b = a capo forzato.
+    text = text.replace("\r", "\n").replace("\x07", "\n").replace("\x0b", "\n")
+    # Restano i marcatori di campo, note e ancore immagine.
+    return "".join(ch for ch in text if ch >= " " or ch in "\n\t").strip()
+
+
+def extract_doc_text(doc_url: str, dest: Path, session: requests.Session) -> dict:
+    """Come extract_pdf_text ma per gli allegati .doc del registro Domino.
+    pages=0 come in write_inline_text: il formato non espone un conteggio."""
+    try:
+        resp = session.get(doc_url, timeout=TIMEOUT)
+        resp.raise_for_status()
+    except Exception as exc:
+        print(f"      ❌ download fallito: {exc}")
+        return {"extraction_status": "failed", "pages": 0, "chars": 0}
+
+    try:
+        text = _doc_to_text(resp.content)
+    except Exception as exc:
+        print(f"      ❌ estrazione .doc fallita: {exc}")
+        return {"extraction_status": "failed", "pages": 0, "chars": 0}
+
+    if not text:
+        return {"extraction_status": "empty", "pages": 0, "chars": 0}
+
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(text, encoding="utf-8")
+    return {"extraction_status": "ok", "pages": 0, "chars": len(text)}
 
 
 def write_inline_text(text: str, dest: Path) -> dict:
@@ -659,6 +863,7 @@ def main():
             strategies = {
                 "liferay": lambda s: fetch_liferay(s),
                 "padova_jsonapi": lambda s: fetch_padova(s, args.backfill_years),
+                "padova_delibere_nsf": lambda s: fetch_padova_delibere(s),
                 "wp_rest": lambda s: fetch_wp_rest(s),
                 "bankitalia": lambda s: fetch_bankitalia(s),
                 "albo_padova": lambda s: fetch_albo_padova(s),
@@ -670,6 +875,10 @@ def main():
         except Exception as exc:
             # Fail-safe: una fonte morta non deve fermare le altre.
             print(f"   ⚠️  Sorgente non raggiungibile, la salto: {exc}")
+
+    # Sessione riusata per tutti i .doc: l'host del registro Domino richiede
+    # l'handshake TLS permissivo (vedi legacy_tls_session).
+    doc_session = legacy_tls_session()
 
     new_count = 0
     for source, item in candidates:
@@ -684,9 +893,12 @@ def main():
         text_rel = f"{source['source_id']}/{item['slug']}.txt"
         dest = DOCUMENTS_TEXT_DIR / text_rel
         # Le fonti HTML (comunicati Confindustria) portano gia' il testo con se':
-        # non c'e' nessun PDF da scaricare.
+        # non c'e' nessun PDF da scaricare. Le delibere del Comune allegano un
+        # .doc, non un PDF, e vivono su un host che vuole la sessione TLS legacy.
         if item.get("text"):
             result = write_inline_text(item["text"], dest)
+        elif item.get("content_kind") == "doc":
+            result = extract_doc_text(item["link"], dest, doc_session)
         else:
             result = extract_pdf_text(item["link"], dest)
 
