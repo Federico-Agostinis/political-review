@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-10T06:15:12Z",
-  "total": 264,
+  "generated_at": "2026-08-11T05:57:34Z",
+  "total": 265,
   "stats": {
     "by_source": {
-      "provincia_padova": 21,
+      "provincia_padova": 22,
       "unioncamere_veneto": 52,
       "confindustria_veneto_est": 100,
       "comune_padova": 77,
@@ -11,7 +11,7 @@
       "banca_italia": 4
     },
     "by_doc_type": {
-      "ordinanza": 4,
+      "ordinanza": 5,
       "decreto_presidente": 17,
       "report_economico": 56,
       "comunicato_industria": 100,
@@ -24,10 +24,41 @@
     "enriched": 0,
     "date_range": {
       "first": "2022-04-29 00:00:00",
-      "last": "2026-08-04 00:00:00"
+      "last": "2026-08-11 00:00:00"
     }
   },
   "documents": [
+    {
+      "content_hash": "e124582c54a0",
+      "title": "Ordinanza — ORDINANZA PER L'INTERRUZIONE TOTALE AL PUBBLICO TRANSITO DELLA SP 72 \"SEMENTINA\" PER LAVORI DI RIFACIMENTO DELLACONDOTTA IDRICA E DEGLI ALLACCIAMENTI ",
+      "link": "https://attiweb.provincia.padova.it/AlboOnline/download/albo/2768537?fId=2768537",
+      "date": "2026-08-11 00:00:00",
+      "source": "Provincia di Padova",
+      "topic": "Politica locale",
+      "zone": "Padova",
+      "source_id": "provincia_padova",
+      "collana": "Albo pretorio",
+      "doc_type": "ordinanza",
+      "page_url": "https://attiweb.provincia.padova.it/AlboOnline/dettaglioAlbo/2502664",
+      "text_path": "documents/provincia_padova/ordinanza_1360_2026_ordinanza_per_l_interruzione_totale_al_pubblico_transito_del.txt",
+      "pages": 3,
+      "chars": 8046,
+      "extraction_status": "ok",
+      "scraped_at": "2026-08-11T05:57:34Z",
+      "abstract": "ORDINANZA PER L'INTERRUZIONE TOTALE AL PUBBLICO TRANSITO DELLA SP 72 \"SEMENTINA\" PER LAVORI DI RIFACIMENTO DELLACONDOTTA IDRICA E DEGLI ALLACCIAMENTI IN COMUNE DI VEGGIANO",
+      "summary": null,
+      "key_points": [],
+      "figures": [],
+      "decisions": [],
+      "interventions": [],
+      "entities": {
+        "people": [],
+        "organizations": [],
+        "locations": []
+      },
+      "enriched_at": null,
+      "enriched_by": null
+    },
     {
       "content_hash": "4840f09a8e17",
       "title": "Ordinanza — RIAPERTURA SOTTOPASSO  SP 52 IN COMUNE DI SAN MARTINO DI  LUPARI (PD)",
