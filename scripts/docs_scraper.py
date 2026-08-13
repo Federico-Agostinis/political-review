@@ -41,7 +41,7 @@ import struct
 import sys
 import tempfile
 import unicodedata
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import olefile
@@ -816,10 +816,48 @@ def build_stats(documents: list) -> dict:
     }
 
 
+# doc_type con cadenza annuale o quasi: un cutoff per età rischierebbe di
+# azzerare la fonte in attesa della prossima uscita (es. Banca d'Italia
+# pubblica un solo report_economico l'anno). Restano soggetti solo al cap
+# per conteggio di MAX_PER_SOURCE.
+AGE_CUTOFF_EXEMPT_TYPES = {"report_economico", "bollettino", "misure"}
+MAX_DOCUMENT_AGE_DAYS = 365
+
+
+def prune_by_age(documents: list) -> list:
+    """Rimuove i documenti pubblicati da più di un anno (tranne gli
+    AGE_CUTOFF_EXEMPT_TYPES) e il relativo testo estratto, per non far
+    accumulare all'infinito atti che dopo un anno non sono più attuali."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_DOCUMENT_AGE_DAYS)
+    kept, dropped = [], []
+
+    for doc in documents:
+        if doc.get("doc_type") in AGE_CUTOFF_EXEMPT_TYPES:
+            kept.append(doc)
+            continue
+        try:
+            doc_date = datetime.strptime(doc["date"][:19], "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+        except (ValueError, KeyError, TypeError):
+            kept.append(doc)  # data illeggibile: meglio un falso negativo che perdere il documento
+            continue
+        (kept if doc_date >= cutoff else dropped).append(doc)
+
+    for doc in dropped:
+        text_path = doc.get("text_path")
+        if text_path:
+            (DOCUMENTS_TEXT_DIR.parent / text_path).unlink(missing_ok=True)
+
+    if dropped:
+        print(f"   🗑️  Rimossi {len(dropped)} documenti più vecchi di {MAX_DOCUMENT_AGE_DAYS} giorni")
+
+    return kept
+
+
 def save_index(documents: list):
+    documents = prune_by_age(documents)
     documents.sort(key=lambda d: d.get("date", ""), reverse=True)
 
-    # Cap per conteggio e per sorgente, mai per età.
+    # Cap per conteggio e per sorgente, mai per età (oltre al cutoff sopra).
     capped, seen = [], {}
     for doc in documents:
         sid = doc["source_id"]

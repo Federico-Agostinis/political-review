@@ -39,7 +39,7 @@ logger = logging.getLogger(__name__)
 DOCUMENTS_INDEX = project_settings.DOCUMENTS_INDEX
 DOCUMENTS_TEXT_DIR = project_settings.DOCUMENTS_TEXT_DIR
 
-MODEL_TAG = "gemini-2.0-flash-lite"
+MODEL_TAG = "gemini-2.5-flash-lite"
 
 # Il collo di bottiglia sui verbali e' l'output, non l'input: 57 pagine sono
 # ~50k token, ben dentro il contesto del modello. Serve invece spazio in uscita.
