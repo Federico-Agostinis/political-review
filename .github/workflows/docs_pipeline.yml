@@ -161,12 +161,15 @@ jobs:
           enr=$(jq -r '[.documents[] | select(.summary)] | length' data/documents_index.json)
 
           [ "$total" = "$decl" ] || { echo "::error::Indice incoerente: total=$decl, documents=$total"; exit 1; }
-          # L'indice non può rimpicciolirsi: MAX_DOCUMENTS_PER_SOURCE cappa per
-          # fonte, ma il totale resta al cap, non scende.
-          [ "$total" -ge "$BEFORE_TOTAL" ] || { echo "::error::Regressione indice: $BEFORE_TOTAL -> $total"; exit 1; }
-          [ "$txt" -ge "$BEFORE_TXT" ]     || { echo "::error::Regressione testi: $BEFORE_TXT -> $txt"; exit 1; }
+          # L'indice può ridursi: prune_by_age() in docs_scraper.py rimuove i
+          # documenti più vecchi di 1 anno (fuori dai doc_type periodici esenti).
+          # Il guardrail reale contro corruzione/troncamento resta MIN_DOCS,
+          # già verificato al ripristino: qui un calo diventa solo un warning.
+          [ "$total" -ge "${MIN_DOCS}" ] || { echo "::error::Indice sotto soglia dopo il run: $total < ${MIN_DOCS}. Nessun deploy."; exit 1; }
+          [ "$total" -ge "$BEFORE_TOTAL" ] || echo "::warning::Indice ridotto rispetto al run precedente: $BEFORE_TOTAL -> $total (prune per età o cap per sorgente)"
+          [ "$txt" -ge "$BEFORE_TXT" ]     || echo "::warning::Testi ridotti rispetto al run precedente: $BEFORE_TXT -> $txt (prune per età)"
 
-          echo "OK: $total documenti (+$((total - BEFORE_TOTAL))), $txt testi, $enr arricchiti"
+          echo "OK: $total documenti ($((total - BEFORE_TOTAL))), $txt testi, $enr arricchiti"
 
       - name: Creazione snapshot dello stato
         run: |
