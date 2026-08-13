@@ -295,8 +295,20 @@ def main():
         d for d in documents
         if not d.get("summary")
         and d.get("extraction_status") == "ok"
+        and d.get("doc_type") in PROMPTS
         and (not args.doc_type or d.get("doc_type") == args.doc_type)
     ]
+    orphaned = {
+        d.get("doc_type") for d in documents
+        if not d.get("summary") and d.get("extraction_status") == "ok" and d.get("doc_type") not in PROMPTS
+    }
+    if orphaned:
+        # Doc_type senza prompt (es. una fonte deprecata di proposito, tipo
+        # "decreto_presidente" dopo che provincia_padova e' stata ristretta
+        # alle sole ordinanze): restano orfani per sempre, ma senza questo
+        # filtro rientrerebbero in pending a ogni run bruciando uno slot di
+        # --limit su un fallimento garantito.
+        print(f"⏭️  doc_type senza prompt, esclusi dalla coda: {sorted(orphaned)}")
     print(f"🤖 {len(pending)} documenti da arricchire, ne processo max {args.limit}")
 
     done = 0
