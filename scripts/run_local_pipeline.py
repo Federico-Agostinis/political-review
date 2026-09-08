@@ -57,6 +57,13 @@ def main():
     run_command(f"{sys.executable} scripts/docs_scraper.py", ignore_errors=True)
     run_command(f"{sys.executable} scripts/enrich_docs.py --limit 10", ignore_errors=True)
 
+    # Notifica email dei documenti nuovi. Senza MAIL_TO/SMTP_USER/SMTP_PASSWORD
+    # (env o .env) esce senza fare nulla. Attenzione: il registro degli invii
+    # locale (data/notified_docs.json del working tree) e' distinto da quello
+    # che gira in CI dentro data.tar.gz, quindi con SMTP configurato in locale
+    # si possono ricevere documenti gia' notificati dalla pipeline su Actions.
+    run_command(f"{sys.executable} scripts/notify_email.py", ignore_errors=True)
+
     # 3. Git Commit & Push
     print("\n=== Git Operations ===")
     run_command("git add .")

@@ -141,6 +141,29 @@ jobs:
         continue-on-error: true
 
       # ------------------------------------------------------------------
+      # NOTIFICA EMAIL dei documenti nuovi. Deve stare PRIMA dello snapshot:
+      # il registro degli invii (data/notified_docs.json) entra nel tarball
+      # come l'indice, altrimenti il run successivo lo troverebbe assente,
+      # lo reinizializzerebbe e non manderebbe mai niente.
+      # Va dopo l'arricchimento perché la mail riporta la sintesi Gemini:
+      # un documento non ancora arricchito attende fino a 48h (poi parte con
+      # l'abstract della fonte, lo stesso fallback della dashboard).
+      # Senza i secret SMTP lo script esce 0 senza fare nulla.
+      # ------------------------------------------------------------------
+      - name: Notifica email documenti nuovi (opzionale)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+        run: python scripts/notify_email.py
+        timeout-minutes: 5
+        continue-on-error: true
+
+      # ------------------------------------------------------------------
       # GUARDIA 1: lo stato non deve essere regredito né corrotto.
       # Gli step sopra sono continue-on-error, quindi possono essere stati
       # uccisi a metà di json.dump() lasciando un indice troncato (save_index
